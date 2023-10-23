@@ -1,0 +1,343 @@
+﻿[Script Info]
+Title: English (US)
+ScaledBorderAndShadow: yes
+Original Script: ntv  [http://www.crunchyroll.com/user/ntv]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: flashback italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: overlap,Trebuchet MS,24,&H007FD3F2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: overlaptop,Trebuchet MS,24,&H007FD3F2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: overlap italics,Trebuchet MS,24,&H007FD3F2,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Ep_Title,Times New Roman,18,&H00FFFFFF,&H000000FF,&HD2000000,&HD2000000,0,0,0,0,100,100,0,0,1,1,1,3,0018,0043,0056,0
+Style: Next_Time,Times New Roman,22,&H00FFFFFF,&H000000FF,&HD2000000,&HD2000000,0,0,0,0,100,100,0,0,1,1,1,7,0036,0018,0043,0
+Style: Next_Ep_Title,Times New Roman,20,&H00FFFFFF,&H000000FF,&HBE000000,&HBE000000,0,0,0,0,100,100,0,0,1,1,1,3,0018,0037,0051,0
+Style: Title,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000099,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0018,0018,0018,0
+Style: Fiction_Disclaimer,Arial,10,&H00FFFFFF,&H000000FF,&H90000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,0143,0018,0049,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.56,0:00:08.36,Title,Title,0000,0000,0000,,{\blur3\c&HFFFFFF&\1a&HFF&\3c&HFFFFFF&\3a&H55&\ko30\2a&HFF&}The {\ko30}Apothecary {\blur0.8\bord0\shad0\c&HFFFFFF&\1a&H00&\ko30}Diaries
+Dialogue: 1,0:00:08.36,0:00:15.41,Title,Title,0000,0000,0000,,{\blur3\fad(600,1)}The Apothecary {\blur0\bord0\shad0\c&H000000&}Diaries
+Dialogue: 0,0:01:29.98,0:01:31.94,Fiction_Disclaimer,Text,0000,0000,0000,,{\blur1}This story is a work of fiction. The names of all of the characters, organizations, and so on\N are imaginary. It also bears no connection to any specific real-life events.
+Dialogue: 0,0:01:32.15,0:01:36.15,Ep_Title,Episode Title,0000,0000,0000,,{\fad(490,435)\fs20\fsp0.9\blur1\pos(599,304)}Episode 2: Chilly Apothecary
+Dialogue: 0,0:01:41.33,0:01:42.26,Default,Soldier A,0000,0000,0000,,Hey!
+Dialogue: 0,0:01:44.51,0:01:45.62,Default,Soldier A,0000,0000,0000,,It's poison!
+Dialogue: 0,0:01:47.54,0:01:49.99,Default,Soldier B,0000,0000,0000,,Damn you! Who's behind this?!
+Dialogue: 0,0:01:51.03,0:01:52.17,Default,Officer,0000,0000,0000,,Wait.
+Dialogue: 0,0:01:53.20,0:01:55.21,Default,Officer,0000,0000,0000,,Tend to the soldiers first.
+Dialogue: 0,0:02:04.68,0:02:05.39,Default,Jinshi,0000,0000,0000,,Poison?
+Dialogue: 0,0:02:05.39,0:02:08.63,Default,Gaoshun,0000,0000,0000,,The food was cooked by the villagers.
+Dialogue: 0,0:02:08.63,0:02:12.80,Default,Gaoshun,0000,0000,0000,,The village leader has been put into \Ncustody for aiding the barbarians.
+Dialogue: 0,0:02:12.80,0:02:14.12,Default,Gaoshun,0000,0000,0000,,Please advise.
+Dialogue: 0,0:02:14.12,0:02:17.25,Default,Jinshi,0000,0000,0000,,Understood. Give me a moment.
+Dialogue: 0,0:02:17.25,0:02:18.05,Default,Gaoshun,0000,0000,0000,,As you wish.
+Dialogue: 0,0:02:19.29,0:02:20.45,Default,Gaoshun,0000,0000,0000,,By the way...
+Dialogue: 0,0:02:20.77,0:02:25.16,Default,Gaoshun,0000,0000,0000,,I heard you hired a new lady-in-waiting \Nto serve Concubine Gyokuyou.
+Dialogue: 0,0:02:25.16,0:02:28.87,Default,Jinshi,0000,0000,0000,,Yes. Concubine Gyokuyou \Nhas only four women serving her.
+Dialogue: 0,0:02:29.44,0:02:31.31,Default,Jinshi,0000,0000,0000,,It's too few compared to Concubine Lihua,
+Dialogue: 0,0:02:31.31,0:02:34.42,Default,Jinshi,0000,0000,0000,,who also high-ranking and has over ten.
+Dialogue: 0,0:02:35.21,0:02:38.47,Default,Jinshi,0000,0000,0000,,It hurts her dignity as\N a high-ranking concubine.
+Dialogue: 0,0:02:38.47,0:02:43.28,Default,Gaoshun,0000,0000,0000,,Yes. However, Concubine Gyokuyou\N is not just bright and gentle,
+Dialogue: 0,0:02:43.28,0:02:45.60,Default,Gaoshun,0000,0000,0000,,but also wise and cautious.
+Dialogue: 0,0:02:46.70,0:02:50.10,Default,Jinshi,0000,0000,0000,,She would never hire \Nsomeone of unknown origin.
+Dialogue: 0,0:02:50.94,0:02:55.17,Default,Jinshi,0000,0000,0000,,Being constantly wary of \Neveryone around them
+Dialogue: 0,0:02:55.17,0:02:57.48,Default,Jinshi,0000,0000,0000,,is the only way an emperor's \Nconcubine can survive.
+Dialogue: 0,0:02:57.88,0:03:00.24,Default,Gaoshun,0000,0000,0000,,And who is this new lady-in-waiting?
+Dialogue: 0,0:03:01.58,0:03:04.75,Default,Jinshi,0000,0000,0000,,Gaoshun, I found just the right pawn.
+Dialogue: 0,0:03:05.65,0:03:07.79,Default,Jinshi,0000,0000,0000,,It's that freckled servant girl.
+Dialogue: 0,0:03:10.19,0:03:13.62,Default,Jinshi,0000,0000,0000,,Her knowledge of medicine \Nis too valuable to pass up.
+Dialogue: 0,0:03:13.62,0:03:17.47,Default,Gaoshun,0000,0000,0000,,I see. But if she were to abuse \Nthat knowledge...
+Dialogue: 0,0:03:18.57,0:03:21.42,Default,Jinshi,0000,0000,0000,,I'll make sure she can't do that.
+Dialogue: 0,0:03:21.42,0:03:22.80,Default,Jinshi,0000,0000,0000,,It should be easy.
+Dialogue: 0,0:03:23.66,0:03:26.69,italics,Jinshi,0000,0000,0000,,I suppose I should seduce\N her a little, just in case.
+Dialogue: 0,0:03:29.31,0:03:32.45,Default,Xiaolan,0000,0000,0000,,It's so cool that you get to serve \Na high-ranking concubine.
+Dialogue: 0,0:03:32.45,0:03:34.65,Default,Maomao,0000,0000,0000,,Ugh, I really didn't want to.
+Dialogue: 0,0:03:40.06,0:03:43.50,Default,Jinshi,0000,0000,0000,,Apothecary. Are you ready to move?
+Dialogue: 0,0:03:43.50,0:03:46.69,Default,Maomao,0000,0000,0000,,Yes, I'm on my way to the Jade Pavilion soon.
+Dialogue: 0,0:03:46.69,0:03:48.34,Default,Maomao,0000,0000,0000,,Did you need something?
+Dialogue: 0,0:03:48.34,0:03:50.00,Default,Jinshi,0000,0000,0000,,No, nothing.
+Dialogue: 0,0:03:50.31,0:03:51.06,Default,Maomao,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:52.35,0:03:54.88,italics,Maomao,0000,0000,0000,,Why's he here, then? Nothing better to do?
+Dialogue: 0,0:03:58.63,0:04:01.92,Default,Jinshi,0000,0000,0000,,Be sure to serve Concubine Gyokuyou well.
+Dialogue: 0,0:04:06.40,0:04:07.81,Default,Maomao,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:04:09.36,0:04:10.81,Default,Xiaolan,0000,0000,0000,,Good luck, Maomao!
+Dialogue: 0,0:04:14.48,0:04:16.31,Default,Maomao,0000,0000,0000,,Ew, gross...
+Dialogue: 0,0:04:20.39,0:04:22.20,Default,Hongniang,0000,0000,0000,,Are you Maomao?
+Dialogue: 0,0:04:22.20,0:04:23.53,Default,Maomao,0000,0000,0000,,Oh, yes.
+Dialogue: 0,0:04:24.00,0:04:27.95,Default,Hongniang,0000,0000,0000,,I am Hongniang, \Nhead lady-in-waiting for Lady Gyokuyou.
+Dialogue: 0,0:04:28.73,0:04:31.83,Default,Hongniang,0000,0000,0000,,For starters, I'll show you around \Nthe Jade Pavilion. Follow me.
+Dialogue: 0,0:04:32.38,0:04:33.54,Default,Maomao,0000,0000,0000,,Yes.
+Dialogue: 0,0:04:37.66,0:04:42.92,Default,Gyokuyou,0000,0000,0000,,Welcome to the Jade Pavilion. \NI've been waiting for you, Maomao.
+Dialogue: 0,0:04:44.67,0:04:46.93,Default,Gyokuyou,0000,0000,0000,,Looks like Xiaoling is happy to see you, too.
+Dialogue: 0,0:04:47.48,0:04:49.33,Default,Gyokuyou,0000,0000,0000,,We're glad to have you around.
+Dialogue: 0,0:04:52.33,0:04:54.09,Default,Maomao,0000,0000,0000,,Thank you.
+Dialogue: 0,0:04:55.27,0:04:59.46,Default,Hongniang,0000,0000,0000,,This is the parlor, where we bring guests.
+Dialogue: 0,0:04:59.46,0:05:00.77,Default,Maomao,0000,0000,0000,,So big...
+Dialogue: 0,0:05:00.77,0:05:04.44,Default,Hongniang,0000,0000,0000,,This is the kitchen. You should be able \Nto do some simple cooking here.
+Dialogue: 0,0:05:04.86,0:05:05.78,Default,Maomao,0000,0000,0000,,Wow.
+Dialogue: 0,0:05:06.30,0:05:07.64,Default,Hongniang,0000,0000,0000,,This is the living room.
+Dialogue: 0,0:05:07.64,0:05:11.33,Default,Hongniang,0000,0000,0000,,Here are the other ladies-in-waiting. \NLet me introduce them to you.
+Dialogue: 0,0:05:11.33,0:05:12.95,Default,Hongniang,0000,0000,0000,,Everyone, gather up.
+Dialogue: 0,0:05:12.95,0:05:14.20,Default,Ladies-in-waiting,0000,0000,0000,,Yes!
+Dialogue: 0,0:05:14.76,0:05:19.25,Default,Yinghua,0000,0000,0000,,Nice to meet you, I'm Yinghua. Ask me anything!
+Dialogue: 0,0:05:19.25,0:05:22.90,Default,Guiyuan,0000,0000,0000,,I am Guiyuan. Nice to meet you.
+Dialogue: 0,0:05:22.90,0:05:27.01,Default,Ailan,0000,0000,0000,,I am Ailan. Very pleased to meet you.
+Dialogue: 0,0:05:27.01,0:05:29.76,Default,Maomao,0000,0000,0000,,I'm Maomao. Looking forward \Nto working with you.
+Dialogue: 0,0:05:31.89,0:05:35.38,Default,Hongniang,0000,0000,0000,,At the Jade Pavilion, \Nwe don't hire any serving girls.
+Dialogue: 0,0:05:35.38,0:05:38.74,Default,Hongniang,0000,0000,0000,,So, we do all the work around here.
+Dialogue: 0,0:05:38.74,0:05:43.03,Default,Yinghua,0000,0000,0000,,It's the least we can do to make sure \NLady Gyokuyou lives comfortably.
+Dialogue: 0,0:05:43.52,0:05:44.90,Default,Maomao,0000,0000,0000,,Then I'll also—
+Dialogue: 0,0:05:44.90,0:05:46.98,Default,Yinghua,0000,0000,0000,,You go ahead and rest in your room.
+Dialogue: 0,0:05:46.98,0:05:47.75,Default,Maomao,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:47.75,0:05:49.69,Default,Guiyuan,0000,0000,0000,,Take it easy.
+Dialogue: 0,0:05:49.69,0:05:52.42,Default,Ailan,0000,0000,0000,,You have a special task coming up.
+Dialogue: 0,0:05:52.42,0:05:53.99,Default,Maomao,0000,0000,0000,,Special task?
+Dialogue: 0,0:05:54.81,0:05:57.08,Default,Hongniang,0000,0000,0000,,Maomao, I'll show you to your room.
+Dialogue: 0,0:05:57.08,0:05:58.33,Default,Maomao,0000,0000,0000,,Um, sure.
+Dialogue: 0,0:06:01.68,0:06:04.40,Default,Yinghua,0000,0000,0000,,Did you see her left arm?
+Dialogue: 0,0:06:04.40,0:06:08.16,Default,Yinghua,0000,0000,0000,,She's hiding it with those bandages, \Nbut there are scars under them, right?
+Dialogue: 0,0:06:08.16,0:06:10.92,Default,Guiyuan,0000,0000,0000,,She must have been abused \Nby her parents back home,
+Dialogue: 0,0:06:10.92,0:06:13.36,Default,Guiyuan,0000,0000,0000,,and sold off to the rear palace...
+Dialogue: 0,0:06:13.36,0:06:16.98,Default,Ailan,0000,0000,0000,,On top of that, there's that terrible job...
+Dialogue: 0,0:06:17.69,0:06:20.90,Default,Three Ladies-in-waiting,0000,0000,0000,,That poor, unfortunate girl!
+Dialogue: 0,0:06:23.17,0:06:25.74,Default,Hongniang,0000,0000,0000,,Wait here until you're summoned, all right?
+Dialogue: 0,0:06:25.74,0:06:26.61,Default,Maomao,0000,0000,0000,,Hey, um...
+Dialogue: 0,0:06:32.76,0:06:35.91,Default,Maomao,0000,0000,0000,,I've gotten quite the promotion.
+Dialogue: 0,0:06:37.55,0:06:40.52,Default,Maomao,0000,0000,0000,,The Jade Pavilion's always \Nbeen run by a select elite.
+Dialogue: 0,0:06:40.52,0:06:44.13,Default,Maomao,0000,0000,0000,,So of course a newcomer \Nwouldn't be totally welcome.
+Dialogue: 0,0:06:44.84,0:06:46.30,Default,Maomao,0000,0000,0000,,But they all looked so...
+Dialogue: 0,0:06:48.24,0:06:51.95,Default,Maomao,0000,0000,0000,,Sympathetic? Why?
+Dialogue: 0,0:06:53.92,0:06:55.18,Default,Jinshi,0000,0000,0000,,Tasting for poison.
+Dialogue: 0,0:06:55.73,0:06:58.39,Default,Jinshi,0000,0000,0000,,That's your job, apothecary.
+Dialogue: 0,0:06:59.37,0:07:02.40,italics,Maomao,0000,0000,0000,,Poison! Tasting for poison!
+Dialogue: 0,0:07:04.03,0:07:05.11,italics,Maomao,0000,0000,0000,,Oops.
+Dialogue: 0,0:07:06.81,0:07:13.04,Default,Jinshi,0000,0000,0000,,Food cooked for the concubine changes hands \Na few times before being brought here.
+Dialogue: 0,0:07:15.33,0:07:19.33,Default,Jinshi,0000,0000,0000,,It's possible for it to be \Npoisoned during that process.
+Dialogue: 0,0:07:20.40,0:07:23.11,Default,Jinshi,0000,0000,0000,,In fact, when Concubine Gyokuyou \Nbecame pregnant,
+Dialogue: 0,0:07:23.62,0:07:25.67,Default,Jinshi,0000,0000,0000,,her food was poisoned at least twice.
+Dialogue: 0,0:07:26.68,0:07:32.47,Default,Jinshi,0000,0000,0000,,The taster back then received nerve damage \Nand still can't move her hands or feet.
+Dialogue: 0,0:07:33.77,0:07:37.34,italics,Maomao,0000,0000,0000,,I see. That's why the others \Nwere sympathetic to me.
+Dialogue: 0,0:07:38.26,0:07:41.29,Default,Hongniang,0000,0000,0000,,So... Here you go.
+Dialogue: 0,0:07:42.83,0:07:44.48,italics,Maomao,0000,0000,0000,,These bowls...
+Dialogue: 0,0:07:45.98,0:07:49.86,italics,Maomao,0000,0000,0000,,No suspicious colors. Or scents.
+Dialogue: 0,0:07:52.62,0:07:53.99,italics,Maomao,0000,0000,0000,,No numbness.
+Dialogue: 0,0:07:56.33,0:07:58.49,Default,Maomao,0000,0000,0000,,I can't detect any poison here.
+Dialogue: 0,0:08:00.67,0:08:06.17,italics,Maomao,0000,0000,0000,,Back when I lived by the brothels, \NI ran a lot of experiments on my arm.
+Dialogue: 0,0:08:07.50,0:08:09.67,flashback,Luomen,0000,0000,0000,,Mad scientist.
+Dialogue: 0,0:08:10.19,0:08:15.69,italics,Maomao,0000,0000,0000,,I've gradually trained my body against poisons, \Nso many of them have no effect on me.
+Dialogue: 0,0:08:15.69,0:08:18.35,italics,Maomao,0000,0000,0000,,To be honest, detecting\N poison isn't suited for me.
+Dialogue: 0,0:08:19.40,0:08:23.57,italics,Maomao,0000,0000,0000,,But in a way, I'm lucky to get this job.
+Dialogue: 0,0:08:25.04,0:08:26.42,Default,Jinshi,0000,0000,0000,,She's laughing...
+Dialogue: 0,0:08:27.99,0:08:32.99,Default,Maomao,0000,0000,0000,,I think you should switch to silver plates. \NThose react to poisons.
+Dialogue: 0,0:08:33.44,0:08:39.99,Default,Hongniang,0000,0000,0000,,It's like Master Jinshi said. We used\N ceramics on purpose to test you.
+Dialogue: 0,0:08:41.87,0:08:43.68,italics,Maomao,0000,0000,0000,,That was his idea!
+Dialogue: 0,0:08:45.33,0:08:48.46,Default,Hongniang,0000,0000,0000,,Your knowledge applies to both\N poisons and medicines, then.
+Dialogue: 0,0:08:48.46,0:08:51.20,Default,Maomao,0000,0000,0000,,I used to work as an apothecary.
+Dialogue: 0,0:08:51.20,0:08:56.11,Default,Hongniang,0000,0000,0000,,If you'd mentioned that you're literate, \Nyou would have gotten paid more.
+Dialogue: 0,0:08:56.11,0:08:58.28,Default,Maomao,0000,0000,0000,,I was kidnapped and brought here,
+Dialogue: 0,0:08:58.28,0:09:04.39,Default,Maomao,0000,0000,0000,,and I'm incensed that part of my pay \Ngets sent to the kidnappers.
+Dialogue: 0,0:09:05.00,0:09:10.80,Default,Hongniang,0000,0000,0000,,So, you'd rather take less pay than give \Nyour kidnappers drinking money, hmm?
+Dialogue: 0,0:09:20.66,0:09:23.98,Default,Hongniang,0000,0000,0000,,Goodness, this was quite expensive.
+Dialogue: 0,0:09:24.52,0:09:27.40,Default,Hongniang,0000,0000,0000,,You couldn't afford it with \Nyour lady-in-waiting salary.
+Dialogue: 0,0:09:27.40,0:09:30.00,Default,Hongniang,0000,0000,0000,,How will you send money to your family?
+Dialogue: 0,0:09:30.81,0:09:33.34,Default,Hongniang,0000,0000,0000,,In fact, we might need to charge them.
+Dialogue: 0,0:09:34.84,0:09:38.08,Default,Maomao,0000,0000,0000,,Ah, I'm so sorry.
+Dialogue: 0,0:09:38.49,0:09:40.97,Default,Maomao,0000,0000,0000,,Please take it out of the money to my family.
+Dialogue: 0,0:09:40.97,0:09:42.97,Default,Maomao,0000,0000,0000,,If that's not enough,\N from my savings, too.
+Dialogue: 0,0:09:43.81,0:09:46.24,Default,Hongniang,0000,0000,0000,,Yes, I'll arrange the paperwork.
+Dialogue: 0,0:09:46.80,0:09:52.27,Default,Hongniang,0000,0000,0000,,By the way, here's hazard pay \Nfor your food tasting services.
+Dialogue: 0,0:09:52.93,0:09:55.23,italics,Maomao,0000,0000,0000,,Almost equal to my regular salary...
+Dialogue: 0,0:09:55.23,0:09:59.41,italics,Maomao,0000,0000,0000,,Since the kidnappers don't get \Na cut of this, it all goes to me.
+Dialogue: 0,0:10:00.65,0:10:02.37,Default,Maomao,0000,0000,0000,,Thank you.
+Dialogue: 0,0:10:03.87,0:10:06.69,italics,Maomao,0000,0000,0000,,She knows how to motivate her workers.
+Dialogue: 0,0:10:17.28,0:10:18.51,Default,Yinghua,0000,0000,0000,,Don't worry about it!
+Dialogue: 0,0:10:19.20,0:10:20.30,Default,Guiyuan,0000,0000,0000,,Rest for now.
+Dialogue: 0,0:10:20.30,0:10:22.30,Default,Ailan,0000,0000,0000,,We've always been fully staffed.
+Dialogue: 0,0:10:22.30,0:10:24.56,Default,Maomao,0000,0000,0000,,I'm bored!
+Dialogue: 0,0:10:25.24,0:10:30.90,Default,Maomao,0000,0000,0000,,I only get called on as taster for \Ntwo meals and the mid-day tea time.
+Dialogue: 0,0:10:30.90,0:10:33.29,Default,Maomao,0000,0000,0000,,Now that I have my own room,
+Dialogue: 0,0:10:33.29,0:10:36.47,Default,Maomao,0000,0000,0000,,if there was a venomous snake or \Nsomething, I could experiment...
+Dialogue: 0,0:10:36.47,0:10:37.66,Default,Hongniang,0000,0000,0000,,Maomao.
+Dialogue: 0,0:10:39.43,0:10:41.96,Default,Maomao,0000,0000,0000,,Did you need me, Lady Gyokuyou?
+Dialogue: 0,0:10:41.96,0:10:43.66,Default,Gyokuyou,0000,0000,0000,,He does, actually.
+Dialogue: 0,0:10:45.57,0:10:46.46,italics,Maomao,0000,0000,0000,,Ugh.
+Dialogue: 0,0:10:47.60,0:10:48.96,Default,Jinshi,0000,0000,0000,,Why won't this work on her?
+Dialogue: 0,0:10:54.14,0:10:55.96,Default,Maomao,0000,0000,0000,,How may I serve you today?
+Dialogue: 0,0:10:56.75,0:11:00.68,Default,Jinshi,0000,0000,0000,,I received these from a certain \Nmilitary officer. Can you taste them?
+Dialogue: 0,0:11:01.13,0:11:02.30,Default,Maomao,0000,0000,0000,,{\i1}Baozi{\i0} buns...
+Dialogue: 0,0:11:07.80,0:11:09.52,Default,Maomao,0000,0000,0000,,It has an aphrodisiac in it.
+Dialogue: 0,0:11:10.36,0:11:11.98,Default,Jinshi,0000,0000,0000,,You can tell without eating it?
+Dialogue: 0,0:11:11.98,0:11:15.91,Default,Maomao,0000,0000,0000,,It's not harmful. Please \Nfeel free to enjoy them.
+Dialogue: 0,0:11:15.91,0:11:19.93,Default,Jinshi,0000,0000,0000,,Given who I received\N these from, I can't do that.
+Dialogue: 0,0:11:19.93,0:11:24.62,Default,Maomao,0000,0000,0000,,Perhaps that person \Nmight visit you tonight.
+Dialogue: 0,0:11:24.89,0:11:27.24,Default,Jinshi,0000,0000,0000,,Hmm. So you can tell by the smell alone?
+Dialogue: 0,0:11:27.24,0:11:32.46,italics,Maomao,0000,0000,0000,,Did this guy try to make me eat one \Nknowing they have an aphrodisiac in them?!
+Dialogue: 0,0:11:38.94,0:11:41.97,Default,Jinshi,0000,0000,0000,,I had one more question for you.
+Dialogue: 0,0:11:42.32,0:11:44.24,Default,Maomao,0000,0000,0000,,Yes, what is it?
+Dialogue: 0,0:11:44.24,0:11:49.33,Default,Jinshi,0000,0000,0000,,A squad of soldiers on a mission to attack \Nsome barbarians was poisoned the other day.
+Dialogue: 0,0:11:49.33,0:11:50.23,Default,Maomao,0000,0000,0000,,Poisoned?
+Dialogue: 0,0:11:50.88,0:11:53.14,Default,Jinshi,0000,0000,0000,,Yes. Several fell ill after a meal.
+Dialogue: 0,0:11:53.14,0:11:57.50,Default,Jinshi,0000,0000,0000,,They reported nausea, difficulty\N breathing, and other ailments.
+Dialogue: 0,0:11:57.93,0:12:00.49,Default,Maomao,0000,0000,0000,,Nausea and difficulty breathing...
+Dialogue: 0,0:12:01.61,0:12:03.86,Default,Jinshi,0000,0000,0000,,The meal was prepared in a nearby village.
+Dialogue: 0,0:12:04.67,0:12:07.87,Default,Jinshi,0000,0000,0000,,They arrested the village leader \Nfor assisting the barbarians,
+Dialogue: 0,0:12:07.87,0:12:09.91,Default,Jinshi,0000,0000,0000,,but an officer diffused the situation,
+Dialogue: 0,0:12:09.91,0:12:11.58,Default,Jinshi,0000,0000,0000,,and has put the decision on hold.
+Dialogue: 0,0:12:12.27,0:12:17.77,italics,Maomao,0000,0000,0000,,It would be natural to assume \Nthe villagers poisoned the soldiers, but...
+Dialogue: 0,0:12:20.05,0:12:23.38,Default,Maomao,0000,0000,0000,,Master Jinshi, where were they eating?
+Dialogue: 0,0:12:23.38,0:12:25.64,Default,Jinshi,0000,0000,0000,,They were at camp, so \Nthey likely ate outside.
+Dialogue: 0,0:12:25.64,0:12:28.95,Default,Maomao,0000,0000,0000,,Did the villagers provide \Nthe plates and chopsticks?
+Dialogue: 0,0:12:28.95,0:12:32.68,Default,Jinshi,0000,0000,0000,,No, the soldiers should \Nhave provided their own.
+Dialogue: 0,0:12:33.96,0:12:35.42,Default,Jinshi,0000,0000,0000,,Did you notice something?
+Dialogue: 0,0:12:36.40,0:12:39.71,Default,Maomao,0000,0000,0000,,This is just my opinion. \NLet me share something.
+Dialogue: 0,0:12:40.74,0:12:43.15,Default,Maomao,0000,0000,0000,,This flower is a rhododendron.
+Dialogue: 0,0:12:44.25,0:12:45.84,Default,Gyokuyou,0000,0000,0000,,Does it taste good?
+Dialogue: 0,0:12:45.84,0:12:49.65,Default,Maomao,0000,0000,0000,,No, eating it causes nausea \Nand difficulty breathing.
+Dialogue: 0,0:12:49.65,0:12:50.16,Default,Jinshi,0000,0000,0000,,Hey!
+Dialogue: 0,0:12:51.26,0:12:55.56,Default,Maomao,0000,0000,0000,,As you see, even the rear palace \Nhas plants with poison in them.
+Dialogue: 0,0:12:55.56,0:12:59.87,Default,Maomao,0000,0000,0000,,This one has poison in the leaves, but some \Nhave poison in the branches or roots.
+Dialogue: 0,0:12:59.87,0:13:04.08,Default,Maomao,0000,0000,0000,,Some wood can even emit poison when burned.
+Dialogue: 0,0:13:04.08,0:13:05.71,Default,Gyokuyou,0000,0000,0000,,When burned...?
+Dialogue: 0,0:13:09.57,0:13:10.81,Default,Jinshi,0000,0000,0000,,I see.
+Dialogue: 0,0:13:11.95,0:13:14.45,Default,Maomao,0000,0000,0000,,It's fortunate the bright\N officer was there.
+Dialogue: 0,0:13:14.45,0:13:17.34,Default,Maomao,0000,0000,0000,,We could have lost a whole village.
+Dialogue: 0,0:13:17.79,0:13:18.62,Default,Jinshi,0000,0000,0000,,Yes.
+Dialogue: 0,0:13:19.29,0:13:21.62,Default,Maomao,0000,0000,0000,,If that's all, I'll take my leave.
+Dialogue: 0,0:13:21.62,0:13:23.22,Default,Jinshi,0000,0000,0000,,No, wait.
+Dialogue: 0,0:13:23.22,0:13:24.57,Default,Maomao,0000,0000,0000,,Is there more?
+Dialogue: 0,0:13:27.54,0:13:29.66,Default,Jinshi,0000,0000,0000,,Can you make an aphrodisiac?
+Dialogue: 0,0:13:31.26,0:13:33.12,italics,Maomao,0000,0000,0000,,Make? You mean...
+Dialogue: 0,0:13:34.36,0:13:36.54,italics,Maomao,0000,0000,0000,,Making drugs?!
+Dialogue: 0,0:13:42.32,0:13:45.00,Default,Maomao,0000,0000,0000,,Given time, the proper ingredients, \Nand the right tools,
+Dialogue: 0,0:13:45.00,0:13:48.05,Default,Maomao,0000,0000,0000,,I could make something like that.
+Dialogue: 0,0:13:49.25,0:13:51.76,Default,Mid-Rank Concubine,0000,0000,0000,,Master Jinshi, where are you headed?
+Dialogue: 0,0:13:54.80,0:13:58.65,Default,Jinshi,0000,0000,0000,,I'm returning to my office. May I help you?
+Dialogue: 0,0:13:58.65,0:14:01.72,Default,Mid-Rank Concubine,0000,0000,0000,,I was wondering if you'd have\N tea with me in my room...
+Dialogue: 0,0:14:01.72,0:14:05.40,Default,Jinshi,0000,0000,0000,,Unfortunately, I have much work \Nto attend to. Please excuse me.
+Dialogue: 0,0:14:10.73,0:14:13.41,Default,Gaoshun,0000,0000,0000,,The servants must not be aware
+Dialogue: 0,0:14:13.73,0:14:18.50,Default,Gaoshun,0000,0000,0000,,that Master Jinshi serves as a test \Nof their loyalty to the emperor.
+Dialogue: 0,0:14:18.50,0:14:20.66,Default,Jinshi,0000,0000,0000,,Just because the emperor does not visit her,
+Dialogue: 0,0:14:20.66,0:14:22.89,Default,Jinshi,0000,0000,0000,,she shouldn't try and lure \Nother men to her room.
+Dialogue: 0,0:14:22.89,0:14:24.53,Default,Jinshi,0000,0000,0000,,What an indiscretion.
+Dialogue: 0,0:14:24.53,0:14:25.97,Default,Gaoshun,0000,0000,0000,,Indeed.
+Dialogue: 0,0:14:25.97,0:14:30.52,Default,Jinshi,0000,0000,0000,,A concubine cannot simply be \Nbeautiful or well-educated.
+Dialogue: 0,0:14:30.52,0:14:34.53,Default,Jinshi,0000,0000,0000,,They must be loyal to\N the emperor, and be chaste.
+Dialogue: 0,0:14:34.96,0:14:40.69,Default,Gaoshun,0000,0000,0000,,But to place you in the rear palace \Nand use your beauty as a test...
+Dialogue: 0,0:14:41.31,0:14:43.52,Default,Gaoshun,0000,0000,0000,,Our emperor can be quite severe at times.
+Dialogue: 0,0:14:43.52,0:14:46.44,Default,Jinshi,0000,0000,0000,,We all use whatever is available to us. But...
+Dialogue: 0,0:14:46.44,0:14:50.03,Default,Jinshi,0000,0000,0000,,Not only does she feel no lust\N for me, but that look...
+Dialogue: 0,0:14:50.03,0:14:52.49,italics,Maomao,0000,0000,0000,,Glare...
+Dialogue: 0,0:14:53.20,0:14:56.72,italics,Jinshi,0000,0000,0000,,I've never been so harshly \Nlooked down on in my life.
+Dialogue: 0,0:14:57.72,0:14:59.89,Default,Gaoshun,0000,0000,0000,,Well then, I will take my leave.
+Dialogue: 0,0:15:05.13,0:15:07.47,flashback,Maomao,0000,0000,0000,,Perhaps that person \Nmight visit you tonight.
+Dialogue: 0,0:15:07.47,0:15:10.37,flashback italics,Maomao,0000,0000,0000,,Tonight... Tonight...
+Dialogue: 0,0:15:13.51,0:15:15.31,Default,Maomao,0000,0000,0000,,I'm leaving now.
+Dialogue: 0,0:15:15.31,0:15:17.30,Default,Hongniang,0000,0000,0000,,Good luck.
+Dialogue: 0,0:15:17.30,0:15:18.29,Default,Maomao,0000,0000,0000,,Yes!
+Dialogue: 0,0:15:24.06,0:15:25.60,Default,Maomao,0000,0000,0000,,Pardon me.
+Dialogue: 0,0:15:26.07,0:15:28.29,italics,Maomao,0000,0000,0000,,The quack doctor, and...
+Dialogue: 0,0:15:29.47,0:15:32.00,Default,Gaoshun,0000,0000,0000,,Miss Maomao. Let me reintroduce myself.
+Dialogue: 0,0:15:32.00,0:15:33.50,Default,Gaoshun,0000,0000,0000,,I am Gaoshun.
+Dialogue: 0,0:15:34.11,0:15:36.53,Default,Gaoshun,0000,0000,0000,,I'm Master Jinshi's assistant.
+Dialogue: 0,0:15:37.13,0:15:38.70,Default,Gaoshun,0000,0000,0000,,Pleased to make your acquaintance.
+Dialogue: 0,0:15:39.66,0:15:40.71,Default,Maomao,0000,0000,0000,,Hello.
+Dialogue: 0,0:15:41.00,0:15:43.77,italics,Maomao,0000,0000,0000,,It can't be easy assisting that guy.
+Dialogue: 0,0:15:44.58,0:15:48.96,Default,Guen,0000,0000,0000,,What is this servant girl \Ndoing in my territory?
+Dialogue: 0,0:15:50.30,0:15:51.52,Default,Gaoshun,0000,0000,0000,,This way, please.
+Dialogue: 0,0:15:54.52,0:15:58.52,Default,Gaoshun,0000,0000,0000,,I have been told you may use \Nanything in this room.
+Dialogue: 0,0:16:09.28,0:16:11.70,Default,Jinshi,0000,0000,0000,,Is that some sort of cursed dance?
+Dialogue: 0,0:16:15.32,0:16:19.37,italics,Maomao,0000,0000,0000,,What a luxury, being able \Nto use paper so freely.
+Dialogue: 0,0:16:19.62,0:16:21.55,Default,Maomao,0000,0000,0000,,And also, I need...
+Dialogue: 0,0:16:22.56,0:16:24.05,Default,Gaoshun,0000,0000,0000,,Over there?
+Dialogue: 0,0:16:25.33,0:16:29.34,italics,Maomao,0000,0000,0000,,He's really quick to notice things. \NCompared to his master...
+Dialogue: 0,0:16:30.89,0:16:33.34,italics,Maomao,0000,0000,0000,,If you're not going to do \Nanything, just go away.
+Dialogue: 0,0:16:33.34,0:16:34.29,Default,Gaoshun,0000,0000,0000,,Here you are.
+Dialogue: 0,0:16:35.71,0:16:37.43,Default,Maomao,0000,0000,0000,,Thank you.
+Dialogue: 0,0:16:38.69,0:16:39.98,Default,Maomao,0000,0000,0000,,That's not enough...
+Dialogue: 0,0:16:41.42,0:16:42.58,Default,Jinshi,0000,0000,0000,,What is this?
+Dialogue: 0,0:16:42.58,0:16:43.80,Default,Maomao,0000,0000,0000,,It's cacao.
+Dialogue: 0,0:16:43.80,0:16:46.77,Default,Jinshi,0000,0000,0000,,If you need more, we'll simply find more.
+Dialogue: 0,0:16:46.77,0:16:50.90,Default,Maomao,0000,0000,0000,,But it's from the West, \Nand the far southern region, too.
+Dialogue: 0,0:16:50.90,0:16:54.03,Default,Jinshi,0000,0000,0000,,I'm sure there's more in\N the trading goods storage.
+Dialogue: 0,0:17:01.32,0:17:06.53,Default,Maomao,0000,0000,0000,,Milk, butter, sugar, honey, \Nand powdered cacao.
+Dialogue: 0,0:17:07.04,0:17:08.67,Default,Maomao,0000,0000,0000,,That should be enough.
+Dialogue: 0,0:17:09.31,0:17:11.10,Default,Yinghua,0000,0000,0000,,All expensive ingredients.
+Dialogue: 0,0:17:11.10,0:17:13.57,Default,Ailan,0000,0000,0000,,I wonder what she's making?
+Dialogue: 0,0:17:13.57,0:17:15.13,Default,Guiyuan,0000,0000,0000,,A snack, maybe?
+Dialogue: 0,0:17:15.38,0:17:17.34,Default,Hongniang,0000,0000,0000,,What are you all doing?
+Dialogue: 0,0:17:17.64,0:17:19.35,Default,Hongniang,0000,0000,0000,,Get back to work!
+Dialogue: 0,0:17:19.35,0:17:21.10,Default,Three Ladies-in-waiting,0000,0000,0000,,We're sorry!
+Dialogue: 0,0:17:22.41,0:17:23.35,Default,Hongniang,0000,0000,0000,,Goodness.
+Dialogue: 0,0:17:24.53,0:17:26.81,Default,Maomao,0000,0000,0000,,Now to actually make the aphrodisiac!
+Dialogue: 0,0:17:31.05,0:17:33.99,italics,Maomao,0000,0000,0000,,I had a taste of cacao just once in the past.
+Dialogue: 0,0:17:33.99,0:17:37.91,flashback,Meimei,0000,0000,0000,,This is called "chocolate." Say "ah," Maomao.
+Dialogue: 0,0:17:39.68,0:17:41.03,flashback,Meimei,0000,0000,0000,,Maomao?!
+Dialogue: 0,0:17:43.12,0:17:47.73,italics,Maomao,0000,0000,0000,,Perhaps a malicious customer wanted to get \Na popular courtesan's attention.
+Dialogue: 0,0:17:47.73,0:17:51.85,italics,Maomao,0000,0000,0000,,Unfortunately for him, he got\N banned by the shrewd old lady.
+Dialogue: 0,0:17:52.30,0:17:53.68,Default,Maomao,0000,0000,0000,,Looks good.
+Dialogue: 0,0:17:53.68,0:17:55.26,Default,Maomao,0000,0000,0000,,There.
+Dialogue: 0,0:17:57.10,0:17:59.51,Default,Maomao,0000,0000,0000,,Now I just cool it and wait for it to harden.
+Dialogue: 0,0:18:00.30,0:18:03.31,italics,Maomao,0000,0000,0000,,I have a bit left over. Oh, I know.
+Dialogue: 0,0:18:05.56,0:18:07.98,italics,Maomao,0000,0000,0000,,This probably doesn't need to be cooled.
+Dialogue: 0,0:18:10.52,0:18:13.04,italics,Maomao,0000,0000,0000,,I guess I should clean up now.
+Dialogue: 0,0:18:17.95,0:18:19.79,italics,Maomao,0000,0000,0000,,Wait, medicinal herbs?!
+Dialogue: 0,0:18:19.79,0:18:22.49,italics,Maomao,0000,0000,0000,,There too?! And over there!
+Dialogue: 0,0:18:24.70,0:18:27.21,Default,Maomao,0000,0000,0000,,Oops, I got a little carried away.
+Dialogue: 0,0:18:27.21,0:18:29.23,Default,Maomao,0000,0000,0000,,Sorry for the delay!
+Dialogue: 0,0:18:41.27,0:18:43.41,Default,Jinshi,0000,0000,0000,,At least we know it works.
+Dialogue: 0,0:18:44.00,0:18:45.89,Default,Hongniang,0000,0000,0000,,So, what's going on?!
+Dialogue: 0,0:18:46.24,0:18:48.39,Default,Maomao,0000,0000,0000,,Well, it is what it is...
+Dialogue: 0,0:18:49.42,0:18:51.65,Default,Maomao,0000,0000,0000,,It's fine, they didn't go all the way—Ow!
+Dialogue: 0,0:18:54.16,0:18:56.28,Default,Gyokuyou,0000,0000,0000,,So, this is the aphrodisiac?
+Dialogue: 0,0:18:56.28,0:18:59.11,Default,Maomao,0000,0000,0000,,No, this is.
+Dialogue: 0,0:19:00.57,0:19:02.45,Default,Jinshi,0000,0000,0000,,Then what are the other ones?
+Dialogue: 0,0:19:02.45,0:19:03.99,Default,Maomao,0000,0000,0000,,A midnight snack for myself.
+Dialogue: 0,0:19:05.70,0:19:07.96,Default,Maomao,0000,0000,0000,,If you're used to alcohol \Nand other stimulants,
+Dialogue: 0,0:19:07.96,0:19:09.79,Default,Maomao,0000,0000,0000,,it won't have that much of an effect.
+Dialogue: 0,0:19:10.05,0:19:14.13,Default,Jinshi,0000,0000,0000,,Oh, so it won't be a problem if I ate it?
+Dialogue: 0,0:19:14.13,0:19:16.17,Default,Gaoshun & Hongniang,0000,0000,0000,,Please don't do that!
+Dialogue: 0,0:19:17.92,0:19:19.59,Default,Jinshi,0000,0000,0000,,Haha, just joking.
+Dialogue: 0,0:19:19.59,0:19:23.70,italics,Maomao,0000,0000,0000,,What a reprehensible joke to make \Nin front of the emperor's concubine.
+Dialogue: 0,0:19:23.70,0:19:28.08,italics,Maomao,0000,0000,0000,,But if he approached someone with\N an impassioned blush on that face...
+Dialogue: 0,0:19:30.04,0:19:33.81,italics,Maomao,0000,0000,0000,,It'd immediately captivate\N any person, male or female.
+Dialogue: 0,0:19:33.81,0:19:35.40,italics,Maomao,0000,0000,0000,,He does have a great face, after all.
+Dialogue: 0,0:19:36.52,0:19:40.15,Default,Maomao,0000,0000,0000,,It's quite strong, so please\N limit it to one piece at a time.
+Dialogue: 0,0:19:40.15,0:19:43.87,Default,Maomao,0000,0000,0000,,Too many could excessively increase \Nblood flow and cause nosebleeds.
+Dialogue: 0,0:19:44.16,0:19:48.68,Default,Gyokuyou,0000,0000,0000,,Maybe you can make some for the emperor, \Nto avoid things getting too dull.
+Dialogue: 0,0:19:48.68,0:19:52.41,Default,Maomao,0000,0000,0000,,It should be around three times \Nmore potent than the usual tonic.
+Dialogue: 0,0:19:53.05,0:19:56.31,Default,Gyokuyou,0000,0000,0000,,Three times? Does she mean duration...?
+Dialogue: 0,0:19:56.80,0:19:59.05,Default,Maomao,0000,0000,0000,,Let's pretend I didn't hear that.
+Dialogue: 0,0:19:59.40,0:20:04.44,Default,Maomao,0000,0000,0000,,Also, please only use it when you are \Nalone with the person in mind.
+Dialogue: 0,0:19:59.40,0:20:04.81,top,Gyokuyou,0000,0000,0000,,Three times... Three times...
+Dialogue: 0,0:20:04.44,0:20:05.49,Default,Jinshi,0000,0000,0000,,I see.
+Dialogue: 0,0:20:06.50,0:20:09.60,Default,Gyokuyou,0000,0000,0000,,Well, I'll take my leave now.
+Dialogue: 0,0:20:12.82,0:20:15.61,Default,Hongniang,0000,0000,0000,,So she can make drugs?
+Dialogue: 0,0:20:16.15,0:20:17.66,Default,Gyokuyou,0000,0000,0000,,How reliable.
+Dialogue: 0,0:20:22.40,0:20:23.78,Default,Maomao,0000,0000,0000,,It's finally over.
+Dialogue: 0,0:20:29.55,0:20:31.54,Default,Jinshi,0000,0000,0000,,Good work.
+Dialogue: 0,0:20:39.39,0:20:40.46,Default,Jinshi,0000,0000,0000,,Thank you.
+Dialogue: 0,0:20:46.52,0:20:47.76,Default,Maomao,0000,0000,0000,,I see.
+Dialogue: 0,0:20:48.47,0:20:50.72,Default,Maomao,0000,0000,0000,,I hope there aren't any victims.
+Dialogue: 0,0:22:34.95,0:22:49.97,Next_Time,Text,0000,0000,0000,,{\fscx105\fsp0.2\blur1}Next Time
+Dialogue: 0,0:22:45.34,0:22:47.67,italicstop,Narrator,0000,0000,0000,,Next time: "The Unsettling \NMatter of the Spirit."
+Dialogue: 0,0:22:45.38,0:22:49.97,Next_Ep_Title,Episode Title,0000,0000,0000,,{\fad(430,1)\blur1\fs16\fsp-0.5}Episode 3: The Unsettling Matter of the Spirit
