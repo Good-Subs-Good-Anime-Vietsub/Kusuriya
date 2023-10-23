@@ -16,8 +16,8 @@ Video File: ../raws/Kusuriya - 01 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 249
-Active Line: 263
+Scroll Position: 185
+Active Line: 226
 Video Position: 24912
 
 [V4+ Styles]
@@ -54,7 +54,7 @@ Comment: 12,0:22:25.92,0:22:34.18,Main,ED,0,0,0,whisper,愛の言葉に詰まる
 Dialogue: 12,0:01:37.87,0:01:39.08,Main,,0,0,0,,Miêu Miêu.
 Dialogue: 12,0:01:41.29,0:01:44.54,Main,,0,0,0,,Con giao thuốc tới\N Lục Thanh Quán được không?
 Dialogue: 12,0:01:45.63,0:01:46.88,Main,,0,0,0,,Biết rồi, cha.
-Dialogue: 12,0:01:48.45,0:01:50.80,Main,,0,0,0,,Dạo này có nhiều vụ bắt cóc nữ tử lắm đấy.
+Dialogue: 12,0:01:48.45,0:01:50.80,Main,,0,0,0,,Dạo này có nhiều vụ bắt cóc nữ nhân lắm đấy.
 Dialogue: 12,0:01:50.80,0:01:52.41,Main,,0,0,0,,Nhớ thận trọng.
 Dialogue: 12,0:01:52.72,0:01:54.09,Main,,0,0,0,,Không sao cả đâu.
 Dialogue: 12,0:01:54.39,0:01:55.64,Main,,0,0,0,,Lúc về con ghé qua đồng.
@@ -100,10 +100,10 @@ Dialogue: 12,0:05:04.31,0:05:07.55,Main,,0,0,0,,{\i1}Hoàng cung và phố đèn
 Dialogue: 12,0:05:07.55,0:05:11.42,Main,,0,0,0,,{\i1}Nếu được thì mình muốn\N tránh xa hậu cung, nhưng...
 Dialogue: 12,0:05:12.59,0:05:15.42,Main,,0,0,0,,Thôi, đã vào rồi thì chấp nhận thôi.
 Dialogue: 12,0:05:15.97,0:05:19.84,Main,,0,0,0,,{\i1}Đang được sống cuộc đời\N dược sư tử tế vậy mà...
-Dialogue: 12,0:05:21.15,0:05:25.21,Main,,0,0,0,,{\i1}Hậu cung là cung cấm dành cho nữ tử,\N nơi họ sinh con cho Hoàng thượng.
-Dialogue: 12,0:05:25.60,0:05:28.18,Main,,0,0,0,,{\i1}Nam tử không được phép ra vào.
+Dialogue: 12,0:05:21.15,0:05:25.21,Main,,0,0,0,,{\i1}Hậu cung là cung cấm dành cho nữ nhân,\N nơi họ sinh con cho Hoàng thượng.
+Dialogue: 12,0:05:25.60,0:05:28.18,Main,,0,0,0,,{\i1}Nam nhân không được phép ra vào.
 Dialogue: 12,0:05:28.83,0:05:33.23,Main,,0,0,0,,{\i1}Chỉ có tầng lớp cao quý nhất và chung huyết thống\N mới có thể ra vào.
-Dialogue: 12,0:05:33.62,0:05:36.27,Main,,0,0,0,,{\i1}Ngoài ra, còn có những người từng là nam tử,
+Dialogue: 12,0:05:33.62,0:05:36.27,Main,,0,0,0,,{\i1}Ngoài ra, còn có những người từng là nam nhân,
 Dialogue: 12,0:05:36.27,0:05:38.86,Main,,0,0,0,,{\i1}họ bị cắt đi của quý, các thái giám.
 Dialogue: 12,0:05:39.51,0:05:42.44,Main,,0,0,0,,{\i1}Cung nữ, tổng cộng có 2.000 người.
 Dialogue: 12,0:05:42.78,0:05:45.03,Main,,0,0,0,,{\i1}Thái giám thì 1.000 người.
@@ -253,11 +253,11 @@ Dialogue: 12,0:14:37.03,0:14:39.48,Main,,0,0,0,,Xin lỗi đã gọi các ngươ
 Dialogue: 12,0:14:42.44,0:14:43.99,Main,,0,0,0,,Ôi~ Đẹp quá~
 Dialogue: 12,0:14:43.99,0:14:46.74,Main,,0,0,0,,{\i1}Cái gì đây? Sao cung nữ này hống hách vậy?
 Dialogue: 12,0:14:49.33,0:14:52.71,Main,,0,0,0,,Ta là Tổng quản hậu cung, Nhâm Thị.
-Dialogue: 12,0:14:57.27,0:14:59.04,Main,,0,0,0,,{\i1}Là nam tử à?
+Dialogue: 12,0:14:57.27,0:14:59.04,Main,,0,0,0,,{\i1}Là nam nhân à?
 Dialogue: 12,0:14:59.04,0:15:04.88,Main,,0,0,0,,{\i1}Đây là thái giám xinh đẹp tuyệt trần\N mà Tiểu Lan nhắc đến à?
 Dialogue: 12,0:15:05.23,0:15:06.97,Main,,0,0,0,,{\i1}Phí của giời thật.
 Dialogue: 12,0:15:06.97,0:15:09.89,Main,,0,0,0,,{\i1}Đẹp thế này mà lại không thể sinh con nối dõi.
-Dialogue: 12,0:15:13.57,0:15:15.90,Main,,0,0,0,,{\i1}Nữ tử có tàn nhang...
+Dialogue: 12,0:15:13.57,0:15:15.90,Main,,0,0,0,,{\i1}Nữ nhân có tàn nhang...
 Dialogue: 12,0:15:16.77,0:15:17.76,Main,,0,0,0,,{\i1}Thôi chết!
 Dialogue: 12,0:15:20.12,0:15:22.35,Main,,0,0,0,,Hôm nay xong việc rồi.
 Dialogue: 12,0:15:22.35,0:15:23.74,Main,,0,0,0,,Các ngươi về phòng đi.
