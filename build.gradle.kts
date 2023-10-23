@@ -11,7 +11,6 @@ plugins {
 
 subs {
     readProperties("sub.properties")
-    release(arg("release") ?: "WEBRip")
     episodes(getList("episodes"))
 
     merge {
@@ -95,3 +94,4 @@ subs {
         onFaux(ErrorMode.WARN)
         out(get("muxout"))
     }
+}
