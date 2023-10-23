@@ -3,15 +3,20 @@ Dia:
 ======================
 Đây ắt hản là lời nguyền mà!
 (ắt hẳn)
+~DONE
 
 Thám giám thì 1.000 người.
 (Thái giám)
+~DONE
 
 Cong không cong, thẳng không thẳng.
 (không hợp lắm, kiểu nhân vật nói câu đấy hơi ngắn ấy)
+==>Không có đường cong.
+~DONE
 
 Họ cân đong đo đếm \Ngiữa tính mạng và nhan sắc,
 ("cân đo đong đếm", wiki thì có cái để "cân đong đo đếm", nhưng những cái khác thì không ai dùng vậy cả)
+~DONE
 
 ======================
 TS:
