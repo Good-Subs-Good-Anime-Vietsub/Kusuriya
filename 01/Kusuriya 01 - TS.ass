@@ -11,9 +11,13 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 310
-Active Line: 317
-Video Position: 6851
+Audio File: ../raws/Kusuriya - 01 (CR).mkv
+Video File: ../raws/Kusuriya - 01 (CR).mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Scroll Position: 160
+Active Line: 165
+Video Position: 21880
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -107,42 +111,42 @@ Dialogue: 0,0:06:06.26,0:06:06.30,Signs,,0,0,0,,{=3=4}{\blur0.86\c&H3A373C&\fnSJ
 Dialogue: 0,0:06:06.30,0:06:06.34,Signs,,0,0,0,,{=3=4}{\blur0.86\c&H3A373C&\fnSJ-DomCasualSH All Caps\fax-0.003864\frz16.43\frx5.1830\fry-1.3357\org(631.43,1178.32)\fscx81.97\fscy47.98\pos(625.75,1175.54)}CỬU
 Dialogue: 0,0:06:06.34,0:06:06.38,Signs,,0,0,0,,{=3=4}{\blur0.86\c&H3A373C&\fnSJ-DomCasualSH All Caps\fax-0.003864\frz16.42\frx5.1830\fry-1.3357\org(627.57,1199.57)\fscx81.96\fscy47.98\pos(621.89,1196.8)}CỬU
 Dialogue: 0,0:06:06.38,0:06:06.42,Signs,,0,0,0,,{=3=4}{\blur0.86\c&H3A373C&\fnSJ-DomCasualSH All Caps\fax-0.003864\frz16.41\frx5.1830\fry-1.3357\org(623.93,1219.71)\fscx82\fscy48\pos(618.24,1216.93)}CỬU
-Dialogue: 0,0:15:12.02,0:15:12.14,Signs,,0,0,0,,{=5=44}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\fsp2\fax-0.078300\fscx97.15\fscy125.24\frz16.3581\frx5.9572\fry11.3557\org(622.73,805.81)\pos(628.44,805.81)}Nữ tử \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.02,0:15:12.14,Signs,,0,0,0,,{=5=44}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\fsp2\fax-0.078300\fscx97.15\fscy125.24\frz16.3581\frx5.9572\fry11.3557\org(622.73,805.81)\pos(628.44,805.81)}Nữ nhân \Ncó tàn \Nnhang
 Dialogue: 0,0:15:12.02,0:15:12.14,Signs,,0,0,0,,{=8=33}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\fsp2\fax0.020569\fscx77.09\fscy87.67\frz10.7453\frx9.9625\fry13.5451\org(776.88,744.37)\pos(775.29,744.37)}đằng\N kia, \Nngươi \N ở lại
-Dialogue: 0,0:15:12.14,0:15:12.18,Signs,,0,0,0,,{=5}{\frz0\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(480.99,819.16)\fscx91\fscy115}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.18,0:15:12.22,Signs,,0,0,0,,{=5}{\frz-0.01\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(480.96,819.16)\fscx91.03\fscy115.03}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.22,0:15:12.26,Signs,,0,0,0,,{=5}{\frz-0.01\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(480.92,819.16)\fscx91.05\fscy115.07}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.26,0:15:12.30,Signs,,0,0,0,,{=5}{\frz-0.54\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.96,831.05)\fscx91.44\fscy115.56}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.30,0:15:12.35,Signs,,0,0,0,,{=5}{\frz-0.54\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.92,831.05)\fscx91.47\fscy115.59}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.35,0:15:12.39,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.49\fscy115.62}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.39,0:15:12.55,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.5\fscy115.63}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.55,0:15:12.60,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.49\fscy115.63}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.60,0:15:12.64,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.5\fscy115.63}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.64,0:15:12.68,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(486.23,830.32)\fscx92.07\fscy116.36}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.68,0:15:12.72,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(507.75,828.18)\fscx93.77\fscy118.5}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.72,0:15:12.76,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(539.51,825.04)\fscx96.27\fscy121.66}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.76,0:15:12.80,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(575.71,821.45)\fscx99.12\fscy125.27}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.80,0:15:12.85,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(611.99,817.86)\fscx101.98\fscy128.87}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.85,0:15:12.89,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(646.07,814.48)\fscx104.66\fscy132.27}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.89,0:15:12.93,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(677.02,811.41)\fscx107.1\fscy135.35}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.93,0:15:12.97,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(704.55,808.68)\fscx109.27\fscy138.09}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:12.97,0:15:13.01,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(728.64,806.29)\fscx111.17\fscy140.49}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.01,0:15:13.05,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(749.42,804.24)\fscx112.8\fscy142.56}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.05,0:15:13.10,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(767.07,802.49)\fscx114.19\fscy144.31}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.10,0:15:13.14,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(781.76,801.03)\fscx115.35\fscy145.77}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.14,0:15:13.18,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(793.72,799.85)\fscx116.29\fscy146.96}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.18,0:15:13.22,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(803.1,798.92)\fscx117.04\fscy147.9}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.22,0:15:13.26,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(810.11,798.22)\fscx117.59\fscy148.6}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.26,0:15:13.30,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(814.91,797.75)\fscx117.96\fscy149.07}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.30,0:15:13.35,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(817.67,797.47)\fscx118.18\fscy149.35}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.35,0:15:13.39,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.39,0:15:13.72,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.72,0:15:13.85,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.85,0:15:13.89,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.89,0:15:13.93,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.93,0:15:13.97,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:13.97,0:15:14.06,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 0,0:15:14.06,0:15:15.89,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44}Nữ tử \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.14,0:15:12.18,Signs,,0,0,0,,{=5}{\frz0\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(480.99,819.16)\fscx91\fscy115}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.18,0:15:12.22,Signs,,0,0,0,,{=5}{\frz-0.01\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(480.96,819.16)\fscx91.03\fscy115.03}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.22,0:15:12.26,Signs,,0,0,0,,{=5}{\frz-0.01\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(480.92,819.16)\fscx91.05\fscy115.07}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.26,0:15:12.30,Signs,,0,0,0,,{=5}{\frz-0.54\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.96,831.05)\fscx91.44\fscy115.56}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.30,0:15:12.35,Signs,,0,0,0,,{=5}{\frz-0.54\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.92,831.05)\fscx91.47\fscy115.59}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.35,0:15:12.39,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.49\fscy115.62}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.39,0:15:12.55,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.5\fscy115.63}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.55,0:15:12.60,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.49\fscy115.63}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.60,0:15:12.64,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.5\fscy115.63}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.64,0:15:12.68,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(486.23,830.32)\fscx92.07\fscy116.36}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.68,0:15:12.72,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(507.75,828.18)\fscx93.77\fscy118.5}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.72,0:15:12.76,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(539.51,825.04)\fscx96.27\fscy121.66}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.76,0:15:12.80,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(575.71,821.45)\fscx99.12\fscy125.27}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.80,0:15:12.85,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(611.99,817.86)\fscx101.98\fscy128.87}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.85,0:15:12.89,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(646.07,814.48)\fscx104.66\fscy132.27}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.89,0:15:12.93,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(677.02,811.41)\fscx107.1\fscy135.35}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.93,0:15:12.97,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(704.55,808.68)\fscx109.27\fscy138.09}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:12.97,0:15:13.01,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(728.64,806.29)\fscx111.17\fscy140.49}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.01,0:15:13.05,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(749.42,804.24)\fscx112.8\fscy142.56}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.05,0:15:13.10,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(767.07,802.49)\fscx114.19\fscy144.31}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.10,0:15:13.14,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(781.76,801.03)\fscx115.35\fscy145.77}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.14,0:15:13.18,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(793.72,799.85)\fscx116.29\fscy146.96}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.18,0:15:13.22,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(803.1,798.92)\fscx117.04\fscy147.9}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.22,0:15:13.26,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(810.11,798.22)\fscx117.59\fscy148.6}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.26,0:15:13.30,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(814.91,797.75)\fscx117.96\fscy149.07}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.30,0:15:13.35,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(817.67,797.47)\fscx118.18\fscy149.35}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.35,0:15:13.39,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.39,0:15:13.72,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.72,0:15:13.85,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.85,0:15:13.89,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.89,0:15:13.93,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.93,0:15:13.97,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:13.97,0:15:14.06,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 0,0:15:14.06,0:15:15.89,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44}Nữ nhân \Ncó tàn \Nnhang
 Dialogue: 0,0:15:12.14,0:15:12.18,Signs,,0,0,0,,{=8}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(666.55,788.1)\fscx92.52\fscy116.93\frz357.89}đằng\N kia, \Nngươi \N ở lại
 Dialogue: 0,0:15:12.18,0:15:12.22,Signs,,0,0,0,,{=8}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(666.52,788.06)\fscx92.5\fscy116.9\frz357.91}đằng\N kia, \Nngươi \N ở lại
 Dialogue: 0,0:15:12.22,0:15:12.26,Signs,,0,0,0,,{=8}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(666.48,788.02)\fscx92.47\fscy116.86\frz357.94}đằng\N kia, \Nngươi \N ở lại
@@ -182,42 +186,42 @@ Dialogue: 0,0:15:13.97,0:15:14.01,Signs,,0,0,0,,{=8}{\c&H0C0E0E&\blur0.82\fn000 
 Dialogue: 0,0:15:14.01,0:15:14.10,Signs,,0,0,0,,{=8}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(1058.23,755.2)\fscx117.42\fscy148.39\frz359.44}đằng\N kia, \Nngươi \N ở lại
 Dialogue: 0,0:15:14.10,0:15:14.14,Signs,,0,0,0,,{=8}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(1058.23,755.19)\fscx117.42\fscy148.39\frz359.45}đằng\N kia, \Nngươi \N ở lại
 Dialogue: 0,0:15:14.14,0:15:15.89,Signs,,0,0,0,,{=8}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(1058.23,755.2)\fscx117.42\fscy148.39\frz359.44}đằng\N kia, \Nngươi \N ở lại
-Dialogue: 1,0:15:12.02,0:15:12.14,Signs,,0,0,0,,{=5=44}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\fsp2\fax-0.078300\fscx97.15\fscy125.24\frz16.3581\frx5.9572\fry11.3557\org(622.73,805.81)\pos(628.44,805.81)\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.02,0:15:12.14,Signs,,0,0,0,,{=5=44}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\fsp2\fax-0.078300\fscx97.15\fscy125.24\frz16.3581\frx5.9572\fry11.3557\org(622.73,805.81)\pos(628.44,805.81)\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
 Dialogue: 1,0:15:12.02,0:15:12.14,Signs,,0,0,0,,{=8=33}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\fsp2\fax0.020569\fscx77.09\fscy87.67\frz10.7453\frx9.9625\fry13.5451\org(776.88,744.37)\pos(775.29,744.37)\1a&H8B&}đằng\N kia, \Nngươi \N ở lại
-Dialogue: 1,0:15:12.14,0:15:12.18,Signs,,0,0,0,,{=5}{\frz0\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(480.99,819.16)\fscx91\fscy115\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.18,0:15:12.22,Signs,,0,0,0,,{=5}{\frz-0.01\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(480.96,819.16)\fscx91.03\fscy115.03\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.22,0:15:12.26,Signs,,0,0,0,,{=5}{\frz-0.01\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(480.92,819.16)\fscx91.05\fscy115.07\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.26,0:15:12.30,Signs,,0,0,0,,{=5}{\frz-0.54\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.96,831.05)\fscx91.44\fscy115.56\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.30,0:15:12.35,Signs,,0,0,0,,{=5}{\frz-0.54\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.92,831.05)\fscx91.47\fscy115.59\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.35,0:15:12.39,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.49\fscy115.62\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.39,0:15:12.55,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.5\fscy115.63\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.55,0:15:12.60,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.49\fscy115.63\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.60,0:15:12.64,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.5\fscy115.63\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.64,0:15:12.68,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(486.23,830.32)\fscx92.07\fscy116.36\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.68,0:15:12.72,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(507.75,828.18)\fscx93.77\fscy118.5\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.72,0:15:12.76,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(539.51,825.04)\fscx96.27\fscy121.66\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.76,0:15:12.80,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(575.71,821.45)\fscx99.12\fscy125.27\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.80,0:15:12.85,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(611.99,817.86)\fscx101.98\fscy128.87\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.85,0:15:12.89,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(646.07,814.48)\fscx104.66\fscy132.27\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.89,0:15:12.93,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(677.02,811.41)\fscx107.1\fscy135.35\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.93,0:15:12.97,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(704.55,808.68)\fscx109.27\fscy138.09\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:12.97,0:15:13.01,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(728.64,806.29)\fscx111.17\fscy140.49\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.01,0:15:13.05,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(749.42,804.24)\fscx112.8\fscy142.56\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.05,0:15:13.10,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(767.07,802.49)\fscx114.19\fscy144.31\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.10,0:15:13.14,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(781.76,801.03)\fscx115.35\fscy145.77\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.14,0:15:13.18,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(793.72,799.85)\fscx116.29\fscy146.96\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.18,0:15:13.22,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(803.1,798.92)\fscx117.04\fscy147.9\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.22,0:15:13.26,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(810.11,798.22)\fscx117.59\fscy148.6\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.26,0:15:13.30,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(814.91,797.75)\fscx117.96\fscy149.07\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.30,0:15:13.35,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(817.67,797.47)\fscx118.18\fscy149.35\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.35,0:15:13.39,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.39,0:15:13.72,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.72,0:15:13.85,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.85,0:15:13.89,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.89,0:15:13.93,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.93,0:15:13.97,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:13.97,0:15:14.06,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
-Dialogue: 1,0:15:14.06,0:15:15.89,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44\1a&H8B&}Nữ tử \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.14,0:15:12.18,Signs,,0,0,0,,{=5}{\frz0\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(480.99,819.16)\fscx91\fscy115\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.18,0:15:12.22,Signs,,0,0,0,,{=5}{\frz-0.01\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(480.96,819.16)\fscx91.03\fscy115.03\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.22,0:15:12.26,Signs,,0,0,0,,{=5}{\frz-0.01\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(480.92,819.16)\fscx91.05\fscy115.07\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.26,0:15:12.30,Signs,,0,0,0,,{=5}{\frz-0.54\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.96,831.05)\fscx91.44\fscy115.56\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.30,0:15:12.35,Signs,,0,0,0,,{=5}{\frz-0.54\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.92,831.05)\fscx91.47\fscy115.59\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.35,0:15:12.39,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.49\fscy115.62\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.39,0:15:12.55,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.5\fscy115.63\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.55,0:15:12.60,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.49\fscy115.63\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.60,0:15:12.64,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(478.89,831.05)\fscx91.5\fscy115.63\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.64,0:15:12.68,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(486.23,830.32)\fscx92.07\fscy116.36\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.68,0:15:12.72,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(507.75,828.18)\fscx93.77\fscy118.5\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.72,0:15:12.76,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(539.51,825.04)\fscx96.27\fscy121.66\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.76,0:15:12.80,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(575.71,821.45)\fscx99.12\fscy125.27\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.80,0:15:12.85,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(611.99,817.86)\fscx101.98\fscy128.87\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.85,0:15:12.89,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(646.07,814.48)\fscx104.66\fscy132.27\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.89,0:15:12.93,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(677.02,811.41)\fscx107.1\fscy135.35\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.93,0:15:12.97,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(704.55,808.68)\fscx109.27\fscy138.09\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:12.97,0:15:13.01,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(728.64,806.29)\fscx111.17\fscy140.49\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.01,0:15:13.05,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(749.42,804.24)\fscx112.8\fscy142.56\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.05,0:15:13.10,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(767.07,802.49)\fscx114.19\fscy144.31\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.10,0:15:13.14,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(781.76,801.03)\fscx115.35\fscy145.77\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.14,0:15:13.18,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(793.72,799.85)\fscx116.29\fscy146.96\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.18,0:15:13.22,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(803.1,798.92)\fscx117.04\fscy147.9\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.22,0:15:13.26,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(810.11,798.22)\fscx117.59\fscy148.6\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.26,0:15:13.30,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(814.91,797.75)\fscx117.96\fscy149.07\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.30,0:15:13.35,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(817.67,797.47)\fscx118.18\fscy149.35\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.35,0:15:13.39,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.39,0:15:13.72,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.72,0:15:13.85,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.85,0:15:13.89,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.89,0:15:13.93,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.93,0:15:13.97,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:13.97,0:15:14.06,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.38)\fscx118.25\fscy149.44\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
+Dialogue: 1,0:15:14.06,0:15:15.89,Signs,,0,0,0,,{=5}{\frz-0.55\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(818.56,797.39)\fscx118.25\fscy149.44\1a&H8B&}Nữ nhân \Ncó tàn \Nnhang
 Dialogue: 1,0:15:12.14,0:15:12.18,Signs,,0,0,0,,{=8}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(666.55,788.1)\fscx92.52\fscy116.93\frz357.89\1a&H8B&}đằng\N kia, \Nngươi \N ở lại
 Dialogue: 1,0:15:12.18,0:15:12.22,Signs,,0,0,0,,{=8}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(666.52,788.06)\fscx92.5\fscy116.9\frz357.91\1a&H8B&}đằng\N kia, \Nngươi \N ở lại
 Dialogue: 1,0:15:12.22,0:15:12.26,Signs,,0,0,0,,{=8}{\c&H0C0E0E&\blur0.82\fn000 ChitChat TB\bord0\shad0\fsp2\pos(666.48,788.02)\fscx92.47\fscy116.86\frz357.94\1a&H8B&}đằng\N kia, \Nngươi \N ở lại
