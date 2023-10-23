@@ -16,9 +16,9 @@ Video File: ../raws/Kusuriya - 01 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 185
-Active Line: 226
-Video Position: 24912
+Scroll Position: 280
+Active Line: 295
+Video Position: 27834
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -105,8 +105,8 @@ Dialogue: 12,0:05:25.60,0:05:28.18,Main,,0,0,0,,{\i1}Nam nhân không được p
 Dialogue: 12,0:05:28.83,0:05:33.23,Main,,0,0,0,,{\i1}Chỉ có tầng lớp cao quý nhất và chung huyết thống\N mới có thể ra vào.
 Dialogue: 12,0:05:33.62,0:05:36.27,Main,,0,0,0,,{\i1}Ngoài ra, còn có những người từng là nam nhân,
 Dialogue: 12,0:05:36.27,0:05:38.86,Main,,0,0,0,,{\i1}họ bị cắt đi của quý, các thái giám.
-Dialogue: 12,0:05:39.51,0:05:42.44,Main,,0,0,0,,{\i1}Cung nữ, tổng cộng có 2.000 người.
-Dialogue: 12,0:05:42.78,0:05:45.03,Main,,0,0,0,,{\i1}Thái giám thì 1.000 người.
+Dialogue: 12,0:05:39.51,0:05:42.44,Main,,0,0,0,,{\i1}Cung nữ và phi tần, tổng cộng có 2.000 người.
+Dialogue: 12,0:05:42.78,0:05:45.03,Main,,0,0,0,,{\i1}Thái giám thì 1.000 người, vô cùng đông.
 Dialogue: 12,0:05:45.66,0:05:49.37,Main,,0,0,0,,{\i1}Không như các phi tần từ\N thượng cấp, trung cấp cho tới hạ cấp,
 Dialogue: 12,0:05:49.37,0:05:52.21,Main,,0,0,0,,{\i1}những nô tì chạy việc như mình...
 Dialogue: 12,0:05:52.21,0:05:54.38,Main,,0,0,0,,{\i1}có thể mất mạng bất cứ lúc nào.
@@ -326,7 +326,7 @@ Dialogue: 12,0:19:07.34,0:19:09.18,Main,,0,0,0,,Loại phấn trang điểm đó
 Dialogue: 12,0:19:09.18,0:19:11.74,Main,,0,0,0,,Là nhũ mẫu của công chúa dùng.
 Dialogue: 12,0:19:12.17,0:19:16.68,Main,,0,0,0,,Nhũ mẫu nói loại phấn này\N có màu ấn tượng hơn hẳn, nên rất thích dùng.
 Dialogue: 12,0:19:17.07,0:19:20.91,Main,,0,0,0,,Nhũ mẫu cũng không khỏe \Nnên bổn cung cho nghỉ một thời gian rồi.
-Dialogue: 12,0:19:20.91,0:19:22.81,Main,,0,0,0,,Tiền cũng đã trả.
+Dialogue: 12,0:19:20.91,0:19:22.81,Main,,0,0,0,,Tiền cũng đã trả hậu hĩnh.
 Dialogue: 12,0:19:23.74,0:19:25.44,Main,,0,0,0,,Ra vậy ạ.
 Dialogue: 12,0:19:25.44,0:19:28.06,Main,,0,0,0,,Thiếu hiểu biết là cái tội ha.
 Dialogue: 12,0:19:28.06,0:19:32.11,Main,,0,0,0,,Lẽ ra bổn cung nên quan tâm hơn tới việc\N hài nhi ăn uống thế nào.
