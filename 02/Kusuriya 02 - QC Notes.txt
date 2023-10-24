@@ -3,27 +3,34 @@ Dia:
 ======================
 Mình hi hửng quá rồi.
 (hí hửng)
+~DONE
 
 Ở Phỉ Thúy Cung cốt tinh hơn cốt lượng.
 (cứ để quan tâm chất lượng hơn số lượng đi a)
+~DONE
 
 đồ ăn đã bị 2 lần hạ độc.
 (đã bị hạ độc 2 lần)
+~DONE
 
 {\i1}Thế nhưng, nhận được công việc\N cũng không phải là xui xẻo gì~
 (nhận được việc này)
+~DONE
 
 nên tình là được tăng lương.
 (tính)
+~DONE
 
 Họ còn phải băng thanh ngọc thiết,\N một lòng trung thành với Hoàng thượng.
 ("băng thanh ngọc khiết", không hiểu vì sao biết câu này sai luôn :))
 
 Thật tình!
 (Thiệt tình!)
+~GIỮ NGUYÊN (ko khác gì @@)
 
 Công hiệu khá mạnh,\N chỉ nên dừng một viên cho một lần.
 (dùng)
+~DONE
 
 ======================
 TS:
