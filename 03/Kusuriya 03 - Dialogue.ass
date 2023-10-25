@@ -16,9 +16,8 @@ Video File: ../raws/Kusuriya - 03 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 294
-Active Line: 304
-Video Position: 27622
+Active Line: 6
+Video Position: 2258
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,15 +37,6 @@ Comment: 0,0:21:04.95,0:21:04.99,Main,chptr,0,0,0,,{ED}
 Comment: 0,0:22:34.96,0:22:35.00,Main,chptr,0,0,0,,{preview}
 Comment: 0,0:00:15.41,0:00:15.45,Main,,0,0,0,opsync,{frame-2}
 Comment: 0,0:21:04.95,0:21:04.99,Main,,0,0,0,edsync,{frame-1}
-Dialogue: 2,0:01:30.99,0:01:33.99,Signs,,0,0,0,,{\fad(266,266)\blur0.66\bord0\shad0\fnUVN Cat Bien\fscx80\fscy80\pos(960,102.67)\4c&H000000&\4a&H94&}Tác phẩm này là hư cấu, tất cả tên nhân vật, tổ chức đều là sản phẩm tưởng tượng.\N Ngoài ra, câu chuyện không liên quan tới các sự kiện và sự việc ngoài đời thực.
-Dialogue: 1,0:01:30.99,0:01:33.99,Signs,,0,0,0,,{\fad(266,266)\blur0.66\bord0.8\shad0\fnUVN Cat Bien\fscx80\fscy80\pos(960,102.67)\c&HA4A4A4&\3c&HA4A4A4&\t(0,266,1,\c&H000000&\3c&H000000&)\t(2734,0,1,\c&H6A6A6A&\3c&H6A6A6A&)}Tác phẩm này là hư cấu, tất cả tên nhân vật, tổ chức đều là sản phẩm tưởng tượng.\N Ngoài ra, câu chuyện không liên quan tới các sự kiện và sự việc ngoài đời thực.
-Dialogue: 0,0:01:30.99,0:01:33.99,Signs,,0,0,0,,{\fad(266,266)\blur3\bord0\shad0\fnUVN Cat Bien\fscx80\fscy80\pos(963,105.67)\1a&H87&\c&HA4A4A4&\t(0,266,1,\c&H000000&)\t(2734,0,1,\c&H6A6A6A&)}Tác phẩm này là hư cấu, tất cả tên nhân vật, tổ chức đều là sản phẩm tưởng tượng.\N Ngoài ra, câu chuyện không liên quan tới các sự kiện và sự việc ngoài đời thực.
-Dialogue: 1,0:01:35.28,0:01:39.29,Epi.name,,0,0,0,,{\an6\fad(500,500)\blur0.66\bord0\shad0\yshad1.5\c&HF9F9F9&\pos(1807.07,877.87)}Tập 3      U linh náo loạn
-Dialogue: 1,0:22:34.96,0:22:49.97,Signs,,0,0,0,,{\an8\blur0.667\bord0\shad0\fnUTM Khuccamta\b0\c&HFFFFFF&\fscx91\fscy91\pos(249.6,137.2)}GIỚI THIỆU TẬP SAU
-Dialogue: 0,0:22:34.96,0:22:49.97,Signs,,0,0,0,,{\an8\blur2.4\bord0\shad0\fnUTM Khuccamta\b0\c&H000000&\fscx91\fscy91\pos(249.6,139.2)\1a&H00&}GIỚI THIỆU TẬP SAU
-Dialogue: 1,0:22:46.47,0:22:49.97,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur0.66\bord0\shad0\yshad0\pos(1804,877.87)}Tập 4      Đe dọa
-Dialogue: 0,0:22:46.47,0:22:49.97,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur3.6\bord0\shad0\yshad0\c&H000000&\1a&H16&\pos(1804,877.87)}Tập 4      Đe dọa
-Dialogue: 0,0:22:46.47,0:22:49.97,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur3.6\bord0\shad0\yshad0\c&H000000&\1a&H16&\pos(1804,877.87)}Tập 4      Đe dọa
 Dialogue: 12,0:01:34.16,0:01:34.99,Main,,0,0,0,,Ôi không.
 Dialogue: 12,0:01:35.98,0:01:36.91,Main,,0,700,0,,Ngự ban sao?
 Dialogue: 12,0:01:41.96,0:01:43.13,Main,,0,0,0,,Bổn cung hiểu rồi.
@@ -59,16 +49,16 @@ Dialogue: 12,0:02:31.01,0:02:33.47,Main,,0,0,0,,Muội nhớ cát và nắng ở
 Dialogue: 12,0:02:33.47,0:02:36.39,Main,,0,0,0,,Ở Tây Đô sáng ra với tối đến\N cũng lạnh mà.
 Dialogue: 12,0:02:36.39,0:02:37.76,Main,,0,0,0,,Tây Đô à?
 Dialogue: 12,0:02:38.10,0:02:40.31,Main,,0,0,0,,Tự dưng hoài niệm ghê.
-Dialogue: 12,0:02:40.31,0:02:43.56,Main,,0,0,0,,Cảm giác như vừa mới tới tiến cung hầu hạ\N Ngọc Diệp quý phi hôm quá ấy.
+Dialogue: 12,0:02:40.31,0:02:44.11,Main,,0,0,0,,Cảm giác cứ như vừa mới tiến cung hầu hạ\N Ngọc Diệp quý phi hôm qua ấy.
 Dialogue: 12,0:02:44.69,0:02:48.44,Main,,0,800,0,,{\q2}Muội nói mới nhớ, \Ntrong thư phụ thân hài lòng lắm.
 Dialogue: 12,0:02:48.44,0:02:52.50,Main,,0,800,0,,{\q2}Gần đây, giao thương giữa Tây Đô\Nvà triều đình ngày càng phát đạt.
-Dialogue: 12,0:02:53.03,0:02:55.45,Main,,0,900,0,,{\q2}Là nhờ Ngọc Diệp nương nương\Nđược sủng ái dó!
+Dialogue: 12,0:02:53.03,0:02:55.45,Main,,0,900,0,,{\q2}Là nhờ Ngọc Diệp nương nương\Nđược sủng ái đó!
 Dialogue: 12,0:02:55.95,0:02:58.99,Main,,0,900,0,,{\q2}Thì đó là quê của ái phi \Nđược lòng Hoàng thượng cơ mà.
 Dialogue: 12,0:02:58.99,0:03:01.19,Main,,0,900,0,,Đương nhiên triều đình \Nkhông thể xem nhẹ.
 Dialogue: 12,0:03:01.66,0:03:03.71,Main,,0,900,0,,Muội tính dọn dẹp\N trù phòng à?
 Dialogue: 12,0:03:03.71,0:03:05.04,Main,,0,900,0,,Vậy để tỷ giúp một tay.
 Dialogue: 12,0:03:06.46,0:03:08.75,Main,,0,0,0,,Không chia việc ra \Nthì không xong nổi đúng không?
-Dialogue: 12,0:03:08.75,0:03:10.80,Main,,0,0,0,,Chúng ta đâu thể nhờ cậu các cung nữ khác.
+Dialogue: 12,0:03:08.75,0:03:10.80,Main,,0,0,0,,Chúng ta đâu thể nhờ cậy các cung nữ khác.
 Dialogue: 12,0:03:10.80,0:03:13.76,Main,,0,0,0,,Nhớ lần tìm thấy trâm độc\Ntrong y phục của nương nương chứ?
 Dialogue: 12,0:03:13.76,0:03:16.84,Main,,0,0,0,,Lúc nương nương mang thai ấy, \Nsợ phát khiếp đi được.
 Dialogue: 12,0:03:16.84,0:03:19.82,Main,,0,0,0,,Muội nghĩ một phần là do \Nnương nương xuất thân ngoại tộc.
@@ -92,7 +82,7 @@ Dialogue: 12,0:04:02.97,0:04:05.81,Main,,0,0,0,,Muội biết chứ! Là ma nữ
 Dialogue: 12,0:04:06.35,0:04:07.58,Main,,0,0,0,,Nổi tiếng vậy sao?
 Dialogue: 12,0:04:08.06,0:04:11.54,Main,,0,0,0,,Tất cả cung nữ, thái giám và phi tần\N đều đang bàn tán.
 Dialogue: 12,0:04:12.23,0:04:14.57,Main,,0,0,0,,Cũng được nửa tháng rồi.
-Dialogue: 12,0:04:14.57,0:04:18.84,Main,,0,0,0,,Ma nữ áo trắng nhảy múa\N giữa không trung dưới ánh trắng ý~
+Dialogue: 12,0:04:14.57,0:04:18.84,Main,,0,0,0,,Ma nữ áo trắng nhảy múa\N giữa không trung dưới ánh trăng ý~
 Dialogue: 12,0:04:20.28,0:04:23.20,Main,,0,0,0,,Đêm nào cũng thế,\N trên tường thành ở Đông môn.
 Dialogue: 12,0:04:29.08,0:04:31.89,Main,,0,0,0,,Hậu cung được bao quanh bởi tường thành.
 Dialogue: 12,0:04:32.38,0:04:35.38,Main,,0,0,0,,Lối ra vào duy nhất...
@@ -122,7 +112,7 @@ Dialogue: 12,0:05:48.12,0:05:49.18,Main,,0,0,0,,Có ngay ạ!
 Dialogue: 12,0:05:53.71,0:05:55.31,Main,,0,0,0,,Ngươi vất vả rồi.
 Dialogue: 12,0:05:55.68,0:05:57.23,Main,,0,0,0,,Nô tì không dám.
 Dialogue: 12,0:05:58.51,0:06:00.34,Main,,0,0,0,,{\i1}Hắn ta... rảnh đến vậy à?
-Dialogue: 12,0:06:01.18,0:06:03.72,Main,,0,0,0,,{\i1}Thái giám thì phải ở Phủ Nội thị chứ?
+Dialogue: 12,0:06:01.18,0:06:03.72,Main,,0,0,0,,{\i1}Thái giám thì phải ở phủ Nội thị chứ?
 Dialogue: 12,0:06:03.72,0:06:06.47,Main,,0,0,0,,{\i1}Vậy mà cứ như kiểu\N hắn giám sát toàn bộ hậu cung vậy,
 Dialogue: 12,0:06:06.47,0:06:07.99,Main,,0,0,0,,{\i1}lượn là lượn lờ.
 Dialogue: 12,0:06:09.68,0:06:11.35,Main,,0,0,0,,{\i1}Nếu thế thì chức vụ của hắn...
@@ -282,7 +272,7 @@ Dialogue: 12,0:15:39.88,0:15:41.83,Main,,0,0,0,,nhưng vì mắc chứng bệnh 
 Dialogue: 12,0:15:42.38,0:15:45.19,Main,,0,0,0,,nên số tiền chuộc chỉ còn một nửa.
 Dialogue: 12,0:15:46.26,0:15:49.26,Main,,0,0,0,,Tuy nhiên, toàn bộ là một vở kịch.
 Dialogue: 12,0:15:49.68,0:15:50.96,Main,,0,0,0,,Vở kịch?
-Dialogue: 12,0:15:51.56,0:15:54.14,Main,,0,0,0,,Hai nam nhân đề nghị chuộc thân kỹ nó đó,
+Dialogue: 12,0:15:51.56,0:15:54.14,Main,,0,0,0,,Hai nam nhân đề nghị chuộc thân kỹ nữ đó,
 Dialogue: 12,0:15:54.14,0:15:55.77,Main,,0,0,0,,họ là người quen của nhau.
 Dialogue: 12,0:15:56.65,0:15:58.73,Main,,0,0,0,,Kỹ nữ đã vờ bị bệnh...
 Dialogue: 12,0:15:58.73,0:16:01.71,Main,,0,0,0,,để lần chuộc thân đầu tiên bị hủy bỏ.
@@ -300,11 +290,11 @@ Dialogue: 12,0:16:30.72,0:16:33.14,Main,,0,0,0,,nghe nói đã lập được ch
 Dialogue: 12,0:17:03.59,0:17:05.80,Main,,0,0,0,,Khi được ban thưởng,
 Dialogue: 12,0:17:05.80,0:17:08.98,Main,,0,0,0,,võ tướng đó đã quả quyết \Nyêu cầu Phù Dung nương nương.
 Dialogue: 12,0:17:12.39,0:17:14.47,Main,,0,0,0,,Có lẽ ngay từ khi còn ở quê,
-Dialogue: 12,0:17:14.47,0:17:16.95,Main,,0,0,0,,đã nghĩ tính tới việc này rồi.
+Dialogue: 12,0:17:14.47,0:17:16.95,Main,,0,0,0,,đã tính tới việc này rồi.
 Dialogue: 12,0:17:17.73,0:17:21.41,Main,,0,0,0,,Là một võ tướng thì không đủ địa vị\Nđể cầu hôn công chúa.
 Dialogue: 12,0:17:22.65,0:17:26.42,Main,,0,0,0,,Thế rồi, nàng công chúa ấy phải tiến cung.
 Dialogue: 12,0:17:27.40,0:17:30.41,Main,,0,0,0,,Và nàng công chúa ấy\Ncũng có tình cảm với người bạn kia.
-Dialogue: 12,0:17:31.41,0:17:33.91,Main,,0,0,0,,Thế nên mới cố tình múa lỗi\N dù đây là thế mạnh,
+Dialogue: 12,0:17:31.41,0:17:33.91,Main,,0,0,0,,Thế nên, mới cố tình múa lỗi\N dù đây là thế mạnh,
 Dialogue: 12,0:17:33.91,0:17:37.93,Main,,0,0,0,,để Hoàng thượng\N không có hứng thú gì với mình.
 Dialogue: 12,0:17:38.79,0:17:41.08,Main,,0,0,0,,Đúng như kế hoạch, vẫn chưa hề chăn gối,
 Dialogue: 12,0:17:41.08,0:17:43.18,Main,,0,0,0,,cho đến giờ vẫn còn trong trắng.
@@ -317,7 +307,7 @@ Dialogue: 12,0:18:00.48,0:18:01.95,Main,,0,0,0,,Không thể nói trước đư�
 Dialogue: 12,0:18:02.44,0:18:05.61,Main,,0,0,0,,Cuộc viễn chinh diễn ra ở phía Đông.
 Dialogue: 12,0:18:05.61,0:18:08.57,Main,,0,0,0,,Và nơi Phù Dung nương nương\N đã múa mỗi đêm là...
 Dialogue: 12,0:18:10.07,0:18:11.07,Main,,0,0,0,,Đông môn?
-Dialogue: 12,0:18:12.45,0:18:15.18,Main,,0,0,0,,Có lẽ nương nương muốn cầu nguyện \Ncho võ tướng kia bình an trở về.
+Dialogue: 12,0:18:12.45,0:18:15.18,Main,,0,0,0,,Chắc nương nương muốn cầu nguyện \Ncho võ tướng kia bình an trở về.
 Dialogue: 12,0:18:15.18,0:18:17.41,Main,,0,0,0,,Dù sao, đây cũng chỉ là phỏng đoán.
 Dialogue: 12,0:18:50.82,0:18:52.89,Main,,0,0,0,,Này, Miêu Miêu.
 Dialogue: 12,0:18:52.89,0:18:53.46,Main,,0,0,0,,Vâng.
@@ -333,17 +323,41 @@ Dialogue: 12,0:20:19.62,0:20:22.73,Main,,0,0,0,,Nếu tình yêu làm cho nữ n
 Dialogue: 12,0:20:25.50,0:20:27.97,Main,,0,0,0,,thì nó sẽ là liều thuốc gì đây?
 Dialogue: 12,0:20:55.36,0:20:59.02,Main,,0,0,0,,Trẫm có chuyện muốn hỏi\N dược sư đang được mọi người bàn tán.
 Dialogue: 12,0:22:46.47,0:22:48.89,Main,,0,900,0,,Kỳ tới, "Đe dọa".
-Dialogue: 0,0:18:18.02,0:18:26.45,InsertSong,,0,0,0,,Ngọn gió kia, trong một đêm lặng lẽ thoang thoảng truyền tải đi...
-Dialogue: 0,0:18:26.45,0:18:36.43,InsertSong,,0,0,0,,biết bao tâm nguyện mà thiếp giấu kín suốt nhiều năm trời.
-Dialogue: 0,0:18:55.03,0:19:03.65,InsertSong,,0,0,0,,Nếu thật sự, thiếp được ở bên chàng chứ không phải tâm tình trong mơ,
-Dialogue: 0,0:19:03.65,0:19:12.09,InsertSong,,0,0,0,,thì nguyện lòng, thiếp sẵn sàng lừa dối người đời.
-Dialogue: 0,0:19:12.09,0:19:20.58,InsertSong,,0,0,0,,
-Dialogue: 0,0:19:20.58,0:19:28.94,InsertSong,,0,0,0,,
-Dialogue: 0,0:19:30.10,0:19:37.33,InsertSong,,0,0,0,,
-Dialogue: 0,0:19:38.37,0:19:48.96,InsertSong,,0,0,0,,
-Dialogue: 0,0:19:50.21,0:19:58.46,InsertSong,,0,0,0,,
-Dialogue: 0,0:19:58.46,0:20:06.90,InsertSong,,0,0,0,,
-Dialogue: 0,0:20:06.90,0:20:15.65,InsertSong,,0,0,0,,
-Dialogue: 0,0:20:15.65,0:20:24.79,InsertSong,,0,0,0,,
-Dialogue: 0,0:20:25.95,0:20:34.26,InsertSong,,0,0,0,,
-Dialogue: 0,0:20:34.26,0:20:44.22,InsertSong,,0,0,0,,
+Dialogue: 0,0:18:18.02,0:18:20.16,InsertSong,,0,0,0,,{\blur6\bord3\3c&H8D5F21&}Ngọn gió kia, gói gọn trong một đêm, thoang thoảng truyền đi...
+Dialogue: 0,0:18:20.16,0:18:24.17,InsertSong,,0,0,0,,{\blur6\bord3\3c&H162157&}Ngọn gió kia, gói gọn trong một đêm, thoang thoảng truyền đi...
+Dialogue: 0,0:18:24.17,0:18:26.45,InsertSong,,0,0,0,,{\blur6\bord3\3c&H6E6593&}Ngọn gió kia, gói gọn trong một đêm, thoang thoảng truyền đi...
+Dialogue: 0,0:18:26.45,0:18:28.92,InsertSong,,0,0,0,,{\blur6\bord3\3c&H6E6593&}biết bao tâm nguyện mà thiếp giấu kín suốt nhiều năm trời.
+Dialogue: 0,0:18:28.92,0:18:31.93,InsertSong,,0,0,0,,{\blur6\bord3\3c&HA37444&}biết bao tâm nguyện mà thiếp giấu kín suốt nhiều năm trời.
+Dialogue: 0,0:18:31.93,0:18:34.93,InsertSong,,0,0,0,,{\blur6\bord3\3c&H6E6593&}biết bao tâm nguyện mà thiếp giấu kín suốt nhiều năm trời.
+Dialogue: 0,0:18:55.14,0:18:56.95,InsertSong,,0,0,0,,{\fad(300,0)\blur6\bord3\3c&HAFA669&}Nếu thật sự, thiếp được ở bên chàng chứ không phải tâm tình trong mơ,
+Dialogue: 0,0:18:56.95,0:19:01.58,InsertSong,,0,0,0,,{\blur6\bord3\3c&H5757B0&}Nếu thật sự, thiếp được ở bên chàng chứ không phải tâm tình trong mơ,
+Dialogue: 0,0:19:01.58,0:19:03.65,InsertSong,,0,0,0,,{\blur6\bord3\3c&H775640&}Nếu thật sự, thiếp được ở bên chàng chứ không phải tâm tình trong mơ,
+Dialogue: 0,0:19:03.65,0:19:07.59,InsertSong,,0,0,0,,{\blur6\bord3\3c&H775640&}thì nguyện lòng, thiếp sẵn sàng lừa dối người đời.
+Dialogue: 0,0:19:07.59,0:19:12.09,InsertSong,,0,0,0,,{\blur6\bord3\3c&HC1B165&}thì nguyện lòng, thiếp sẵn sàng lừa dối người đời.
+Dialogue: 0,0:19:12.09,0:19:19.10,InsertSong,,0,0,0,,{\blur6\bord3\3c&H965F1D&}Thiếp nơi đây, ngẩng đầu nhìn trăng sáng tựa thiềm quang,
+Dialogue: 0,0:19:19.10,0:19:20.58,InsertSong,,0,0,0,,{\blur6\bord3\3c&H342B84&}Thiếp nơi đây, ngẩng đầu nhìn trăng sáng tựa thiềm quang,
+Dialogue: 0,0:19:20.58,0:19:21.10,InsertSong,,0,0,0,,{\blur6\bord3\3c&H342B84&}cùng lúc đó, thiếp nhớ về chàng giữa điệu múa phủ đầy minh nguyệt.
+Dialogue: 0,0:19:21.10,0:19:23.89,InsertSong,,0,0,0,,{\blur6\bord3\3c&H453334&}cùng lúc đó, thiếp nhớ về chàng giữa điệu múa phủ đầy minh nguyệt.
+Dialogue: 0,0:19:23.89,0:19:28.94,InsertSong,,0,0,0,,{\blur6\bord3\3c&H52494A&}cùng lúc đó, thiếp nhớ về chàng giữa điệu múa phủ đầy minh nguyệt.
+Dialogue: 0,0:19:30.10,0:19:31.94,InsertSong,,0,0,0,,{\fad(200,0)\blur6\bord3\3c&H90601E&}Càng mãnh liệt, càng khao khát cháy bóng thì...
+Dialogue: 0,0:19:31.94,0:19:37.79,InsertSong,,0,0,0,,{\fad(0,500)\blur6\bord3\3c&H90601E&}Càng mãnh liệt, càng khao khát cháy bóng thì...
+Dialogue: 0,0:19:38.95,0:19:41.95,InsertSong,,0,0,0,,{\blur6\bord3\3c&H50A4C0&}càng chuyển màu, càng tỏa ánh từng chút một.
+Dialogue: 0,0:19:41.95,0:19:45.96,InsertSong,,0,0,0,,{\blur6\bord3\3c&H77BAD0&}càng chuyển màu, càng tỏa ánh từng chút một.
+Dialogue: 0,0:19:45.96,0:19:49.10,InsertSong,,0,0,0,,{\fad(0,500)\blur6\bord3\3c&H656A4F&}càng chuyển màu, càng tỏa ánh từng chút một.
+Dialogue: 0,0:19:50.14,0:19:50.96,InsertSong,,0,0,0,,{\fad(300,0)\blur6\bord3\3c&H656A4F&}Viễn cảnh khi hoa nở rộ đẹp nhất, chàng tới ôm hoa vào lòng,
+Dialogue: 0,0:19:50.96,0:19:54.59,InsertSong,,0,0,0,,{\blur6\bord3\3c&H656A4F&}Viễn cảnh khi hoa nở rộ đẹp nhất, chàng tới ôm hoa vào lòng,
+Dialogue: 0,0:19:54.59,0:19:58.46,InsertSong,,0,0,0,,{\blur6\bord3\3c&H9E6927&}Viễn cảnh khi hoa nở rộ đẹp nhất, chàng tới ôm hoa vào lòng,
+Dialogue: 0,0:19:58.46,0:20:00.60,InsertSong,,0,0,0,,{\blur6\bord3\3c&H9E6927&}thiếp chính là đóa hoa ấy, vẫn luôn tin rằng ngày đó sẽ đến.
+Dialogue: 0,0:20:00.60,0:20:03.10,InsertSong,,0,0,0,,{\blur6\bord3\3c&H272B7A&}thiếp chính là đóa hoa ấy, vẫn luôn tin rằng ngày đó sẽ đến.
+Dialogue: 0,0:20:03.10,0:20:06.10,InsertSong,,0,0,0,,{\blur6\bord3\3c&H25255F&}thiếp chính là đóa hoa ấy, vẫn luôn tin rằng ngày đó sẽ đến.
+Dialogue: 0,0:20:06.10,0:20:06.98,InsertSong,,0,0,0,,{\blur6\bord3\3c&H30448E&}thiếp chính là đóa hoa ấy, vẫn luôn tin rằng ngày đó sẽ đến.
+Dialogue: 0,0:20:06.98,0:20:09.11,InsertSong,,0,0,0,,{\blur6\bord3\3c&H30448E&}Mặc kệ cuộc đời trước mắt xoay vòng biến chuyển ra sao,
+Dialogue: 0,0:20:09.11,0:20:11.55,InsertSong,,0,0,0,,{\blur6\bord3\3c&H412468&}Mặc kệ cuộc đời trước mắt xoay vòng biến chuyển ra sao,
+Dialogue: 0,0:20:11.55,0:20:12.11,InsertSong,,0,0,0,,{\blur6\bord3\3c&H412468&}thiếp vẫn không đánh mất chính mình.
+Dialogue: 0,0:20:12.11,0:20:15.65,InsertSong,,0,0,0,,{\blur6\bord3\3c&H571C49&}thiếp vẫn không đánh mất chính mình.
+Dialogue: 0,0:20:15.65,0:20:19.82,InsertSong,,0,0,0,,{\blur6\bord3\3c&H571C49&}Và rồi trong khung cảnh mơ ước ấy,
+Dialogue: 0,0:20:19.82,0:20:24.79,InsertSong,,0,0,0,,{\blur6\bord3\3c&H571C49&}một ngày nọ thiếp sẽ đâm chồi nảy lộc.
+Dialogue: 0,0:20:25.95,0:20:34.26,InsertSong,,0,0,0,,{\fad(300,0)\blur6\bord3\3c&H571C49&}Ngọn gió kia, gói gọn trong một đêm, thoang thoảng truyền đi...
+Dialogue: 0,0:20:34.26,0:20:35.80,InsertSong,,0,0,0,,{\blur6\bord3\3c&H571C49&}biết bao tâm nguyện mà thiếp giấu kín suốt nhiều năm trời.
+Dialogue: 0,0:20:35.80,0:20:38.80,InsertSong,,0,0,0,,{\blur6\bord3\3c&H1D1D52&}biết bao tâm nguyện mà thiếp giấu kín suốt nhiều năm trời.
+Dialogue: 0,0:20:38.80,0:20:44.46,InsertSong,,0,0,0,,{\fad(0,500)\blur6\bord3\3c&H393177&}biết bao tâm nguyện mà thiếp giấu kín suốt nhiều năm trời.
