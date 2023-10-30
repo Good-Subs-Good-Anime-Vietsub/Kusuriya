@@ -37,5 +37,5 @@ Dialogue: 1,0:01:39.70,0:01:43.67,Epi.name,,0,0,0,,{\an6\fad(500,500)\blur0.66\b
 Dialogue: 1,0:22:35.04,0:22:50.06,Signs,,0,0,0,,{\an8\blur0.667\bord0\shad0\fnUTM Khuccamta\b0\c&HFFFFFF&\fscx91\fscy91\pos(249.6,137.2)}GIỚI THIỆU TẬP SAU
 Dialogue: 0,0:22:35.04,0:22:50.06,Signs,,0,0,0,,{\an8\blur2.4\bord0\shad0\fnUTM Khuccamta\b0\c&H000000&\fscx91\fscy91\pos(249.6,139.2)\1a&H00&}GIỚI THIỆU TẬP SAU
 Dialogue: 1,0:22:46.55,0:22:50.06,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur0.66\bord0\shad0\yshad0\pos(1826,877.87)}Tập 5     Giật dây
-Dialogue: 0,0:22:46.55,0:22:50.06,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur3.6\bord0\shad0\yshad0\c&H000000&\1a&H16&\pos(1844,877.87)}Tập 5     Giật dây
-Dialogue: 0,0:22:46.55,0:22:50.06,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur3.6\bord0\shad0\yshad0\c&H000000&\1a&H16&\pos(1844,877.87)}Tập 5     Giật dây
+Dialogue: 0,0:22:46.55,0:22:50.06,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur3.6\bord0\shad0\yshad0\c&H000000&\1a&H16&\pos(1826,877.87)}Tập 5     Giật dây
+Dialogue: 0,0:22:46.55,0:22:50.06,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur3.6\bord0\shad0\yshad0\c&H000000&\1a&H16&\pos(1826,877.87)}Tập 5     Giật dây
