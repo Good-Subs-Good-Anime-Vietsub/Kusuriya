@@ -3,21 +3,27 @@ Dia:
 ======================
 Rắc từ trong hậu cung...
 (Rác)
+~DONE
 
 Thậm chí là cả màu nữa.
 (màu này nữa)
+~DONE
 
 Cứ 2 năm một lần, tại ngự hoa viên,
 (2 lần một năm)
+~DONE
 
 Lần trước, \Ncả Ngọc Diệp quý phi và Lê Hoa quý phí...
 (quý phi) ở cuối câu
+~DONE
 
 Đức Phi, Lí Thụ nương nương.
 (Lí hay Lý, idk)
+~DONE  (như nhau)
 
 Miêu Miêu, người giúp ta nhiều quá.
 (ngươi)
+~DONE
 
 thì đối với người mua cũng không khác gì.
 (cuối câu trước chấm câu)

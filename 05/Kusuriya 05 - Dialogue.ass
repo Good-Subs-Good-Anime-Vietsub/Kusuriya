@@ -16,9 +16,9 @@ Video File: ../raws/Kusuriya - 05 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 148
-Active Line: 153
-Video Position: 14476
+Scroll Position: 160
+Active Line: 172
+Video Position: 15842
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -110,7 +110,7 @@ Dialogue: 12,0:05:48.33,0:05:49.91,Main,,0,800,0,,Cô nương chuẩn bị giúp
 Dialogue: 12,0:05:50.33,0:05:51.46,Main,,0,800,0,,Vâng.
 Dialogue: 12,0:05:52.54,0:05:54.92,Main,,0,0,0,,Vậy, lời nguyền là như nào?
 Dialogue: 12,0:05:55.63,0:05:59.13,Main,,0,0,0,,Chuyện là... vào đêm hôm kia...
-Dialogue: 12,0:05:59.97,0:06:01.95,Main,,0,0,0,,Rắc từ trong hậu cung...
+Dialogue: 12,0:05:59.97,0:06:01.95,Main,,0,0,0,,Rác từ trong hậu cung...
 Dialogue: 12,0:06:01.95,0:06:04.04,Main,,0,0,0,,sẽ được đem đốt ở lò phía Tây.
 Dialogue: 12,0:06:04.39,0:06:07.14,Main,,0,0,0,,Đêm đó, nô tài vẫn làm việc như thường lệ...
 Dialogue: 12,0:06:09.39,0:06:10.29,Main,,0,0,0,,{\blur6\bord3}Cái gì đây?
@@ -125,7 +125,7 @@ Dialogue: 12,0:06:41.70,0:06:42.80,Main,,0,0,0,,nên tay nô tài mới...
 Dialogue: 12,0:06:44.89,0:06:46.43,Main,,0,0,0,,Ngọn lửa mà huynh thấy...
 Dialogue: 12,0:06:46.67,0:06:48.04,Main,,0,0,0,,có màu như này à?
 Dialogue: 12,0:06:51.39,0:06:53.21,Main,,0,0,0,,Nếu không thì là màu này.
-Dialogue: 12,0:06:55.65,0:06:57.05,Main,,0,0,0,,Thậm chí là cả màu nữa.
+Dialogue: 12,0:06:55.65,0:06:57.05,Main,,0,0,0,,Thậm chí là cả màu này nữa.
 Dialogue: 12,0:06:58.86,0:07:01.06,Main,,0,0,0,,Cô nương, rốt cuộc đó là?
 Dialogue: 12,0:07:01.53,0:07:03.39,Main,,0,0,0,,Tương tự như cách làm pháo hoa.
 Dialogue: 12,0:07:03.74,0:07:06.80,Main,,0,0,0,,Có một số thứ sẽ đổi màu khi đem đi đốt.
@@ -178,7 +178,7 @@ Dialogue: 12,0:09:32.14,0:09:33.39,Main,,0,0,0,,{\i1}Mình có dự cảm chẳn
 Dialogue: 12,0:09:37.39,0:09:38.77,Main,,0,0,0,,Bộ y phục này là sao?
 Dialogue: 12,0:09:39.31,0:09:42.81,Main,,0,0,0,,Thế cũng phải hỏi,\N là y phục cho tiệc hoa viên đó.
 Dialogue: 12,0:09:42.81,0:09:44.17,Main,,0,0,0,,Tiệc hoa viên ạ?
-Dialogue: 12,0:09:44.17,0:09:46.71,Main,,0,0,0,,Cứ 2 năm một lần, tại ngự hoa viên,
+Dialogue: 12,0:09:44.17,0:09:46.71,Main,,0,0,0,,Cứ 2 lần 1 năm, tại ngự hoa viên,
 Dialogue: 12,0:09:46.71,0:09:48.94,Main,,0,0,0,,Hoàng thượng cùng bá quan trong triều \Nsẽ tụ họp lại,
 Dialogue: 12,0:09:48.94,0:09:50.95,Main,,0,0,0,,thưởng thức ca vũ và dùng tiệc.
 Dialogue: 12,0:09:51.49,0:09:55.91,Main,,0,0,0,,Hoàng thượng vẫn chưa lập chính thê,\N nên chưa có Hoàng hậu.
@@ -193,9 +193,8 @@ Dialogue: 12,0:10:12.80,0:10:14.72,Main,,0,0,0,,Quý Phi, Ngọc Diệp nương 
 Dialogue: 12,0:10:15.04,0:10:17.18,Main,,0,0,0,,Hiền Phi, Lê Hoa nương nương.
 Dialogue: 12,0:10:17.18,0:10:19.35,Main,,0,0,0,,Đức Phi, Lí Thụ nương nương.
 Dialogue: 12,0:10:19.35,0:10:21.18,Main,,0,0,0,,Thục Phi, A Đa nương nương.
-Dialogue: 12,0:10:22.13,0:10:24.40,Main,,0,0,0,,Lần trước, \Ncả Ngọc Diệp quý phi và Lê Hoa quý phí...
-Dialogue: 12,0:10:24.40,0:10:26.79,Main,,0,0,0,,đều vắng mặt do sắp sinh.
-Dialogue: 12,0:10:26.79,0:10:29.71,Main,,0,0,0,,Vậy nên lần này là dịp\Ncả bốn nương nương cùng góp mặt.
+Dialogue: 12,0:10:22.13,0:10:26.79,Main,,0,0,0,,Lần trước, cả Ngọc Diệp quý phi và Lê Hoa quý phi\N đều vắng mặt do sắp sinh.
+Dialogue: 12,0:10:26.79,0:10:29.71,Main,,0,0,0,,Vậy nên lần này là dịp\N để cả bốn nương nương cùng góp mặt.
 Dialogue: 12,0:10:29.71,0:10:32.24,Main,,0,0,0,,Thế chúng ta sẽ làm gì ở đó?
 Dialogue: 12,0:10:32.24,0:10:35.03,Main,,0,0,0,,Cũng không cần làm gì đặc biệt đâu.
 Dialogue: 12,0:10:38.12,0:10:40.79,Main,,0,0,0,,Chúng ta được mời tới dự tiệc,
@@ -204,8 +203,8 @@ Dialogue: 12,0:10:44.04,0:10:46.29,Main,,0,0,0,,Thi thoảng bá quan trong tri�
 Dialogue: 12,0:10:46.29,0:10:48.55,Main,,0,0,0,,Nên nhớ là luôn tươi cười nhé.
 Dialogue: 12,0:10:52.01,0:10:53.97,Main,,0,0,0,,Vậy là... tất cả đều phải tham dự ạ?
 Dialogue: 12,0:10:53.97,0:10:55.84,Main,,0,0,0,,Lại còn phải hỏi!
-Dialogue: 12,0:10:56.35,0:10:58.60,Main,,0,0,0,,Lần đầu công chúa Linh Lệ ra mắt!
-Dialogue: 12,0:10:58.60,0:11:01.10,Main,,0,0,0,,Lại có đầy đủ các phi tần thượng cấp\N lẫn các hoạt động.
+Dialogue: 12,0:10:56.35,0:10:58.57,Main,,0,0,0,,Lần đầu công chúa Linh Lệ ra mắt!
+Dialogue: 12,0:10:58.57,0:11:01.10,Main,,0,0,0,,Lại có đầy đủ các phi tần thượng cấp\N lẫn các hoạt động.
 Dialogue: 12,0:11:01.60,0:11:04.73,Main,,0,0,0,,Đây là một trận chiến!\NChúng ta phải chiến hết mình!
 Dialogue: 12,0:11:05.23,0:11:07.56,Main,,0,0,0,,Xông pha!~
 Dialogue: 12,0:11:09.05,0:11:12.03,Main,,0,0,0,,{\i1}Ngọc Diệp nương nương vốn đã có ít thị nữ rồi,
@@ -286,7 +285,7 @@ Dialogue: 12,0:16:28.43,0:16:29.84,Main,,0,0,0,,Ngọc Diệp nương nương ha
 Dialogue: 12,0:16:32.26,0:16:35.31,Main,,0,0,0,,{\i1}Ngài ấy hậu thuẫn \NNgọc Diệp nương nương nhiều như vậy...
 Dialogue: 12,0:16:35.31,0:16:38.47,Main,,0,0,0,,{\i1}liệu có phải là do \Nđã tìm được món đồ chơi yêu thích không?
 Dialogue: 12,0:16:39.63,0:16:41.55,Main,,0,0,0,,{\i1}Mình biết phải làm gì đây trời!
-Dialogue: 12,0:16:45.82,0:16:48.18,Main,,0,0,0,,Miêu Miêu, người giúp ta nhiều quá.
+Dialogue: 12,0:16:45.82,0:16:48.18,Main,,0,0,0,,Miêu Miêu, ngươi giúp ta nhiều quá.
 Dialogue: 12,0:16:48.65,0:16:50.78,Main,,0,0,0,,Là phúc của nô tì ạ.
 Dialogue: 12,0:16:51.12,0:16:52.84,Main,,0,0,0,,Thỉnh an Ngọc Diệp nương nương.
 Dialogue: 12,0:16:53.08,0:16:54.29,Main,,0,0,0,,Ôi, quý hóa quá.
@@ -326,7 +325,7 @@ Dialogue: 12,0:18:49.44,0:18:50.99,Main,,0,0,0,,Có chuyện đó à.
 Dialogue: 12,0:18:52.12,0:18:53.11,Main,,0,0,0,,Ta xin lỗi.
 Dialogue: 12,0:18:53.60,0:18:55.49,Main,,0,0,0,,Vì đã cai quản không nghiêm.
 Dialogue: 12,0:18:55.49,0:18:57.95,Main,,0,0,0,,Không sao ạ, nô tì không quan tâm lắm.
-Dialogue: 12,0:18:57.95,0:19:01.56,Main,,0,0,0,,Dù là bắt cóc trái phép, hay bán thân đúng luật.
+Dialogue: 12,0:18:57.95,0:19:01.56,Main,,0,0,0,,Dù là bắt cóc trái phép, hay bán thân đúng luật,
 Dialogue: 12,0:19:01.56,0:19:04.08,Main,,0,0,0,,thì đối với người mua cũng không khác gì.
 Dialogue: 12,0:19:05.50,0:19:07.34,Main,,0,0,0,,Ngươi không tức giận sao?
 Dialogue: 12,0:19:07.59,0:19:09.58,Main,,0,0,0,,Tất nhiên là có chứ ạ.
