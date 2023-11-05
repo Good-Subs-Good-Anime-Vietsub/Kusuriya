@@ -16,9 +16,6 @@ Video File: ../raws/Kusuriya - 05 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 160
-Active Line: 172
-Video Position: 15842
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,6 +29,12 @@ Style: InsertSong,SVN-Bree,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.02,Main,chptr,0,0,0,,{OP}
+Comment: 0,0:01:29.99,0:01:30.03,Main,chptr,0,0,0,,{episode}
+Comment: 0,0:21:05.04,0:21:05.08,Main,chptr,0,0,0,,{ED}
+Comment: 0,0:22:35.04,0:22:35.08,Main,chptr,0,0,0,,{preview}
+Comment: 0,0:00:15.41,0:00:15.45,Main,,0,0,0,opsync,{frame-2}
+Comment: 0,0:21:05.04,0:21:05.08,Main,,0,0,0,edsync,{frame-1}
 Dialogue: 12,0:02:18.42,0:02:19.84,Main,,0,0,0,,Nô tài nhận thua.
 Dialogue: 12,0:02:23.63,0:02:25.58,Main,,0,0,0,,Ngươi tiến bộ nhiều đó, Mã Thiểm.
 Dialogue: 12,0:02:26.05,0:02:26.58,Main,,0,0,0,,Không dám.
