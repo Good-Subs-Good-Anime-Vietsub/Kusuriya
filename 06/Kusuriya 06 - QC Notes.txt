@@ -3,25 +3,33 @@ Dia:
 ======================
 Giờ thì xúc miệng với nước…
 (súc miệng)
+~DONE
 
 Biết điều mà biết ơn tôi đi!
 (không ổn lắm, ở từ "biết ơn")
+~DONE
 
 {\i1}Thôi chết! Vì có độc hưng phấn quá \Nmà lỡ cười mất rồi!
 (cũng không ổn, hơi cụt)
+~GIỮ
 
 {\i1}Vậy việc không hắn ở tiệc hoa viên, \Nra là vì thế à?
 (Vậy việc hắn không)
+~DONE
 
 {\i1}Nhưng giờ, trông hắn \Ncũng như mấy người khác cùng trang lứa,
 (mấy người cùng trang lứa khác)
 (cuối câu này phẩy, đầu câu sau viết hoa)
+~DONE
 
 Mó không hề khó.
 (Nó)
+~DONE
 
 Đây là chuyện liên quan tính mạng.
 (liên quan đến tính mạng)
+~DONE
+
 ======================
 TS:
 ======================

@@ -15,7 +15,10 @@ Audio File: ../raws/Kusuriya - 06 (CR).mkv
 Video File: ../raws/Kusuriya - 06 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
+Video Zoom Percent: 0.500000
+Scroll Position: 172
+Active Line: 177
+Video Position: 19942
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,7 +67,7 @@ Dialogue: 0,0:03:41.58,0:03:44.83,Main,,0,0,0,,{\i1}Mấy thị nữ đó... là
 Dialogue: 0,0:03:45.13,0:03:47.55,Main,,0,0,0,,Giời ạ~ Anh Hoa lại thế rồi.
 Dialogue: 0,0:03:47.55,0:03:49.92,Main,,0,0,0,,Lại đi đôi co hộ chủ tử rồi.
 Dialogue: 0,0:03:49.92,0:03:51.50,Main,,0,0,0,,Chúng ta cũng qua đó nào.
-Dialogue: 0,0:03:51.50,0:03:55.80,Main,,0,0,0,,Mà, tuyển cả con bé xấu xí kìa, \Nđúng là hết nói.
+Dialogue: 0,0:03:51.50,0:03:55.80,Main,,0,0,0,,Mà, tuyển cả con bé xấu xí kia, \Nđúng là hết nói.
 Dialogue: 0,0:03:55.80,0:03:58.76,Main,,0,0,0,,{\i1}Xấu xí? Ý là nói mình à?
 Dialogue: 0,0:03:58.76,0:04:01.30,Main,,0,0,0,,Mất hết cả mặt!
 Dialogue: 0,0:04:01.70,0:04:04.27,Main,,0,0,0,,Nói cái gì cơ?!
@@ -72,14 +75,14 @@ Dialogue: 0,0:04:04.63,0:04:05.65,Main,,0,0,0,,Anh Hoa~
 Dialogue: 0,0:04:05.65,0:04:07.35,Main,,0,0,0,,Bình tĩnh lại nào!
 Dialogue: 0,0:04:07.85,0:04:09.81,Main,,0,0,0,,{\i1}Cô ta không nhận ra mình à?
 Dialogue: 0,0:04:09.81,0:04:13.11,Main,,0,0,0,,{\i1}Hồi ở Thuỷ Tinh Cung hợp nhau thế cơ mà.
-Dialogue: 0,0:04:13.73,0:04:17.40,Main,,0,0,0,,Nếu cô quá đáng, tôi sẽ mách phụ thân đấy!
+Dialogue: 0,0:04:13.73,0:04:17.40,Main,,0,0,0,,Nếu cô quá đáng quá,\N tôi sẽ mách phụ thân đấy!
 Dialogue: 0,0:04:21.62,0:04:25.12,Main,,0,0,0,,Vậy thì... tôi sẽ khiến cô không còn\N người ngợm để mà mách!
 Dialogue: 0,0:04:30.25,0:04:31.13,Main,,0,0,0,,Ơ?
 Dialogue: 0,0:04:31.92,0:04:34.46,Main,,0,0,0,,{\i1}Chỉ là đùa vui kiểu kỹ nữ thôi mà...
 Dialogue: 0,0:04:37.53,0:04:41.09,Main,,0,0,0,,Xin lỗi Miêu Miêu mau!
 Dialogue: 0,0:04:50.79,0:04:52.65,Main,,0,0,0,,S-Sao câm như hến rồi?
 Dialogue: 0,0:04:53.27,0:04:55.82,Main,,0,0,0,,T-Thôi tạm tha cho cô đó.
-Dialogue: 0,0:04:57.47,0:04:59.55,Main,,0,0,0,,Biết điều mà biết ơn tôi đi!
+Dialogue: 0,0:04:57.47,0:04:59.55,Main,,0,0,0,,Liệu mà biết ơn đi!
 Dialogue: 0,0:05:00.93,0:05:02.81,Main,,0,0,0,,Bị cái gì thế nhờ?!
 Dialogue: 0,0:05:02.81,0:05:05.25,Main,,0,0,0,,Mà này... Miêu Miêu có sao không?
 Dialogue: 0,0:05:05.25,0:05:07.97,Main,,0,0,0,,Muội xinh thế này cơ mà.
@@ -100,12 +103,12 @@ Dialogue: 0,0:05:52.67,0:05:54.89,Main,,0,0,0,,Họ cũng không ưa nhau mấy 
 Dialogue: 0,0:05:55.96,0:05:58.84,Main,,0,0,0,,Đức Phi thì mới có 14 tuổi,
 Dialogue: 0,0:05:58.84,0:06:01.84,Main,,0,0,0,,trong khi Thục Phi thì 35 tuổi, có thâm niên rồi.
 Dialogue: 0,0:06:01.84,0:06:03.80,Main,,0,0,0,,Nên sao mà hợp nhau cho được.
-Dialogue: 0,0:06:03.80,0:06:06.47,Main,,0,0,0,,Trước đây còn là mẹ chồng nàng dâu nữa.
+Dialogue: 0,0:06:03.80,0:06:06.47,Main,,0,0,0,,Trước đây còn là {\i1}mẹ chồng nàng dâu{\i0} nữa.
 Dialogue: 0,0:06:07.01,0:06:08.47,Main,,0,0,0,,Mẹ chồng nàng dâu?
 Dialogue: 0,0:06:08.47,0:06:11.56,Main,,0,0,0,,À thì... cũng hơi phức tạp...
 Dialogue: 0,0:06:12.06,0:06:14.98,Main,,0,0,0,,Một người từng là phi tần của Tiên đế,
 Dialogue: 0,0:06:14.98,0:06:18.36,Main,,0,0,0,,người còn lại thì là\Nphi tần của Hoàng thượng đương triều.
-Dialogue: 0,0:06:18.36,0:06:21.61,Main,,0,0,0,,Nhưng rồi, Tiên đế đã băng hà.
+Dialogue: 0,0:06:18.36,0:06:21.61,Main,,0,0,0,,Nhưng rồi, Tiên đế băng hà...
 Dialogue: 0,0:06:21.61,0:06:24.49,Main,,0,0,0,,Người từng là phi tần của Tiên đế xuất gia,
 Dialogue: 0,0:06:24.49,0:06:27.94,Main,,0,0,0,,Sau đó, lại hoàn tục làm phi tần của Hoàng thượng.
 Dialogue: 0,0:06:28.24,0:06:30.66,Main,,0,0,0,,Tiên đế băng hà 5 năm trước.
@@ -117,17 +120,17 @@ Dialogue: 0,0:06:45.84,0:06:48.77,Main,,0,0,0,,Thái phi 9 tuổi…
 Dialogue: 0,0:06:49.71,0:06:51.78,Main,,0,0,0,,Thái... phi ?
 Dialogue: 0,0:06:54.77,0:06:56.98,Main,,0,0,0,,{\i1}Người từng là phi tần của Tiên đế là…
 Dialogue: 0,0:06:57.69,0:06:59.28,Main,,0,0,0,,{\i1}Lí Thụ nương nương?
-Dialogue: 0,0:07:16.79,0:07:18.84,Main,,0,0,0,,{\i1}Kia là Thái phi trẻ tuổi đó sao?
+Dialogue: 0,0:07:16.79,0:07:18.84,Main,,0,0,0,,{\i1}Ra đó là Thái phi trẻ tuổi sao?
 Dialogue: 0,0:07:19.53,0:07:21.63,Main,,0,0,0,,Muội cũng nhìn thấy rồi đó.
 Dialogue: 0,0:07:21.63,0:07:25.26,Main,,0,0,0,,Đức Phi Lí Thụ vẫn còn ít tuổi lắm.
 Dialogue: 0,0:07:25.26,0:07:26.59,Main,,0,0,0,,Phải vậy rồi.
 Dialogue: 0,0:07:27.22,0:07:31.01,Main,,0,0,0,,{\i1}Theo truyền thống,\NĐức Phi nên mặc y phục màu trắng.
 Dialogue: 0,0:07:31.01,0:07:33.06,Main,,0,0,0,,{\i1}Nhưng kia lại là hồng đậm…
 Dialogue: 0,0:07:33.06,0:07:36.06,Main,,0,0,0,,{\i1}Rõ ràng là bị trùng màu\Nvới Quý Phi Ngọc Diệp nương nương.
-Dialogue: 0,0:07:36.73,0:07:39.20,Main,,0,0,0,,{\i1}Chắc là tính tình vẫn trẻ con không để ý.
-Dialogue: 0,0:07:42.23,0:07:45.86,Main,,0,0,0,,May mà có đá nung của muội đấy,\N lần tới lại nhờ muội nha.
+Dialogue: 0,0:07:36.73,0:07:39.20,Main,,0,0,0,,{\i1}Chắc là tính tình vẫn trẻ con không để ý ha.
+Dialogue: 0,0:07:42.23,0:07:45.86,Main,,0,0,0,,May mà có đá nung của muội đấy,\N lần sau lại nhờ muội nha.
 Dialogue: 0,0:07:45.86,0:07:46.92,Main,,0,0,0,,Vâng.
-Dialogue: 0,0:07:49.98,0:07:50.95,Main,,0,0,0,,Lạnh quá…
+Dialogue: 0,0:07:49.98,0:07:50.95,Main,,700,0,0,,Lạnh quá…
 Dialogue: 0,0:07:57.08,0:07:59.08,Main,,0,0,0,,Nếu lạnh quá thì cầm lấy cái này đi.
 Dialogue: 0,0:08:03.56,0:08:04.64,Main,,0,0,0,,Nè.
 Dialogue: 0,0:08:05.46,0:08:06.22,Main,,0,0,0,,Nè!
@@ -136,7 +139,7 @@ Dialogue: 0,0:08:16.14,0:08:20.19,Main,,0,0,0,,Lại còn "cho phép muội chia
 Dialogue: 0,0:08:20.19,0:08:23.32,Main,,0,0,0,,Muội còn xin phép cả Ngọc Diệp nương nương nữa.
 Dialogue: 0,0:08:23.32,0:08:24.48,Main,,0,0,0,,Vầng.
 Dialogue: 0,0:08:27.78,0:08:29.28,Main,,0,0,0,,Trâm cài tóc?
-Dialogue: 0,0:08:29.28,0:08:34.37,Main,,0,0,0,,Đó là cách họ chiêu mộ\Nnhững nhân tài ẩn mình trong tiệc hoa viên đó.
+Dialogue: 0,0:08:29.28,0:08:34.37,Main,,0,0,0,,Đó là cách họ chào mời những người có năng lực\N tiềm tàng trong tiệc hoa viên đó.
 Dialogue: 0,0:08:35.58,0:08:38.25,Main,,0,0,0,,Nhưng... vẫn còn có ý khác nữa.
 Dialogue: 0,0:08:38.90,0:08:40.12,Main,,0,0,0,,Vậy à.
 Dialogue: 0,0:08:40.50,0:08:42.42,Main,,0,0,0,,Tỷ bảo là còn có ý khác cơ mà!
@@ -145,35 +148,35 @@ Dialogue: 0,0:08:53.28,0:08:55.47,Main,,0,0,0,,Xin nhận cho, thưa tiểu thư
 Dialogue: 0,0:09:01.19,0:09:03.31,Main,,0,0,0,,{\i1}Để không có thị nữ nào phải xấu hổ.
 Dialogue: 0,0:09:03.31,0:09:05.53,Main,,0,0,0,,{\i1}Nên huynh ấy đưa cho tất cả à.
 Dialogue: 0,0:09:08.64,0:09:09.53,Main,,0,0,0,,Đa tạ.
-Dialogue: 0,0:09:09.78,0:09:11.92,Main,,0,0,0,@@,Hạ quan là Lí Bạch.
-Dialogue: 0,0:09:12.20,0:09:13.74,Main,,0,0,0,,Hân hạnh!
+Dialogue: 0,0:09:09.78,0:09:11.92,Main,,0,0,0,,Hạ quan là Lí Bạch.
+Dialogue: 0,0:09:12.20,0:09:13.30,Main,,0,0,0,,Hân hạnh!
 Dialogue: 0,0:09:15.78,0:09:17.04,Main,,0,900,0,,Cứ như con cún to xác.
 Dialogue: 0,0:09:17.04,0:09:17.70,Main,,0,900,0,,Gâu! Gâu!
 Dialogue: 0,0:09:18.26,0:09:20.29,Main,,0,0,0,,Muội nhận được rồi sao? \NXem với, xem với!
-Dialogue: 0,0:09:20.96,0:09:22.67,Main,,0,0,0,,Chỉ là quà cho người tham dự thôi.
-Dialogue: 0,0:09:23.29,0:09:25.30,Main,,0,0,0,,Ngươi buồn vì chỉ được có thế thôi sao?
+Dialogue: 0,0:09:20.96,0:09:22.67,Main,,0,0,0,,Chỉ là quà tham dự thôi.
+Dialogue: 0,0:09:23.29,0:09:25.25,Main,,0,0,0,,Chỉ được có thế nên buồn sao?
 Dialogue: 0,0:09:30.16,0:09:31.38,Main,,0,0,0,,Lâu rồi không gặp ngươi.
 Dialogue: 0,0:09:31.70,0:09:33.39,Main,,0,0,0,,Đã lâu không gặp, nương nương.
-Dialogue: 0,0:09:40.39,0:09:42.27,Main,,0,0,0,@@,Bổn cung chỉ làm được có thế thôi.
+Dialogue: 0,0:09:40.39,0:09:42.27,Main,,0,0,0,,Bổn cung chỉ làm được có thế thôi.
 Dialogue: 0,0:09:42.48,0:09:43.91,Main,,0,0,0,,Lê Hoa nương nương?
 Dialogue: 0,0:09:44.73,0:09:45.94,Main,,0,0,0,,Đi thôi nào!
 Dialogue: 0,0:09:46.36,0:09:47.78,Main,,0,0,0,,Ngươi bảo trọng nhé.
 Dialogue: 0,0:09:51.72,0:09:53.32,Main,,0,0,0,,Thế này thì Ngọc Diệp nương nương…
-Dialogue: 0,0:09:54.32,0:09:56.41,Main,,0,0,0,,Sẽ không chỉ buồn một chút thôi đâu.
-Dialogue: 0,0:09:57.74,0:09:59.62,Main,,0,0,0,,Nên làm gì với cái trâm đó đây?
-Dialogue: 0,0:10:12.26,0:10:13.22,Main,,0,0,0,,{\i1}Ồ.
-Dialogue: 0,0:10:15.34,0:10:18.02,Main,,0,0,0,,{\i1}Nhìn cũng ra gì quá.
+Dialogue: 0,0:09:54.32,0:09:56.41,Main,,0,0,0,,...sẽ khá là bực cho xem.
+Dialogue: 0,0:09:57.74,0:09:59.62,Main,,0,0,0,,Nên làm gì với cái trâm này đây?
+Dialogue: 0,0:10:12.26,0:10:13.22,Main,,0,0,0,,{\i1}Ồ~
+Dialogue: 0,0:10:15.34,0:10:18.02,Main,,0,0,0,,{\i1}Nhìn cũng ra gì quá nhở.
 Dialogue: 0,0:10:19.28,0:10:22.14,Main,,0,0,0,,{\i1}Coi bộ chức danh cao hơn mình nghĩ.
-Dialogue: 0,0:10:22.14,0:10:25.27,Main,,0,0,0,,{\i1}Dù đứng cùng các quan võ khác\N mà không thấy lạc lõng gì cả.
-Dialogue: 0,0:10:26.69,0:10:29.23,Main,,0,0,0,,{\i1}Uây, cả vị quan võ khi nãy nữa.
+Dialogue: 0,0:10:22.14,0:10:25.27,Main,,0,0,0,,{\i1}Dù đứng cùng các quan võ khác\N mà trông không lạc lõng gì cả.
+Dialogue: 0,0:10:26.69,0:10:29.23,Main,,0,0,0,,{\i1}Uây? Cả vị quan võ khi nãy nữa.
 Dialogue: 0,0:10:29.23,0:10:32.78,Main,,0,0,0,,{\i1}Huynh ấy xếp ở hàng cuối,\N còn khá trẻ, chắc là mới được cất nhắc.
 Dialogue: 0,0:10:34.24,0:10:37.45,Main,,0,0,0,,{\i1}Tên thái giám bóng bẩy đó không có mặt.
 Dialogue: 0,0:10:37.45,0:10:39.12,Main,,0,0,0,,{\i1}Nhưng kệ thây hắn.
 Dialogue: 0,0:10:45.08,0:10:46.88,Main,,0,0,0,,{\i1}Quan trọng là tới giờ thử độc rồi.
-Dialogue: 0,0:10:50.34,0:10:52.63,Main,,0,0,0,@@,{\i1}Bề mặt tiếp xúc không có vẩn đục.
+Dialogue: 0,0:10:50.34,0:10:52.63,Main,,0,0,0,@@,{\i1}Những chỗ tiếp xúc không có vết nhơ.
 Dialogue: 0,0:10:55.05,0:10:56.76,Main,,0,0,0,,{\i1}Cũng không có mùi lạ.
 Dialogue: 0,0:10:58.35,0:11:02.53,Main,,0,0,0,,{\i1}Nhưng chừng nào chưa nuốt \Nthì việc thử độc vẫn chưa xong.
-Dialogue: 0,0:11:05.77,0:11:08.36,Main,,0,0,0,,{\i1}Giờ thì xúc miệng với nước…
+Dialogue: 0,0:11:05.77,0:11:08.36,Main,,0,0,0,,{\i1}Giờ thì súc miệng với nước…
 Dialogue: 0,0:11:20.45,0:11:24.51,Main,,0,0,0,,{\i1}Mạng của người thử độc... phải nói là rẻ mạt.
 Dialogue: 0,0:11:25.12,0:11:27.90,Main,,0,0,0,,{\i1}Chắc có mình mình là thích thú với thử độc.
 Dialogue: 0,0:11:28.25,0:11:30.75,Main,,0,0,0,,{\i1}Mình muốn nếm độc cá nóc quá!
@@ -183,7 +186,7 @@ Dialogue: 0,0:11:43.60,0:11:44.93,Main,,0,0,0,,{\i1}Tập trung nào!
 Dialogue: 0,0:11:45.22,0:11:48.19,Main,,0,0,0,,{\i1}Món gỏi cá kèm rau, \Nmón yêu thích của Hoàng thượng đây mà.
 Dialogue: 0,0:11:48.69,0:11:50.80,Main,,0,0,0,,{\i1}Đôi khi món này cũng có trong hậu cung.
 Dialogue: 0,0:11:50.80,0:11:53.74,Main,,0,0,0,,{\i1}Tuy thường thì họ dùng thanh ngư,
-Dialogue: 0,0:11:54.32,0:11:55.70,Main,,0,0,0,,{\i1}nhưng nay thì là sứa à.
+Dialogue: 0,0:11:54.32,0:11:55.70,Main,,0,0,0,,{\i1}nhưng nay lại là sứa à.
 Dialogue: 0,0:11:56.04,0:11:58.66,Main,,0,0,0,,{\i1}Thượng trù phụ trách bữa ăn cho Hoàng thượng...
 Dialogue: 0,0:11:58.66,0:12:01.20,Main,,0,0,0,,{\i1}sẽ không nhầm lẫn \Nnguyên liệu yêu thích của Hoàng thượng.
 Dialogue: 0,0:12:01.90,0:12:04.84,Main,,0,0,0,,{\i1}Ngọc Diệp nương nương\N thì không hẳn là kén chọn món nào.
@@ -195,7 +198,7 @@ Dialogue: 0,0:12:43.24,0:12:44.86,Main,,0,0,0,,Huynh có thấy không, Lí Bạ
 Dialogue: 0,0:12:44.86,0:12:47.41,Main,,0,0,0,,Người thử độc đó có vẻ rất khí thế.
 Dialogue: 0,0:12:47.41,0:12:49.96,Main,,0,0,0,,Vừa nhìn người ta ăn vừa lo...
 Dialogue: 0,0:12:50.28,0:12:52.29,Main,,0,0,0,,cho tính mạng của họ thì có gì hay ho?
-Dialogue: 0,0:12:52.29,0:12:54.39,Main,,0,0,0,,Thì cứ nhìn đi!
+Dialogue: 0,0:12:52.29,0:12:54.28,Main,,0,0,0,,Thì cứ nhìn đi!
 Dialogue: 0,0:12:56.63,0:12:57.72,Main,,0,0,0,,Người thử độc đó…
 Dialogue: 0,0:12:58.51,0:13:00.10,Main,,0,0,0,,là tiểu thư ban nãy à?
 Dialogue: 0,0:13:23.95,0:13:26.08,Main,,0,0,0,,N-Nó ngon đến thế sao?
@@ -204,9 +207,10 @@ Dialogue: 0,0:13:36.74,0:13:37.76,Main,,0,0,0,,...có độc ạ!
 Dialogue: 0,0:13:43.54,0:13:45.24,Main,,0,0,0,,Trong canh của Quý Phi có độc sao?
 Dialogue: 0,0:13:45.24,0:13:47.10,Main,,0,0,0,,Thật sự có độc à?
 Dialogue: 0,0:13:47.36,0:13:49.35,Main,,0,0,0,,Người thử độc đã uống canh rồi còn!
-Dialogue: 0,0:13:49.58,0:13:51.73,Main,,0,0,0,,Tổng quản! Ngài làm gì…
-Dialogue: 0,0:13:51.73,0:13:54.73,Main,,0,0,0,,{\i1}Mặc lễ phục khó chịu quá.
-Dialogue: 0,0:13:56.36,0:13:59.49,Main,,0,0,0,,Tổng quản uống canh xong ngất rồi!
+Dialogue: 0,0:13:49.58,0:13:51.73,GT 2,,0,0,0,,(Chỗ này chưa rõ chức quan lắm nên có thể sai, chi tiết lên web "gsga.moe")
+Dialogue: 0,0:13:49.58,0:13:51.73,Main,,0,0,0,@@,{\i1}Thượng thư{\i0} đại nhân! Sao đại nhân lại...
+Dialogue: 0,0:13:51.73,0:13:54.73,Main,,0,0,0,,{\i1}Mặc lễ phục khó chịu thật.
+Dialogue: 0,0:13:56.36,0:13:59.49,Main,,0,0,0,,Này! {\i1}Thượng thư{\i0} uống canh xong ngất rồi!
 Dialogue: 0,0:14:03.91,0:14:04.98,Main,,0,0,0,,Dược sư…
 Dialogue: 0,0:14:10.54,0:14:11.48,Main,,0,0,0,,Dược sư!
 Dialogue: 0,0:14:12.42,0:14:15.05,Main,,0,0,0,,Nô tì thỉnh an, Nhâm Thị đại nhân!
@@ -214,9 +218,9 @@ Dialogue: 0,0:14:15.38,0:14:17.30,Main,,0,0,0,,Ngươi tự "thỉnh an" mình t
 Dialogue: 0,0:14:18.21,0:14:21.97,Main,,0,900,0,,{\i1}Thôi chết! Vì có độc hưng phấn quá \Nmà lỡ cười mất rồi!
 Dialogue: 0,0:14:25.93,0:14:27.35,Main,,0,0,0,,Ngài định làm gì nô tì ạ?
 Dialogue: 0,0:14:27.60,0:14:28.80,Main,,0,0,0,,Tới y phòng.
-Dialogue: 0,0:14:29.39,0:14:33.27,Main,,0,0,0,,Nô tì đã nhổ chỗ độc ra rồi,\Nkhông có vấn đề gì nữa.
+Dialogue: 0,0:14:29.39,0:14:33.27,Main,,0,0,0,,Nô tì đã nhổ độc ra rồi, không còn vấn đề gì nữa.
 Dialogue: 0,0:14:34.44,0:14:37.98,Main,,0,0,0,,{\i1}Thật ra thì mình muốn nuốt luôn ý~
-Dialogue: 0,0:14:37.98,0:14:42.03,Main,,0,0,0,,{\i1}Nếu nuốt, chất độc sẽ lan ra khắp cơ thể...
+Dialogue: 0,0:14:37.98,0:14:42.03,Main,,0,0,0,,{\i1}Nếu nuốt, chất độc sẽ lan ra khắp cơ thể~
 Dialogue: 0,0:14:42.30,0:14:44.62,Main,,0,0,0,,Nhâm Thị đại nhân, chuyện là…
 Dialogue: 0,0:14:45.22,0:14:46.03,Main,,0,0,0,,Có chuyện gì?
 Dialogue: 0,0:14:46.36,0:14:48.58,Main,,0,0,0,,Xin hãy ban cho nô tì chỗ canh còn lại!
@@ -225,7 +229,7 @@ Dialogue: 0,0:14:52.58,0:14:55.17,Main,,0,0,0,,Đại nhân nên nói là nô t�
 Dialogue: 0,0:14:56.71,0:14:58.71,Main,,0,0,0,,Sau khi ngươi rời đi,
 Dialogue: 0,0:14:58.71,0:15:02.09,Main,,0,0,0,,có người sinh nghi là có độc hay không\N nên đã thử và bị ngất rồi.
 Dialogue: 0,0:15:02.09,0:15:04.63,Main,,0,0,0,,Ai mà dở hơi thế?
-Dialogue: 0,0:15:04.63,0:15:08.10,Main,,0,0,0,@@,Là Tổng quản.\N Nhờ thế mà náo loạn cả lên rồi.
+Dialogue: 0,0:15:04.63,0:15:08.10,Main,,0,0,0,,Là {\i1}Thượng thư{\i0}.\N Nhờ thế mà náo loạn cả lên rồi.
 Dialogue: 0,0:15:09.93,0:15:12.23,Main,,0,0,0,,Vậy thì hãy dùng thứ này ạ.
 Dialogue: 0,0:15:12.68,0:15:17.19,Main,,0,0,0,,Là thuốc nôn, có tác dụng\N nôn mửa tức thời, lộn ngược tùng phèo luôn.
 Dialogue: 0,0:15:17.19,0:15:18.61,Main,,0,0,0,,Khác gì độc đâu?
@@ -233,11 +237,11 @@ Dialogue: 0,0:15:19.65,0:15:20.54,Main,,0,0,0,,Ơ!
 Dialogue: 0,0:15:27.45,0:15:29.37,Main,,0,0,0,,{\i1}Trâm cài tóc mới?
 Dialogue: 0,0:15:30.16,0:15:32.67,Main,,0,0,0,,{\i1}Vậy là thái giám cũng được nhận trâm à?
 Dialogue: 0,0:15:33.16,0:15:36.00,Main,,0,0,0,,{\i1}Để ý mới thấy, cổ áo hắn có phần xộc xệch.
-Dialogue: 0,0:15:36.00,0:15:38.79,Main,,0,0,0,,{\i1}Trông không bóng bẩy như mọi khi.
-Dialogue: 0,0:15:39.67,0:15:43.30,Main,,0,0,0,,{\i1}Vậy việc không hắn ở tiệc hoa viên, \Nra là vì thế à?
-Dialogue: 0,0:15:44.30,0:15:47.80,Main,,0,0,0,,{\i1}Nhưng giờ, trông hắn \Ncũng như mấy người khác cùng trang lứa,
+Dialogue: 0,0:15:36.00,0:15:38.00,Main,,0,0,0,,{\i1}Trông không bóng bẩy như mọi khi.
+Dialogue: 0,0:15:39.67,0:15:43.30,Main,,0,0,0,,{\i1}Vậy việc hắn không ở tiệc hoa viên, \Nra là vì thế à?
+Dialogue: 0,0:15:44.30,0:15:47.80,Main,,0,0,0,,{\i1}Nhưng giờ, trông hắn \Ncũng như mấy người cùng trang lứa khác...
 Dialogue: 0,0:15:49.05,0:15:52.48,Main,,0,0,0,,{\i1}Hay đúng hơn... khá là trẻ ấy chứ.
-Dialogue: 0,0:15:54.85,0:15:57.08,Main,,0,0,0,,{\i1}Nhìn thế này tốt hơn ha.
+Dialogue: 0,0:15:54.85,0:15:57.08,Main,,0,0,0,,{\i1}Nom thế này vẫn tốt hơn ha.
 Dialogue: 0,0:16:03.36,0:16:04.38,Main,,0,0,0,,{\i1}Có tác dụng này!
 Dialogue: 0,0:16:04.38,0:16:07.75,Main,,0,0,0,,{\i1}Thuốc trong cung nó phải thế chứ!
 Dialogue: 0,0:16:09.14,0:16:10.24,Main,,0,0,0,,Ngươi có ổn không đó?
@@ -247,18 +251,19 @@ Dialogue: 0,0:16:20.42,0:16:23.44,Main,,0,0,0,,Ai đã đầu độc Ngọc Di�
 Dialogue: 0,0:16:23.44,0:16:26.42,Main,,0,0,0,,Về chuyện đó, nô tì muốn ngài\Ncho gọi một người tới đây.
 Dialogue: 0,0:16:27.38,0:16:28.18,Main,,0,0,0,,Là ai?
 Dialogue: 0,0:16:28.90,0:16:33.10,Main,,0,0,0,,Là Đức Phi, Lí Thụ nương nương,\N phiền đại nhân cho gọi nương nương ạ.
-Dialogue: 0,0:16:34.14,0:16:37.52,Main,,0,0,0,,Nhâm Thị đại nhân!\N Ngài gọi ta đến có việc gì sao?
+Dialogue: 0,0:16:34.14,0:16:35.10,Main,,0,0,0,,Nhâm Thị đại nhân!
+Dialogue: 0,0:16:35.54,0:16:37.52,Main,,0,0,0,,Ngài gọi ta đến có việc gì sao?
 Dialogue: 0,0:16:38.14,0:16:40.98,Main,,0,0,0,,Xin thứ lỗi vì bắt nương nương\Nđến một nơi tồi tàn thế này.
 Dialogue: 0,0:16:41.34,0:16:44.52,Main,,0,0,0,,Người muốn gặp nương nương là thị nữ này.
 Dialogue: 0,0:16:49.12,0:16:50.34,Main,,0,0,0,,Thị nữ?
 Dialogue: 0,0:16:53.12,0:16:54.06,Main,,0,0,0,,Nô tì xin phép!
 Dialogue: 0,0:16:58.48,0:16:59.25,Main,,0,0,0,,Biết ngay mà.
 Dialogue: 0,0:17:01.33,0:17:03.04,Main,,0,0,0,,Nương nương không ăn được\Nhải sản phải không?
-Dialogue: 0,0:17:06.70,0:17:08.16,Main,,0,0,0,,Chuyện này là sao?
+Dialogue: 0,0:17:06.70,0:17:08.16,Main,,0,0,0,,Tức là sao?
 Dialogue: 0,0:17:08.16,0:17:11.97,Main,,0,0,0,,Có một số người bị dị ứng với một số thứ.
 Dialogue: 0,0:17:11.97,0:17:15.39,GT 2,,0,0,0,,{\i1\pos(1405.34,928.67)}(soba)
 Dialogue: 0,0:17:11.97,0:17:15.39,Main,,0,0,0,,Với nô tì thì nô tì không ăn được {\i1}mì kiều mạch{\i0}.
-Dialogue: 0,0:17:15.39,0:17:17.77,Main,,0,0,0,,Nhưng ngươi còn ăn cả độc cơ mà?
+Dialogue: 0,0:17:15.39,0:17:17.77,Main,,0,0,0,,Nhưng ngươi còn ăn được cả độc cơ mà?
 Dialogue: 0,0:17:17.77,0:17:19.52,Main,,0,0,0,,Đại nhân thôi đi được không.
 Dialogue: 0,0:17:19.52,0:17:21.77,Main,,0,0,0,,Nô tì cố ăn mì kiều mạch lắm rồi đó.
 Dialogue: 0,0:17:22.58,0:17:27.03,Main,,0,0,0,,Thế nhưng, cổ họng bị nghẹn lại \Nvà nô tì không thở nổi.
@@ -270,28 +275,28 @@ Dialogue: 0,0:17:41.46,0:17:42.70,Main,,0,0,0,,Nô tì có thuốc nhuận tràn
 Dialogue: 0,0:17:47.46,0:17:48.84,Main,,0,0,0,,Sao ngươi lại biết?
 Dialogue: 0,0:17:49.22,0:17:51.09,Main,,0,0,0,,Đồ ăn tại tiệc hoa viên...
 Dialogue: 0,0:17:51.09,0:17:54.22,Main,,0,0,0,,đều do hậu cung chuẩn bị.
-Dialogue: 0,0:17:54.22,0:17:58.06,Main,,0,0,0,,Tuy nhiên, nguyên liệu làm món \Ngỏi cá kèm rau này khác với bình thường.
-Dialogue: 0,0:17:58.38,0:18:00.06,Main,,0,0,0,,Nô tì cứ đinh ninh là có nhầm lẫn...
+Dialogue: 0,0:17:54.22,0:17:58.06,Main,,0,0,0,,Tuy nhiên, nguyên liệu làm món \Ngỏi cá kèm rau này khác so với bình thường.
+Dialogue: 0,0:17:58.38,0:18:00.06,Main,,0,0,0,,Nô tì nghĩ là đã có nhầm lẫn...
 Dialogue: 0,0:18:00.06,0:18:04.16,Main,,0,0,0,,dẫn đến đồ ăn của Ngọc Diệp nương nương\Nvà Lí Thụ nương nương bị hoán đổi.
-Dialogue: 0,0:18:04.16,0:18:05.90,Main,,0,0,0,,Vậy à.
+Dialogue: 0,0:18:04.16,0:18:05.40,Main,,0,0,0,,Vậy à.
 Dialogue: 0,0:18:05.90,0:18:08.36,Main,,0,0,0,,Có phải nương nương\Nkhông ăn được cá thu không?
 Dialogue: 0,0:18:15.66,0:18:18.38,Main,,0,0,0,,Đây không chỉ đơn thuần là\N kén cá chọn canh.
 Dialogue: 0,0:18:18.91,0:18:21.21,Main,,0,0,0,,Lần này may là chỉ bị phát ban,
 Dialogue: 0,0:18:21.87,0:18:24.80,Main,,0,0,0,,chứ không cẩn thận là không thở nổi luôn.
 Dialogue: 0,0:18:25.75,0:18:27.97,Main,,0,0,0,,Nếu biết mà vẫn phục vụ món đó…
-Dialogue: 0,0:18:28.84,0:18:31.77,Main,,0,0,0,,thì so với đầu độc, cũng không khác gì.
+Dialogue: 0,0:18:28.84,0:18:31.77,Main,,0,0,0,,thì so với đầu độc, cũng không khác mấy.
 Dialogue: 0,0:18:39.12,0:18:42.35,Main,,0,0,0,,Cô kia!\N Cô là người thử độc phải không?
 Dialogue: 0,0:18:43.81,0:18:44.70,Main,,0,0,0,,Vâng.
 Dialogue: 0,0:18:45.50,0:18:47.44,Main,,0,0,0,,Để đề phòng có chuyện,
 Dialogue: 0,0:18:47.44,0:18:50.24,Main,,0,0,0,,tôi có ghi lại vài biện pháp phòng ngừa.
 Dialogue: 0,0:18:51.80,0:18:55.07,Main,,0,0,0,,Nhưng đương nhiên, tốt nhất là không nên ăn.
 Dialogue: 0,0:18:57.91,0:18:59.25,Main,,0,0,0,,Xin hãy chú ý.
-Dialogue: 0,0:19:02.25,0:19:04.42,Main,,0,0,0,,Mó không hề khó.
+Dialogue: 0,0:19:02.25,0:19:04.42,Main,,0,0,0,,Nó không hề khó.
 Dialogue: 0,0:19:04.87,0:19:07.50,Main,,0,0,0,,Nhưng... chỉ cần sai một li thôi,
 Dialogue: 0,0:19:07.50,0:19:10.09,Main,,0,0,0,,thì thái y cũng không cứu nổi đâu.
-Dialogue: 0,0:19:11.59,0:19:14.59,Main,,0,0,0,,Đây là chuyện liên quan tính mạng.
+Dialogue: 0,0:19:11.59,0:19:14.59,Main,,0,0,0,,Đây là chuyện liên quan đến tính mạng.
 Dialogue: 0,0:19:15.72,0:19:19.86,Main,,0,0,0,,Tuyệt đối! Đừng có quên!
-Dialogue: 0,0:19:23.10,0:19:24.85,Main,,0,0,0,,{\i1}Đe dọa vậy là đủ rồi.
+Dialogue: 0,0:19:23.10,0:19:24.85,Main,,0,0,0,,{\i1}Đe dọa vậy chắc là đủ rồi.
 Dialogue: 0,0:19:33.84,0:19:35.30,Main,,0,0,0,,Thế rốt cuộc là sao?
 Dialogue: 0,0:19:37.08,0:19:38.78,Main,,0,0,0,,Nô tì thân phận thấp kém.
 Dialogue: 0,0:19:38.78,0:19:40.96,Main,,0,0,0,,Xin đại nhân đừng chạm vào nô tì.
@@ -314,52 +319,3 @@ Dialogue: 0,0:20:51.08,0:20:56.11,Main,,0,0,0,,Liệu có liên quan gì \Ntới
 Dialogue: 0,0:20:56.11,0:21:00.03,Main,,0,0,0,,Không phát hiện vết bỏng nào \Ntrên người thị nữ ban nãy.
 Dialogue: 0,0:21:01.82,0:21:04.46,Main,,0,0,0,,Rốt cuộc... là ai?
 Dialogue: 0,0:22:46.64,0:22:48.97,Main,,0,600,0,,Kỳ tới, "Về thăm nhà".
-
-[Aegisub Extradata]
-Data: 2,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs50\\c&H060607&\\fscx53\\fscy62\\pos(289.94#2C218.99)}TH#E1#BB#A4C PHI\\N {\\fs60}A #C4#90A \\NN#C6#AF#C6#A0NG N#C6#AF#C6#A0NG"#2C"uuid"#3A"1fbe63d5-c36e-47a3-a2d9-b2ec867d8ec9"}
-Data: 3,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs50\\c&H060607&\\pos(1657.37#2C769.68)\\fscx53\\fscy62}#C4#90#E1#BB#A8C PHI\\N {\\fs60}L#C3#8D TH#E1#BB#A4 N#C6#AF#C6#A0NG N#C6#AF#C6#A0NG"#2C"uuid"#3A"85b5b918-57ad-4c97-a3c8-bf68cc974e28"}
-Data: 4,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs50\\c&H060607&\\fscx53\\fscy62\\pos(535.94#2C464.99)}TH#E1#BB#A4C PHI\\N {\\fs60}A #C4#90A N#C6#AF#C6#A0NG N#C6#AF#C6#A0NG"#2C"uuid"#3A"202622c3-7b14-4132-819e-a26972de11bd"}
-Data: 98,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"4f55f1e8-34df-4e8d-8db2-988df67a8acf"}
-Data: 99,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"af32019e-82c7-400d-94a1-f9da028102fc"}
-Data: 100,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"404a1cff-6228-4fb9-b00a-f0865ef41a07"}
-Data: 101,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"45ed602e-a9bc-4741-9876-509c3cbd683e"}
-Data: 102,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"a408b959-e485-4277-a256-5fbf23d1ef40"}
-Data: 103,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"af17994e-e01d-458b-8ed9-f757c570cb42"}
-Data: 104,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"c6c5cdfd-4cb6-40a7-b04f-91c1f559b985"}
-Data: 105,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"624ed418-9e7f-49f0-85a0-42c7165d80a3"}
-Data: 106,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"8e3de63c-4080-495b-8719-84d2111b434c"}
-Data: 107,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"7d3ac4ef-2f3e-480d-847f-40a7642c6ddf"}
-Data: 108,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1A1422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"91111b60-f382-4870-a955-aae8ab2e06f1"}
-Data: 109,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"f53eee76-a3dd-4c7a-aacb-eb108ca1d1dd"}
-Data: 110,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191523&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"836b9cf7-a01d-41b5-9f72-83106c70cda8"}
-Data: 111,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"e4c6010f-ebfb-4b45-9a76-0b9ba6f142a6"}
-Data: 112,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1523&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"7abdccce-5bb1-45d3-b603-4f8b610e119d"}
-Data: 113,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1523&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"ac84d56e-da42-41ae-b964-d398fa63f7c2"}
-Data: 114,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1523&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"9aa445e9-2280-49d2-b3a0-a27db53e2126"}
-Data: 115,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1525&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"93c54c1d-de00-4a2a-ab76-4379850e0122"}
-Data: 116,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1524&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"4531f248-70ea-47ce-a92e-26f7861d25b5"}
-Data: 117,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1C1625&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"7f03fd83-92c2-45c9-b9d5-ea7542ad7367"}
-Data: 118,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191423&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"cc2f8a7c-1b11-40d9-b05c-546a83150d9e"}
-Data: 119,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191423&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"ffe22785-767b-4c83-8e21-af4b7ead0a6b"}
-Data: 120,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1523&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"61d22078-70cb-4c16-ae46-db5f412e1979"}
-Data: 121,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1523&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"07c4dcaa-353f-4015-b26f-47554ef3ecb6"}
-Data: 122,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1523&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"c98bf113-291e-4544-9a31-e7cf1f67a190"}
-Data: 123,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"893c330d-5e0e-4fb5-aee7-2abe6cd7b0d4"}
-Data: 124,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1523&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"2cce59fb-f2c9-4b47-87cf-5898a75067b8"}
-Data: 125,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1525&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"0bd1bf6c-8f9d-423f-bdb6-9bd5a7a1252a"}
-Data: 126,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191323&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"84a9607d-9f1a-4084-acc7-4b850c7a780b"}
-Data: 127,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1525&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"315ca3c9-697f-421b-a3fc-553df15b3db4"}
-Data: 128,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191323&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"55732a92-020f-4e1a-9c76-e1b0fd4f03b1"}
-Data: 129,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"9a12e096-42a2-4577-88b9-9ffaa9a77dc4"}
-Data: 130,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1524&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"70ad2aa3-b55e-49a9-8eb8-28dc3ae94427"}
-Data: 131,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"f0c0d25c-cc37-424a-af40-f6c92f86d0b6"}
-Data: 132,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1523&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"16306c68-533e-4aec-9910-6d5fb1b33494"}
-Data: 133,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191323&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"c593bf02-1eec-4dcb-9d91-842195015778"}
-Data: 134,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"bff6cd01-7fc1-4b56-8b8d-4a491363e387"}
-Data: 135,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1523&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"f5595ba4-3f26-4748-b4c5-13ac9c1bcd4d"}
-Data: 136,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H191422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"95d526ae-e47e-4b80-91ed-f205e90db9b1"}
-Data: 137,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1523&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"0fd87f65-9204-4145-9030-9cd52f0b9a1e"}
-Data: 138,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1A1422&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"27f1a5af-9ca8-4622-b3b9-7d4890695b6e"}
-Data: 139,a-mo,e{"originalText"#3A"{\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H1B1523&\\fscx58\\fscy68\\pos(978.57#2C349.55)}TI#C3#8AN #C4#90#E1#BA#BE"#2C"uuid"#3A"7274087a-60b4-4bd0-8a32-f8e3bd21e106"}
-Data: 140,a-mo,e{"originalText"#3A"{\\fad(0#2C650)\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H010408&\\fscx53\\fscy62\\pos(1412.57#2C404.88)}TH#C3#81I H#E1#BA#ACU"#2C"uuid"#3A"e2de4dd2-6853-4c34-b254-1f4f64286dc5"}
-Data: 141,a-mo,e{"originalText"#3A"{\\fad(0#2C650)\\an5\\blur0.76\\bord0\\fn000 BlahBlahUC iCiel Bold\\fs60\\c&H060607&\\fscx53\\fscy62\\pos(1201.37#2C739.28)}HO#C3#80NG TH#C6#AF#E1#BB#A2NG \\N#C4#90#C6#AF#C6#A0NG TRI#E1#BB#80U"#2C"uuid"#3A"dbb99845-2829-41b8-b52c-f8b8a390d6ab"}
