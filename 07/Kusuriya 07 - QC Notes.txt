@@ -3,21 +3,27 @@ Dia:
 ======================
 Dự vào kích cỡ và vị trí của dấu tay...
 (Dựa)
+~DONE
 
 Tô hỏi một câu được không?
 (Tôi)
+~DONE
 
 đấy, họ cứ hỏi ta câu đó phiền lắm luôn.
 (họ cứ hỏi ta câu đó, phiền lắm luôn.)
+~DONE
 
 À, Cao Thuận tới đây từ sáng rồi, \Nngươi tính sao?
 ("ngươi tính sao" nghe hơi lạc, kiểu "có chuyện gì sao" thì hợp hơn)
+~DONE (đang hỏi muốn làm gì)
 
 Nô tì đoán có tổng cộng có 4 người\Ntừng chạm vào cái bát này.
 (lặp từ "có")
+~DONE
 
 Nô tì nghi là người đầu độc \Nchính là người bí ẩn cuối cùng đó.
 (thừa từ "là" ở đầu)
+~DONE
 
 Hồng Nương tỷ đã dạy thế.
 (thiếu 1 chữ "tỷ"?)
