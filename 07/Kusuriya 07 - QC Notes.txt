@@ -27,21 +27,27 @@ Nô tì nghi là người đầu độc \Nchính là người bí ẩn cuối c�
 
 Hồng Nương tỷ đã dạy thế.
 (thiếu 1 chữ "tỷ"?)
+~DONE
 
 Và đó suy đoán của nô tì.
 (Và đó là)
+~DONE
 
 Trong hậu cung, nữ nhân không được phép \Ngặp được nam nhân bên ngoài,
 (lặp từ "được" ở sau)
+~DONE
 
 Vậy ngươi gọi cất công gọi ta ra đây\N chỉ vì thế thôi à?
 (thừ từ "gọi" ở đầu)
+~DONE
 
 Ngươi thực sự nghĩ với bắp tay đó\Nthì Bạch Linh sẽ không làm gì sao?
 (thay từ "thì" bằng từ "mà" hay gì đó có vẻ hay hơn)
+~DONE
 
 Không được. \NCác kỹ nữ sẽ bâu lấy hắn thế là sập tiệm mất.
 (Các kỹ nữ sẽ bâu lấy hắn, thế là sập tiệm mất.)
+~DONE
 ======================
 TS:
 ======================
