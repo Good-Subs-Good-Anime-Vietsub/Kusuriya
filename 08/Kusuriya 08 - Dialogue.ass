@@ -16,9 +16,9 @@ Video File: ../raws/Kusuriya - 08 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 294
+Scroll Position: 297
 Active Line: 307
-Video Position: 29517
+Video Position: 29513
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -128,7 +128,7 @@ Dialogue: 0,0:06:55.19,0:06:57.98,Main,,0,900,0,,{\an8}Tháng này có đủ ti�
 Dialogue: 0,0:06:57.98,0:06:58.57,Main,,900,0,0,,Vậy tôi xin.
 Dialogue: 0,0:06:59.15,0:07:01.03,Main,,0,0,0,,{\i1}Đến chịu cha luôn!
 Dialogue: 0,0:07:05.49,0:07:06.70,Main,,0,0,0,,{\i1}Vụ lần này...
-Dialogue: 0,0:07:06.70,0:07:09.53,Main,,0,0,0,,{\i1}cũng chả phải lần đầu mới có "tự sát đôi"\N ở cái phố thanh lâu này.
+Dialogue: 0,0:07:06.70,0:07:09.53,Main,,0,0,0,,{\i1}cũng chả phải lần đầu ở phố thanh lâu.
 Dialogue: 0,0:07:10.12,0:07:13.83,Main,,0,0,0,,{\i1}Nếu chàng không đủ khả năng chuộc nàng\N mà thời hạn vẫn còn dài...
 Dialogue: 0,0:07:13.83,0:07:16.00,Main,,0,0,0,,{\i1}thì nghĩ đi nghĩ lại cũng chỉ còn nước này.
 Dialogue: 0,0:07:16.71,0:07:20.50,Main,,0,0,0,,{\i1}Có điều anh chàng này, \Nnhìn vẻ ngoài thì cũng gấm vóc lụa là,
@@ -317,7 +317,7 @@ Dialogue: 0,0:19:10.51,0:19:12.26,Main,,0,0,0,,nếu không thì không bảo đ
 Dialogue: 0,0:19:17.57,0:19:19.56,Main,,360,0,0,,Hắn có đưa ngươi trâm cài tóc không?
 Dialogue: 0,0:19:19.56,0:19:21.68,Main,,360,0,0,,Người đó phát trâm cho nhiều người lắm,
 Dialogue: 0,0:19:21.68,0:19:23.53,Main,,360,0,0,,nên nô tì nhận cho phải phép.
-Dialogue: 0,0:19:23.85,0:19:27.02,Main,,360,0,0,,Ý ngươi là ta thua cả một một món\N"nhận cho phải phép" sao?
+Dialogue: 0,0:19:23.85,0:19:27.02,Main,,360,0,0,,Ý ngươi là ta thua cả một thứ\N"nhận cho phải phép" sao?
 Dialogue: 0,0:19:29.86,0:19:31.78,Main,,0,0,0,,Ta cũng đưa cho ngươi một chiếc,
 Dialogue: 0,0:19:31.78,0:19:33.86,Main,,0,0,0,,nhưng sao không thấy ngươi hỏi han gì?
 Dialogue: 0,0:19:35.03,0:19:35.92,Main,,0,0,0,,{\i1}"Ta"?
@@ -326,9 +326,9 @@ Dialogue: 0,0:19:37.72,0:19:41.87,Main,,0,0,0,,{\i1}Vậy ra hắn không vui \N
 Dialogue: 0,0:19:42.34,0:19:44.09,Main,,0,0,0,,{\i1}Lạ nhề.
 Dialogue: 0,0:19:44.33,0:19:48.13,Main,,0,0,0,,{\i1}Không vướng vào rắc rối thì tốt hơn chứ nhỉ.
 Dialogue: 0,0:19:48.71,0:19:50.13,Main,,0,0,0,,{\i1}Hay là vì hắn rảnh háng quá,
-Dialogue: 0,0:19:50.13,0:19:52.88,Main,,0,0,0,,{\i1}nên muốn có sự chú ý, \Ndù rắc rối cũng không màng à?
+Dialogue: 0,0:19:50.13,0:19:52.88,Main,,0,0,0,,{\i1}nên muốn được chú ý, \Ndù rắc rối cũng không màng à?
 Dialogue: 0,0:19:53.59,0:19:55.20,Main,,0,0,0,,Nô tì xin lỗi.
-Dialogue: 0,0:19:55.47,0:19:59.39,Main,,0,0,0,,Tại nô tì không thể nghĩ ra điều gì đủ để đáp lễ \NNhâm thị đại nhân ạ.
+Dialogue: 0,0:19:55.47,0:19:59.39,Main,,0,0,0,,Tại nô tì không thể nghĩ ra điều gì đủ để đáp lễ \NNhâm Thị đại nhân ạ.
 Dialogue: 0,0:20:02.31,0:20:03.43,Main,,0,0,0,,Đáp lễ gì cơ?
 Dialogue: 0,0:20:04.31,0:20:07.52,Main,,0,0,0,,Vậy ngươi... đã "đáp lễ" Lí Bạch rồi à?
 Dialogue: 0,0:20:07.83,0:20:08.50,Main,,0,0,0,,Vâng.
@@ -339,7 +339,7 @@ Dialogue: 0,0:20:17.95,0:20:20.53,Main,,0,0,0,,Công sức của nô tì... coi 
 Dialogue: 0,0:20:24.67,0:20:26.58,Main,,0,0,0,,Ơ đại nhân sao thế?
 Dialogue: 0,0:20:26.87,0:20:28.79,Main,,0,0,0,,Đại nhân lau đi này không nó ố bây giờ.
 Dialogue: 0,0:20:29.25,0:20:30.49,Main,,0,0,0,,Thôi thì nô tì xin phép.
-Dialogue: 0,0:20:30.90,0:20:33.54,Main,,0,0,0,,Nô tì thấy là cần phải đem đi giặt ngay.
+Dialogue: 0,0:20:30.90,0:20:33.54,Main,,0,0,0,,Tốt nhất là cần phải đem đi giặt ngay.
 Dialogue: 0,0:20:36.75,0:20:40.41,Main,,0,0,0,,Để nô tì dọn tách trà cho, đại nhân đừng động vào nhé.
 Dialogue: 0,0:20:43.18,0:20:44.18,Main,,0,0,0,,{\pos(1285,1020)}Nô tì xin phép cáo lui.
 Dialogue: 0,0:20:44.18,0:20:44.22,Main,,0,0,0,tracking,{=16}{\pos(1285,1020)}Xủi~
