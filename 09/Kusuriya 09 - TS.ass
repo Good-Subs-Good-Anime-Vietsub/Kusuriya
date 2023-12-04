@@ -6,10 +6,13 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: None
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Active Line: 8
+Video Position: 32813
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,6 +32,6 @@ Dialogue: 0,0:01:32.78,0:01:35.78,Signs,,0,0,0,,{\fad(300,300)\blur3\bord0\shad0
 Dialogue: 1,0:22:35.00,0:22:50.02,Signs,,0,0,0,,{\an8\blur0.667\bord0\shad0\fnUTM Khuccamta\b0\c&HFFFFFF&\fscx91\fscy91\pos(249.6,137.2)}GIỚI THIỆU TẬP SAU
 Dialogue: 0,0:22:35.00,0:22:50.02,Signs,,0,0,0,,{\an8\blur2.4\bord0\shad0\fnUTM Khuccamta\b0\c&H000000&\fscx91\fscy91\pos(249.6,139.2)\1a&H00&}GIỚI THIỆU TẬP SAU
 Dialogue: 1,0:01:39.08,0:01:43.08,Epi.name,,0,0,0,,{\fad(525,482)\an6\blur0.66\bord0\yshad1\pos(1766.07,878.87)\c&HECECEC&}Tập 9       Tự sát hay mưu sát
-Dialogue: 1,0:22:46.55,0:22:50.02,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur0.66\bord0\shad0\yshad0\pos(1821,877.87)}Tập 10     Mật ong
-Dialogue: 0,0:22:46.55,0:22:50.02,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur3.6\bord0\shad0\yshad0\c&H000000&\1a&H16&\pos(1821,877.87)}Tập 10     Mật ong
-Dialogue: 0,0:22:46.55,0:22:50.02,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur3.6\bord0\shad0\yshad0\c&H000000&\1a&H16&\pos(1821,877.87)}Tập 10     Mật ong
+Dialogue: 1,0:22:46.55,0:22:50.02,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur0.66\bord0\shad0\yshad0\pos(1816,877.87)}Tập 10     Mật ong
+Dialogue: 0,0:22:46.55,0:22:50.02,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur3.6\bord0\shad0\yshad0\c&H000000&\1a&H16&\pos(1816,877.87)}Tập 10     Mật ong
+Dialogue: 0,0:22:46.55,0:22:50.02,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur3.6\bord0\shad0\yshad0\c&H000000&\1a&H16&\pos(1816,877.87)}Tập 10     Mật ong
