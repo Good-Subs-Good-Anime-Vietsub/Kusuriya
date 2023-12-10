@@ -6,11 +6,14 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: None
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Scroll Position: 277
 Active Line: 325
+Video Position: 32764
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding

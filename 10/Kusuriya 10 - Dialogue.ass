@@ -15,10 +15,10 @@ Audio File: ../raws/Kusuriya - 10 (CR).mkv
 Video File: ../raws/Kusuriya - 10 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 307
-Active Line: 319
-Video Position: 32764
+Video Zoom Percent: 0.875000
+Scroll Position: 294
+Active Line: 313
+Video Position: 29826
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,15 +42,15 @@ Dialogue: 0,0:01:52.80,0:01:56.51,Main,,0,0,0,,Cung nữ chết đuối đó\N t
 Dialogue: 0,0:01:56.51,0:01:58.81,Main,,0,0,0,,Hình như là thị nữ ở Giá Lựu Cung.
 Dialogue: 0,0:01:59.60,0:02:03.58,Main,,0,0,0,,Họ còn bảo cô ấy chính là người đã hạ độc \NLí Thụ nương nương ở tiệc hoa viên.
 Dialogue: 0,0:02:03.98,0:02:08.13,Main,,0,0,0,,Không biết có phải tự sát \Nvì chủ tử A Đa nương nương không nữa.
-Dialogue: 0,0:02:08.13,0:02:09.65,Main,,0,0,0,,A Đa nương nương ý là Thục quý phi nhỉ?
+Dialogue: 0,0:02:08.13,0:02:09.65,Main,,0,0,0,,A Đa nương nương ý là Thục Phi nhỉ?
 Dialogue: 0,0:02:09.95,0:02:10.90,Main,,0,0,0,,Ừm.
 Dialogue: 0,0:02:10.90,0:02:12.78,Main,,0,0,0,,Có tin đồn rằng A Đa nương nương...
-Dialogue: 0,0:02:12.78,0:02:15.70,Main,,0,0,0,,sắp bị loại khỏi tứ đại quý quý phi,\Nnhường chỗ cho một quý phi tần trẻ hơn.
+Dialogue: 0,0:02:12.78,0:02:15.70,Main,,0,0,0,,sắp bị loại khỏi tứ đại quý phi,\Nnhường chỗ cho một quý phi trẻ hơn.
 Dialogue: 0,0:02:17.12,0:02:21.75,Main,,0,0,0,,{\i1}A Đa nương nương năm nay 35 tuổi,\N hơn Hoàng thượng một tuổi.
 Dialogue: 0,0:02:22.08,0:02:26.50,Main,,0,0,0,,{\i1}Nương nương từng bị mất một bé trai \Nkhi Hoàng thượng vẫn còn là Thái tử.
 Dialogue: 0,0:02:27.25,0:02:31.93,Main,,0,0,0,,{\i1}Cũng khó trách, vì ở hậu cung\N thì cần phải hạ sinh càng nhiều con càng tốt...
 Dialogue: 0,0:02:33.88,0:02:36.84,Main,,0,0,0,,{\i1}Mẫu thân của một hoàng tử đã mất sao?
-Dialogue: 0,0:02:37.64,0:02:42.35,Main,,0,0,0,,{\i1}Nếu Lê Hoa nương nương cũng không có con nữa,\N liệu có chung số phận?
+Dialogue: 0,0:02:37.64,0:02:42.35,Main,,0,0,0,,{\i1}Nếu Lê Hoa nương nương cũng không hạ sinh nữa,\N liệu có chung số phận không?
 Dialogue: 0,0:02:42.83,0:02:44.31,Main,,0,0,0,,{\i1}Rồi Ngọc Diệp nương nương nữa.
 Dialogue: 0,0:02:44.31,0:02:47.61,Main,,0,0,0,,{\i1}Không ai biết được rằng nương nương \Nsẽ được sủng ái tới khi nào.
 Dialogue: 0,0:02:48.44,0:02:51.62,Main,,0,0,0,,{\i1}Những bông hoa xinh đẹp nhất \Nrồi cũng đến ngày héo tàn.
@@ -62,12 +62,12 @@ Dialogue: 0,0:03:01.66,0:03:02.58,Main,,0,0,0,,Cảm ơn tỷ!
 Dialogue: 0,0:03:02.91,0:03:05.33,Main,,0,0,0,,Không ngờ là còn thừa nhiều điểm tâm thế.
 Dialogue: 0,0:03:05.33,0:03:07.09,Main,,0,0,0,,Tiệc trà tuyệt quá~
 Dialogue: 0,0:03:08.75,0:03:09.92,Main,,0,0,0,,Ai biết.
-Dialogue: 0,0:03:10.71,0:03:13.92,Main,,0,0,0,,{\i1}Tiệc trà là nghĩa vụ \Nmà các quý phi tần phải thực hiện.
+Dialogue: 0,0:03:10.71,0:03:13.92,Main,,0,0,0,,{\i1}Tiệc trà là nghĩa vụ \Nmà các quý phi phải thực hiện.
 Dialogue: 0,0:03:14.41,0:03:16.01,Main,,0,0,0,,Miêu Miêu nữa, chuẩn bị đi nhé!
 Dialogue: 0,0:03:16.45,0:03:17.84,Main,,0,0,0,,{\i1}Lại nữa à?
 Dialogue: 0,0:03:19.05,0:03:21.43,Main,,0,0,0,,Nay trông ai cũng hăng say nhỉ.
 Dialogue: 0,0:03:21.43,0:03:22.43,Main,,0,0,0,,Tất nhiên rồi.
-Dialogue: 0,0:03:22.43,0:03:25.64,Main,,0,0,0,,Đức quý phi, Lí Thụ nương nương tới đây mà.
+Dialogue: 0,0:03:22.43,0:03:25.64,Main,,0,0,0,,Đức Phi, Lí Thụ nương nương tới đây mà.
 Dialogue: 0,0:03:26.52,0:03:30.15,Main,,0,0,0,,{\i1}Có thể thấy được mô hình thu nhỏ của hậu cung\N ở trong căn phòng này.
 Dialogue: 0,0:03:30.90,0:03:33.40,Main,,0,0,0,,Hân hạnh đón tiếp, Lí Thụ nương nương.
 Dialogue: 0,0:03:34.32,0:03:36.36,Main,,0,0,0,,Đa tạ nương nương.
@@ -75,27 +75,27 @@ Dialogue: 0,0:03:36.83,0:03:39.12,Main,,0,0,0,,{\i1}Đây gọi là... thăm dò
 Dialogue: 0,0:03:40.37,0:03:42.83,Main,,0,0,0,,{\i1}Luôn đề phòng trước kẻ cùng giới tính,
 Dialogue: 0,0:03:42.83,0:03:45.12,Main,,0,0,0,,{\i1}đó là bản năng của phụ nữ chăng?
 Dialogue: 0,0:03:45.41,0:03:46.50,Main,,0,0,0,,{\i1}Thành thật mà nói...
-Dialogue: 0,0:03:46.50,0:03:49.30,Main,,0,0,0,,{\i1}còn đề phòng hơn cả khi \NHoàng thượng giá lâm.
-Dialogue: 0,0:03:50.55,0:03:54.59,Main,,0,0,0,,{\i1}Ngọc Diệp nương nương thu thập thông tin\N trong lúc thân mật trò chuyện,
-Dialogue: 0,0:03:54.59,0:03:57.18,Main,,0,0,0,,{\i1}trông thì dịu dàng vậy thôi, \Nchứ vẫn là quý phi tần mà.
+Dialogue: 0,0:03:46.50,0:03:49.30,Main,,0,0,0,,{\i1}còn đề phòng hơn cả khi \NHoàng thượng giá đáo.
+Dialogue: 0,0:03:50.55,0:03:54.59,Main,,0,0,0,,{\i1}Ngọc Diệp nương nương sẽ thu thập thông tin\N trong lúc thân mật trò chuyện,
+Dialogue: 0,0:03:54.59,0:03:57.18,Main,,0,0,0,,{\i1}trông thì dịu dàng vậy thôi, \Nchứ vẫn là quý phi mà.
 Dialogue: 0,0:03:57.80,0:04:00.97,Main,,0,0,0,,{\i1}Có vẻ nương nương thường gửi \Nthông tin thu thập được về nhà.
 Dialogue: 0,0:04:00.97,0:04:03.31,Main,,0,0,0,,{\i1}Nhà của nương nương \Nlà nơi trung chuyển giao thương,
-Dialogue: 0,0:04:03.31,0:04:07.17,Main,,0,0,0,,{\i1}nên chắc là việc nắm bắt được\N tình hình xu thế lẫn con người rất quan trọng.
-Dialogue: 0,0:04:14.53,0:04:16.74,Main,,0,0,0,,{\i1}Người thử độc ở tiệc hoa à?
-Dialogue: 0,0:04:16.74,0:04:19.53,Main,,0,0,0,,{\i1}Xem ra là không bị xử tội, vậy là tốt rồi.
+Dialogue: 0,0:04:03.31,0:04:07.17,Main,,0,0,0,,{\i1}nên chắc việc nắm bắt được\N tình hình xu thế lẫn con người rất quan trọng.
+Dialogue: 0,0:04:14.53,0:04:16.74,Main,,0,0,0,,{\i1}Người thử độc ở tiệc hoa viên à?
+Dialogue: 0,0:04:16.74,0:04:19.53,Main,,0,0,0,,{\i1}Xem ra không bị xử tội, vậy là tốt rồi.
 Dialogue: 0,0:04:21.03,0:04:23.24,Main,,0,0,0,,{\i1}Mình có cắn đâu mà sợ nhỉ.
 Dialogue: 0,0:04:24.29,0:04:27.71,Main,,0,800,0,,{\q2\i1}Những thị nữ khác rõ ràng là \Nkhông đoái hoài gì đến chủ tử.
-Dialogue: 0,0:04:28.50,0:04:31.80,Main,,0,0,0,,{\i1}Nhưng lúc này, có vẻ là không bắt nạt gì cả.
-Dialogue: 0,0:04:32.54,0:04:36.38,Main,,0,0,0,,{\i1}Nếu những gì mình báo cáo cho\N Nhâm Thị đại nhân là sai thì thật tốt.
+Dialogue: 0,0:04:28.50,0:04:31.80,Main,,0,0,0,,{\i1}Nhưng lúc này, trông không có vẻ gì là bắt nạt.
+Dialogue: 0,0:04:32.54,0:04:36.38,Main,,0,0,0,,{\i1}Nếu những gì mình báo cáo với\N Nhâm Thị đại nhân là sai thì tốt rồi.
 Dialogue: 0,0:04:37.97,0:04:40.34,Main,,0,0,0,,Nương nương thích dùng đồ ngọt chứ?
-Dialogue: 0,0:04:40.81,0:04:42.26,Main,,0,0,0,,Ta thích đồ ngọt lắm.
+Dialogue: 0,0:04:40.81,0:04:42.26,Main,,0,0,0,,Bổn cung thích đồ ngọt lắm.
 Dialogue: 0,0:04:42.89,0:04:43.76,Main,,0,0,0,,Tốt quá rồi.
-Dialogue: 0,0:04:45.43,0:04:48.65,Main,,0,0,0,,Trời đang lạnh, nên ta nghĩ\Nmón này sẽ rất phù hợp.
+Dialogue: 0,0:04:45.43,0:04:48.65,Main,,0,0,0,,Trời đang lạnh, nên bổn cung nghĩ\Nmón này sẽ rất phù hợp.
 Dialogue: 0,0:04:49.27,0:04:52.08,Main,,0,0,0,,Đây là vỏ cam quýt được ủ với mật ong.
 Dialogue: 0,0:04:52.69,0:04:54.39,Main,,0,0,0,,Có tác dụng làm ấm người.
 Dialogue: 0,0:04:56.59,0:04:58.67,Main,,0,0,0,,Mong là hợp khẩu vị nương nương.
 Dialogue: 0,0:05:03.53,0:05:06.24,Main,,0,0,0,,{\i1}Ồ, không ăn được cả mật ong à?
-Dialogue: 0,0:05:06.51,0:05:08.07,Main,,0,0,0,,Lại kén chọn nữa à?
+Dialogue: 0,0:05:06.51,0:05:08.07,Main,,0,0,0,,Lại kén chọn nữa kìa.
 Dialogue: 0,0:05:08.41,0:05:10.54,Main,,0,0,0,,Cơm bưng nước rót cho mà không chịu ăn.
 Dialogue: 0,0:05:10.54,0:05:12.51,Main,,0,0,0,,{\i1}Giật, giật.
 Dialogue: 0,0:05:22.81,0:05:23.99,Main,,0,0,0,,Ngọc Diệp nương nương.
@@ -105,15 +105,15 @@ Dialogue: 0,0:05:29.02,0:05:31.61,Main,,0,0,0,,Có vẻ món này vẫn cần �
 Dialogue: 0,0:05:32.00,0:05:33.73,Main,,0,0,0,,Để bưng lên món khác.
 Dialogue: 0,0:05:33.92,0:05:36.03,Main,,0,0,0,,Nương nương dùng được trà gừng chứ?
 Dialogue: 0,0:05:36.86,0:05:37.48,Main,,0,0,0,,Được.
-Dialogue: 0,0:05:37.82,0:05:38.89,Main,,0,0,0,,Ta thấy ổn.
+Dialogue: 0,0:05:37.82,0:05:38.89,Main,,0,0,0,,Bổn cung thấy ổn.
 Dialogue: 0,0:05:39.82,0:05:41.82,Main,,0,0,0,,{\i1}Rồi xong luôn.
 Dialogue: 0,0:05:41.82,0:05:44.57,Main,,0,0,0,,{\i1}Xem ra bắt nạt là có thật.
-Dialogue: 0,0:05:47.12,0:05:48.42,Main,,0,0,0,,Ối.
+Dialogue: 0,0:05:47.12,0:05:47.89,Main,,0,0,0,,Ối.
 Dialogue: 0,0:05:48.75,0:05:51.04,Main,,0,0,0,,Việc dọn dẹp cứ để các tỷ lo.
 Dialogue: 0,0:05:51.04,0:05:53.13,Main,,0,0,0,,Miêu Miêu nghỉ ngơi đi nha.
 Dialogue: 0,0:05:53.90,0:05:56.21,Main,,0,0,0,,{\i1}Mình cũng dọn được chứ bộ.
-Dialogue: 0,0:05:56.50,0:05:59.51,Main,,0,0,0,,Buổi tiệc trà giữa Ngọc Diệp quý phi\Nvà Lí Thụ quý phi thế nào?
-Dialogue: 0,0:06:00.51,0:06:05.48,Main,,0,0,0,,{\i1}Mình đã thấy lạ khi bỗng dưng\N lại mời Lí Thụ nương nương đến để dùng trà.
+Dialogue: 0,0:05:56.50,0:05:59.51,Main,,0,0,0,,Buổi tiệc trà giữa Ngọc Diệp quý phi\Nvà Lí Thụ quý phi thế nào rồi?
+Dialogue: 0,0:06:00.51,0:06:05.48,Main,,0,0,0,,{\i1}Mình đã thấy lạ khi bỗng dưng\N lại mời Lí Thụ nương nương đến dùng trà.
 Dialogue: 0,0:06:06.01,0:06:08.24,Main,,0,0,0,,{\i1}Ra là hắn dàn xếp à.
 Dialogue: 0,0:06:09.39,0:06:11.77,Main,,0,0,0,,Hai bên đều vui vẻ ạ.
 Dialogue: 0,0:06:13.06,0:06:15.02,Main,,0,0,0,,Đã nói chuyện xong đâu nào.
@@ -123,58 +123,59 @@ Dialogue: 0,0:06:22.03,0:06:26.13,Main,,0,0,0,,ngươi có biết là do thị n
 Dialogue: 0,0:06:26.67,0:06:28.03,Main,,0,0,0,,Nô tì có nghe qua.
 Dialogue: 0,0:06:29.79,0:06:32.04,Main,,0,0,0,,Ngươi có nghĩ cô ta \Nthực sự đã tự sát không?
 Dialogue: 0,0:06:33.87,0:06:36.67,Main,,0,0,0,,Việc đó nô tì không thể quyết.
-Dialogue: 0,0:06:37.15,0:06:38.87,Main,,0,0,0,,{\an8}Tại sao một thị nữ đơn thuần...
-Dialogue: 0,0:06:39.36,0:06:42.38,Main,,0,0,0,,{\an8}lại muốn bỏ độc vào đồ ăn\Ncủa Đức Phi là Lí Thụ nương nương?
+Dialogue: 0,0:06:37.15,0:06:38.87,Main,,0,1000,0,,{\q2}Tại sao \Nmột thị nữ đơn thuần...
+Dialogue: 0,0:06:39.36,0:06:40.68,Main,,0,1000,0,,{\q2}lại muốn bỏ độc vào đồ ăn...
+Dialogue: 0,0:06:40.68,0:06:42.38,Main,,0,1000,0,,{\q2}của Đức Phi, \Ntức Lí Thụ nương nương?
 Dialogue: 0,0:06:43.63,0:06:44.84,Main,,0,0,0,,Nô tì không biết.
 Dialogue: 0,0:06:51.37,0:06:55.85,Main,,0,0,0,,Vậy từ mai, ngươi có thể\Nqua Giá Lựu Cung phụ việc được không?
 Dialogue: 0,0:06:56.77,0:06:58.06,Main,,0,0,0,,{\i1}"Có thể được không?"
 Dialogue: 0,0:06:58.06,0:07:01.45,Main,,0,0,0,,{\i1}Cứ như mình có lựa chọn không bằng.
 Dialogue: 0,0:07:03.78,0:07:04.60,Main,,0,0,0,,Nô tì đã rõ.
-Dialogue: 0,0:07:06.82,0:07:10.33,Main,,0,0,0,,{\i1}Kiểu cách trang trí của mỗi cung \Nsẽ do chủ tử của cung đó quyết.
-Dialogue: 0,0:07:10.91,0:07:13.74,Main,,0,0,0,,{\i1}Phỉ Thúy Cung của Ngọc Diệp quý phi\N thì giản dị,
-Dialogue: 0,0:07:13.74,0:07:17.97,Main,,0,0,0,,{\i1}còn Thủy Tinh Cung của Lê Hoa quý phi\N thì quý phái và tinh tế.
+Dialogue: 0,0:07:06.82,0:07:10.33,Main,,0,0,0,,{\i1}Kiểu cách bày biện của mỗi cung \Nsẽ do chủ tử của cung đó quyết.
+Dialogue: 0,0:07:10.91,0:07:13.50,Main,,0,0,0,,{\i1}Phỉ Thúy Cung của Ngọc Diệp quý phi\N thì giản dị.
+Dialogue: 0,0:07:13.74,0:07:17.48,Main,,0,0,0,,{\i1}Thủy Tinh Cung của Lê Hoa quý phi\N thì quý phái và tinh tế.
 Dialogue: 0,0:07:17.97,0:07:20.96,Main,,0,0,0,,{\i1}Còn Giá Lựu Cung của A Đa quý phi...
 Dialogue: 0,0:07:20.96,0:07:23.85,Main,,0,0,0,,{\i1}thì tiện nghi, sang trọng và thiết thực.
 Dialogue: 0,0:07:24.34,0:07:26.84,Main,,0,0,0,,Xin lỗi vì bỗng dưng\Nbắt các ngươi đến đây.
-Dialogue: 0,0:07:26.84,0:07:30.23,Main,,0,0,0,,Ba ngày tới đây \Ncùng nhau làm việc thật tốt nha.
-Dialogue: 0,0:07:30.60,0:07:33.85,Main,,0,0,0,,{\i1}Nhâm Thị đại nhân \Nvẫn chưa bảo mình làm gì.
-Dialogue: 0,0:07:33.85,0:07:35.60,Main,,0,0,0,,{\i1}Chắc cứ làm việc như thường trước.
-Dialogue: 0,0:07:35.60,0:07:37.56,Main,,0,0,0,,Ta chưa nhìn thấy các ngươi bao giờ.
-Dialogue: 0,0:07:37.56,0:07:40.03,Main,,0,0,0,,Phong Minh, bọn họ là ai?
-Dialogue: 0,0:07:40.03,0:07:42.27,Main,,0,0,0,,Họ tới hỗ trợ cho đợt tổng vệ sinh.
-Dialogue: 0,0:07:43.44,0:07:45.86,Main,,0,0,0,,Vậy à, cảm ơn các ngươi.
+Dialogue: 0,0:07:26.84,0:07:29.98,Main,,0,0,0,,Ba ngày tới đây \Ncùng nhau làm việc thật tốt nha.
+Dialogue: 0,0:07:30.60,0:07:33.85,Main,,0,0,0,,{\i1}Nhâm Thị đại nhân \Nvẫn chưa bảo mình phải làm gì.
+Dialogue: 0,0:07:33.85,0:07:35.60,Main,,0,0,0,,{\i1}Chắc trước mắt cứ làm việc cái đã.
+Dialogue: 0,0:07:35.60,0:07:36.90,Main,,0,0,0,,Các ngươi có vẻ lạ mặt.
+Dialogue: 0,0:07:37.56,0:07:40.03,Main,,0,0,0,,Phong Minh, họ là ai?
+Dialogue: 0,0:07:40.03,0:07:42.14,Main,,0,0,0,,Họ tới hỗ trợ cho đợt tổng vệ sinh.
+Dialogue: 0,0:07:43.44,0:07:45.86,Main,,0,0,0,,Vậy à, nhờ cả vào các ngươi.
 Dialogue: 0,0:07:46.78,0:07:48.62,Main,,0,0,0,,{\i1}Thục Phi, A Đa nương nương.
 Dialogue: 0,0:07:49.45,0:07:51.62,Main,,0,0,0,,{\i1}Nương nương không lộng lẫy hay gợi cảm, nhưng...
 Dialogue: 0,0:07:51.62,0:07:54.83,Main,,0,0,0,,{\i1}lại có nét đẹp của cả nam lẫn nữ.
 Dialogue: 0,0:07:54.83,0:07:57.12,Main,,0,0,0,,{\i1}Nương nương đã 35 tuổi rồi sao?
-Dialogue: 0,0:07:57.12,0:08:00.38,Main,,0,0,0,,{\i1}Nếu nương nương mặc quan phục \Nthì sẽ bị nhầm là một quan văn trẻ tuổi mất.
-Dialogue: 0,0:08:01.88,0:08:04.38,Main,,0,0,0,,{\i1}Có lẽ thay vì váy gấm hay y phục của phi tần,
+Dialogue: 0,0:07:57.12,0:08:00.38,Main,,0,0,0,,{\i1}Nếu mặc quan phục \Nthì sẽ bị nhầm là một quan văn trẻ tuổi mất.
+Dialogue: 0,0:08:01.88,0:08:04.38,Main,,0,0,0,,{\i1}Có lẽ thay vì \Nváy gấm hay y phục của phi tần,
 Dialogue: 0,0:08:04.38,0:08:06.93,Main,,0,0,0,,{\i1}nương nương mặc đồ của "du mục" sẽ hợp hơn.
-Dialogue: 0,0:08:15.85,0:08:18.40,Main,,0,0,0,,{\i1}Ồ~ Coi ánh mắt mê đắm kìa.
-Dialogue: 0,0:08:25.94,0:08:28.82,Main,,0,0,0,,{\i1}Kiểu giống với ai đó thì phải...
+Dialogue: 0,0:08:15.85,0:08:18.13,Main,,0,0,0,,{\i1}Ồ~ Coi ánh mắt mê đắm kìa.
+Dialogue: 0,0:08:25.94,0:08:28.82,Main,,0,0,0,,{\i1}Trông giống với ai đó thì phải...
 Dialogue: 0,0:08:33.16,0:08:34.95,Main,,0,0,0,,{\i1}Trưởng thị nữ Phong Minh.
 Dialogue: 0,0:08:35.62,0:08:39.96,Main,,0,0,0,,{\i1}Dựa vào chức vụ thì có vẻ \Nbà ấy đến từ một gia tộc có địa vị,
 Dialogue: 0,0:08:39.96,0:08:41.46,Main,,0,0,0,,{\i1}nhưng bà ấy lại rất dễ gần.
-Dialogue: 0,0:08:43.00,0:08:45.71,Main,,0,0,0,,Trước hết, các ngươi mang\Nchỗ sách này ra phơi cho dỡ khô mục nhé?
+Dialogue: 0,0:08:43.00,0:08:45.71,Main,,0,0,0,,Trước hết, các ngươi mang\Nchỗ sách này ra phơi cho đỡ mục nhé?
 Dialogue: 0,0:08:48.80,0:08:51.76,Main,,0,0,0,,Nếu nặng quá thì gọi thái giám tới giúp.
 Dialogue: 0,0:08:54.64,0:08:57.39,Main,,0,0,0,,{\i1}Không mấy ngạc nhiên \Nvới một quý phi đã có thâm niên.
 Dialogue: 0,0:08:57.39,0:08:59.14,Main,,0,0,0,,{\i1}Cung điện tuy sạch sẽ,
-Dialogue: 0,0:08:59.14,0:09:01.36,Main,,0,0,0,,{\i1}nhưng đầy ắp các vật dụng.
+Dialogue: 0,0:08:59.14,0:09:01.10,Main,,0,0,0,,{\i1}nhưng đầy ắp các vật dụng.
 Dialogue: 0,0:09:04.40,0:09:05.98,Main,,0,0,0,,{\i1}Cũng giống với Phỉ Thúy Cung,
 Dialogue: 0,0:09:05.98,0:09:08.61,Main,,0,0,0,,{\i1}các thị nữ ở Giá Lựu Cung làm việc rất chăm chỉ.
 Dialogue: 0,0:09:08.83,0:09:11.36,Main,,0,0,0,,{\i1}Mình muốn cho mấy kẻ lười chỉ biết tán phét \Nthấy cảnh này.
-Dialogue: 0,0:09:27.92,0:09:29.30,Main,,0,0,0,,Thế này là xong ha.
+Dialogue: 0,0:09:27.92,0:09:29.30,Main,,0,0,0,,Vậy là xong ha.
 Dialogue: 0,0:09:29.58,0:09:31.68,Main,,0,0,0,,Giỏi quá! Đã nhiều thế này rồi sao!
 Dialogue: 0,0:09:31.96,0:09:34.66,Main,,0,0,0,,Ngăn nắp đâu đấy, ngươi thạo việc quá!
 Dialogue: 0,0:09:34.66,0:09:37.22,Main,,0,0,0,,Ngươi qua khách sảnh phụ việc được không?
 Dialogue: 0,0:09:37.22,0:09:37.72,Main,,0,0,0,,Vâng.
-Dialogue: 0,0:09:38.56,0:09:41.52,Main,,0,0,0,,{\i1}Bà ấy dễ gần, tinh ý và giỏi động viên người khác.
+Dialogue: 0,0:09:38.56,0:09:41.52,Main,,0,0,0,,{\i1}Bà ấy dễ gần, tinh ý và giỏi khích lệ người khác.
 Dialogue: 0,0:09:42.48,0:09:46.52,Main,,0,0,0,,{\i1}Với vai trò trưởng thị nữ,\Nbà ấy rất biết đối nhân xử thế.
 Dialogue: 0,0:09:53.32,0:09:56.78,Main,,0,0,0,,{\i1}Lâu rồi không lao động nhiều,\N ê ẩm hết cả người.
 Dialogue: 0,0:10:00.08,0:10:02.52,Main,,0,0,0,,Ngươi vất vả rồi.\NNay đa tạ ngươi nha!
 Dialogue: 0,0:10:02.52,0:10:03.21,Main,,0,0,0,,Dạ không.
 Dialogue: 0,0:10:03.38,0:10:06.74,Main,,0,0,0,,Phải rồi, đêm nay ngươi sẽ\Nở lại Giá Lựu Cung ha.
-Dialogue: 0,0:10:07.13,0:10:08.13,Main,,0,0,0,,Đi theo ta.
+Dialogue: 0,0:10:07.13,0:10:08.13,Main,,0,0,0,,Đi theo ta nào.
 Dialogue: 0,0:10:16.68,0:10:18.06,Main,,0,0,0,,{\i1}Có mùi rất ngọt?
 Dialogue: 0,0:10:18.39,0:10:21.86,Main,,0,0,0,,Đây, ngươi thích thì cứ dùng nhé,\N đêm nay sẽ lạnh đấy.
 Dialogue: 0,0:10:22.45,0:10:23.69,Main,,0,0,0,,Xin đa tạ.
@@ -185,9 +186,9 @@ Dialogue: 0,0:11:01.64,0:11:05.60,Main,,0,0,0,,{\i1}Có thật là điều tra \
 Dialogue: 0,0:11:05.82,0:11:08.11,Main,,0,0,0,,{\i1}Quả nhiên ai nấy đều chăm chỉ làm việc.
 Dialogue: 0,0:11:08.87,0:11:10.61,Main,,0,0,0,,{\i1}Không chỉ các thị nữ, mà cả…
 Dialogue: 0,0:11:10.61,0:11:11.61,Main,,0,0,0,,Phong Minh đại nhân!
-Dialogue: 0,0:11:11.83,0:11:14.32,Main,,0,0,0,,Cứ để tụi nô tì lau chỗ đó cho ạ.
+Dialogue: 0,0:11:11.83,0:11:14.32,Main,,0,0,0,,Cứ để tụi nô tì lau cho ạ.
 Dialogue: 0,0:11:14.32,0:11:15.99,Main,,0,0,0,,Không sao, nhiêu đây đáng gì.
-Dialogue: 0,0:11:15.99,0:11:17.70,Main,,0,0,0,,Chỉ là ta vừa phát hiện ra thôi.
+Dialogue: 0,0:11:15.99,0:11:17.70,Main,,0,0,0,,Ta cũng mới thấy nó ấy mà.
 Dialogue: 0,0:11:18.18,0:11:20.52,Main,,0,0,0,,{\i1}Phong Minh là người đứng đầu ở đây.
 Dialogue: 0,0:11:20.52,0:11:22.70,Main,,0,0,0,,{\i1}Bà ấy đã quá tuổi kết hôn,
 Dialogue: 0,0:11:22.70,0:11:24.91,Main,,0,0,0,,{\i1}nhưng nếu kết hôn thì hẳn sẽ là một hiền thê.
@@ -197,19 +198,19 @@ Dialogue: 0,0:11:33.42,0:11:38.18,Main,,0,0,0,,{\i1}Lòng trung thành mãnh li�
 Dialogue: 0,0:11:38.93,0:11:41.85,Main,,0,0,0,,{\i1}Sắp có một quý phi mới vào cung,
 Dialogue: 0,0:11:41.85,0:11:45.48,Main,,0,0,0,,{\i1}vị trí của đang bị đe dọa nhất...\N là A Đa nương nương.
 Dialogue: 0,0:11:46.10,0:11:48.48,Main,,0,0,0,,{\i1}Nhưng nếu có một vị trí khác bỏ trống thì sao?
-Dialogue: 0,0:11:49.52,0:11:52.40,Main,,0,0,0,,{\i1}Hoàng thượng chỉ sủng ái \Nnhững quý phi tần nở nang,
-Dialogue: 0,0:11:52.40,0:11:55.47,Main,,0,0,0,,{\i1}nên sẽ không ghé thăm Lí Thụ quý phi.
+Dialogue: 0,0:11:49.52,0:11:52.40,Main,,0,0,0,,{\i1}Hoàng thượng chỉ sủng ái \Nnhững quý phi nở nang,
+Dialogue: 0,0:11:52.40,0:11:55.02,Main,,0,0,0,,{\i1}nên sẽ không ghé thăm Lí Thụ quý phi.
 Dialogue: 0,0:11:55.47,0:11:58.99,Main,,0,0,0,,{\i1}Tuy cũng mừng cho nương nương\N vì mới 14 tuổi, nhưng...
 Dialogue: 0,0:11:58.99,0:12:01.99,Main,,0,0,0,,{\i1}việc đó đồng nghĩa với việc \Nchưa làm tròn bổn phận.
 Dialogue: 0,0:12:02.87,0:12:05.50,Main,,0,0,0,,{\i1}Nếu việc hạ độc là vì \Nlợi ích của A Đa nương nương,
 Dialogue: 0,0:12:06.16,0:12:09.25,Main,,0,0,0,,{\i1}thì Lí Thụ nương nương là mục tiêu phù hợp.
-Dialogue: 0,0:12:09.92,0:12:11.59,Main,,0,0,0,,Ai đó phụ một tay ở đây được không?
+Dialogue: 0,0:12:09.92,0:12:11.59,Main,,0,0,0,,Ai đó tới phụ một tay được không?
 Dialogue: 0,0:12:13.92,0:12:15.01,Main,,0,0,0,,Mật ong?
 Dialogue: 0,0:12:15.01,0:12:18.22,Main,,0,0,0,,Gia đình Phong Minh đại nhân\Ncó một trang trại nuôi ong.
 Dialogue: 0,0:12:19.22,0:12:22.97,Main,,0,0,0,,Bảo sao ở đây lại có\N nhiều mật ong thượng hạng tới vậy.
 Dialogue: 0,0:12:23.85,0:12:26.81,Main,,0,0,0,,{\i1}Vậy ra mùi ngọt hôm qua\N là từ mật ong à.
 Dialogue: 0,0:12:32.36,0:12:33.78,Main,,0,0,0,,{\i1}Lí Thụ nương nương?
-Dialogue: 0,0:12:34.06,0:12:36.53,Main,,0,0,0,,{\i1}Nương nương chỉ đi cùng \Nngười thử độc thôi à?
+Dialogue: 0,0:12:34.06,0:12:36.53,Main,,0,0,0,,{\i1}Nương nương chỉ đi cùng \Nngười thử độc thôi sao?
 Dialogue: 0,0:12:36.71,0:12:38.61,Main,,0,0,0,,{\i1}Đến Giá Lựu Cung làm gì nhỉ?
 Dialogue: 0,0:12:38.86,0:12:40.53,Main,,0,0,0,,{\i1}À phải rồi, ở buổi tiệc trà…
 Dialogue: 0,0:12:48.79,0:12:51.54,Main,,0,0,0,,Đó là tất cả những gì\Nđã diễn ra ở Giá Lựu Cung.
@@ -217,39 +218,39 @@ Dialogue: 0,0:12:52.79,0:12:53.42,Main,,0,0,0,,Ta hiểu rồi.
 Dialogue: 0,0:12:55.05,0:12:55.92,Main,,0,0,0,,Rồi sao nữa?
 Dialogue: 0,0:12:56.51,0:12:58.93,Main,,0,0,0,,Không còn "rồi sao nữa" đâu ạ.
 Dialogue: 0,0:12:59.59,0:13:02.10,Main,,0,0,0,,{\i1}Không biết hắn đang tìm kiếm điều gì,
-Dialogue: 0,0:13:02.10,0:13:03.93,Main,,0,0,0,,{\i1}nhưng mình chỉ là một dược sư mà thôi.
+Dialogue: 0,0:13:02.10,0:13:03.93,Main,,0,0,0,,{\i1}nhưng mình chỉ là một dược sư thôi.
 Dialogue: 0,0:13:04.64,0:13:07.18,Main,,0,0,0,,{\i1}Thám thính không phải việc của mình.
 Dialogue: 0,0:13:07.65,0:13:10.82,Main,,0,0,0,,{\i1}Mà dạo này,\N thấy thái độ hắn ta có vẻ khinh khỉnh?
 Dialogue: 0,0:13:15.61,0:13:17.22,Main,,0,0,0,,Vậy để ta sửa câu hỏi.
 Dialogue: 0,0:13:17.63,0:13:21.64,Main,,0,0,0,,Nếu có người biết cách liên lạc với bên ngoài\Nqua một phương thức đặc biệt,
-Dialogue: 0,0:13:21.64,0:13:22.57,Main,,0,0,0,,đó có thể là ai?
+Dialogue: 0,0:13:21.64,0:13:22.57,Main,,0,0,0,,thì đó có thể là ai?
 Dialogue: 0,0:13:23.28,0:13:25.58,Main,,0,0,0,,{\i1}Hỏi nghe ngứa thế nhờ.
 Dialogue: 0,0:13:26.91,0:13:28.87,Main,,0,0,0,,Nếu thực sự có khả năng đó...
 Dialogue: 0,0:13:28.87,0:13:31.83,Main,,0,0,0,,thì chắc là trưởng thị nữ Phong Minh.
 Dialogue: 0,0:13:31.83,0:13:32.46,Main,,0,0,0,,Lý do?
 Dialogue: 0,0:13:33.44,0:13:36.00,Main,,0,0,0,,Bà ấy có băng gạc quấn quanh cổ tay trái.
 Dialogue: 0,0:13:36.63,0:13:38.51,Main,,0,0,0,,Những tấm gỗ màu lần trước...
-Dialogue: 0,0:13:38.51,0:13:42.27,Main,,0,0,0,,được bọc trong y phục của nữ nhân\N với phần tay áo bị cháy.
+Dialogue: 0,0:13:38.51,0:13:42.01,Main,,0,0,0,,được bọc trong y phục của nữ nhân\N với phần tay áo bị cháy.
 Dialogue: 0,0:13:43.18,0:13:46.10,Main,,0,0,0,,Họ đã cố tình tạo ra \Nnhững ngọn lửa nhiều màu,
 Dialogue: 0,0:13:46.10,0:13:48.06,Main,,0,0,0,,và nếu chúng mang một ý nghĩa nào đó...
 Dialogue: 0,0:13:48.06,0:13:49.16,Main,,0,0,0,,thì chính là mật mã.
-Dialogue: 0,0:13:49.90,0:13:55.61,Main,,0,0,0,,Thật lòng, hơi khó tin khi một trưởng thị nữ \Nđiềm đạm như vậy lại giở trò gì,
+Dialogue: 0,0:13:49.90,0:13:55.61,Main,,0,0,0,,Thật lòng, hơi khó tin khi một trưởng thị nữ \Nđiềm đạm như vậy lại giở trò gì đó,
 Dialogue: 0,0:13:56.27,0:13:58.61,Main,,0,0,0,,nhưng dù sao đây cũng chỉ là suy đoán.
 Dialogue: 0,0:14:02.07,0:14:03.62,Main,,0,0,0,,Mà, chắc vậy là đủ rồi.
 Dialogue: 0,0:14:04.20,0:14:06.83,Main,,0,0,0,,{\i1}Hắn chỉ kiếm cớ để ăn mật ong thôi.
 Dialogue: 0,0:14:06.83,0:14:09.34,Main,,0,0,0,,{\i1}Mình đảm bảo hắn đã biết hết rồi.
 Dialogue: 0,0:14:11.71,0:14:14.71,Main,,0,0,0,,Bé ngoan thì phải được thưởng ha.
 Dialogue: 0,0:14:15.96,0:14:17.07,Main,,0,0,0,,Dạ khỏi cần ạ.
-Dialogue: 0,0:14:17.07,0:14:18.63,Main,,0,0,0,,Không nên khách sao.
+Dialogue: 0,0:14:17.07,0:14:18.63,Main,,0,0,0,,Khách sáo làm gì.
 Dialogue: 0,0:14:22.51,0:14:25.35,Main,,0,0,0,,Nô tì không cần thật mà, \Nđại nhân cho người khác đi.
 Dialogue: 0,0:14:25.89,0:14:29.31,Main,,0,0,0,,{\i1}Hắn cho rằng chỉ vì đẹp giai \Nmà làm gì cũng được sao!
-Dialogue: 0,0:14:29.31,0:14:31.81,Main,,0,0,0,,{\i1}Mà đúng rồi, hắn biến thái mà!
+Dialogue: 0,0:14:29.31,0:14:31.81,Main,,0,0,0,,{\i1}Mà đúng rồi, hắn là tên biến thái mà!
 Dialogue: 0,0:14:34.27,0:14:35.10,Main,,0,0,0,,Ngài Cao Thuận!
 Dialogue: 0,0:14:37.52,0:14:38.98,Main,,0,0,0,,{\i1}Rồi có ngày bà cho uống thuốc xổ!
 Dialogue: 0,0:14:39.45,0:14:41.15,Main,,0,0,0,,Ngươi không thích đồ ngọt sao?
 Dialogue: 0,0:14:41.15,0:14:42.40,Main,,0,0,0,,Nô tì thích cay và mặn.
-Dialogue: 0,0:14:43.03,0:14:44.53,Main,,0,0,0,,Nhưng vẫn ăn được mà ha?
-Dialogue: 0,0:14:44.90,0:14:47.28,Main,,0,0,0,,{\i1}Khốn nạn! Nói bằng hòa rồi!
+Dialogue: 0,0:14:43.03,0:14:44.53,Main,,0,0,0,,Nhưng vẫn ăn được mà nhỉ?
+Dialogue: 0,0:14:44.90,0:14:47.28,Main,,0,0,0,,{\i1}Khốn nạn! Nói nữa cũng bằng hòa!
 Dialogue: 0,0:14:47.59,0:14:49.87,Main,,0,0,0,,{\i1}Nếu không phải quan to \Nthì mình đã đá vào hạ bộ rồi.
 Dialogue: 0,0:14:49.87,0:14:52.04,Main,,0,0,0,,{\i1}Mà không, làm gì còn gì để mà đá.
 Dialogue: 0,0:14:52.28,0:14:54.29,Main,,0,0,0,,{\i1}Nên theo lệnh hắn ta?
@@ -265,14 +266,14 @@ Dialogue: 0,0:15:44.30,0:15:45.68,Main,,0,0,0,,Mật ong.
 Dialogue: 0,0:15:47.93,0:15:48.80,Main,,0,0,0,,Dược sư?
 Dialogue: 0,0:15:49.20,0:15:51.67,Main,,0,0,0,,Ngài đang làm gì thị nữ của bổn cung vậy?
 Dialogue: 0,0:15:55.52,0:15:57.31,Main,,0,0,0,,Ngọc Diệp nương nương, chuyện này—
-Dialogue: 0,0:15:57.31,0:15:59.55,Main,,0,0,0,,Ai cho phép ngài có quyền làm vậy?
+Dialogue: 0,0:15:57.31,0:15:59.55,Main,,0,0,0,,Ai cho ngài cái quyền đó hả!
 Dialogue: 0,0:16:04.61,0:16:05.52,Main,,0,0,0,,Tiểu Miêu!
 Dialogue: 0,0:16:05.97,0:16:08.70,Main,,0,0,0,,Chỉ là đùa quá trớn thôi.
 Dialogue: 0,0:16:08.70,0:16:11.31,Main,,0,0,0,,Mong cô bỏ quá cho Nhâm Thị đại nhân.
 Dialogue: 0,0:16:11.83,0:16:15.74,Main,,0,0,0,,Vậy thì... lần tới người liếm tay đại nhân\N sẽ là ngài nhé.
 Dialogue: 0,0:16:17.21,0:16:20.04,Main,,0,0,0,,Liếm á? Chuyện đó—có hơi—
-Dialogue: 0,0:16:21.67,0:16:22.80,Main,,0,0,0,,Ngài hiểu ra chưa?
-Dialogue: 0,0:16:23.84,0:16:28.05,Main,,0,0,0,,Còn giờ, nô tì vài điều cần xác nhận lại.
+Dialogue: 0,0:16:21.67,0:16:22.80,Main,,0,0,0,,Ngài đã hiểu ra chưa?
+Dialogue: 0,0:16:23.84,0:16:28.05,Main,,0,0,0,,Còn giờ, nô tì có vài điều cần xác nhận lại.
 Dialogue: 0,0:16:31.18,0:16:32.43,Main,,0,0,0,,Nô tì xin phép.
 Dialogue: 0,0:16:32.78,0:16:34.24,Main,,0,0,0,,Chào mừng ngài—
 Dialogue: 0,0:16:34.24,0:16:34.93,Main,,0,0,0,,Ơ?
@@ -281,30 +282,30 @@ Dialogue: 0,0:16:37.85,0:16:40.15,Main,,0,0,0,,Vâng. Xin người cáo lỗi v�
 Dialogue: 0,0:16:41.77,0:16:45.11,Main,,0,0,0,,Thế... thị nữ ở Phỉ Thúy Cung \Ncó việc gì cần ta?
 Dialogue: 0,0:16:45.69,0:16:47.67,Main,,0,0,0,,Nô tì muốn hỏi nương nương đôi lời.
 Dialogue: 0,0:16:53.79,0:16:56.41,Main,,0,0,0,,{\i1}Ngươi... là người ở tiệc hoa viên...
-Dialogue: 0,0:16:57.41,0:16:58.54,Main,,0,0,0,,Có chuyện gì?
-Dialogue: 0,0:16:59.83,0:17:01.67,Main,,0,0,0,,Người không thích mật ong phải không?
+Dialogue: 0,0:16:57.37,0:16:58.54,Main,,0,0,0,,Có chuyện gì?
+Dialogue: 0,0:16:59.83,0:17:01.67,Main,,0,0,0,,Nương nương không thích \Nmật ong phải không?
 Dialogue: 0,0:17:03.13,0:17:04.49,Main,,0,0,0,,Sao ngươi lại biết?
 Dialogue: 0,0:17:04.71,0:17:06.39,Main,,0,0,0,,Thì rõ rành rành ra đấy mà.
-Dialogue: 0,0:17:08.16,0:17:11.13,Main,,0,0,0,,Người đã bao giờ\Nbị đau bụng do mật ong chưa?
+Dialogue: 0,0:17:08.16,0:17:11.13,Main,,0,0,0,,Nương nương đã bao giờ\Nbị đau bụng do mật ong chưa?
 Dialogue: 0,0:17:11.40,0:17:13.89,Main,,0,0,0,,Sau khi bị ngộ độc\N thì không dám ăn lại món đó...
 Dialogue: 0,0:17:13.89,0:17:15.50,Main,,0,0,0,,cũng là lẽ thường tình.
 Dialogue: 0,0:17:16.56,0:17:18.10,Main,,0,0,0,,Không phải thế.
 Dialogue: 0,0:17:18.10,0:17:20.90,Main,,0,0,0,,Ta không nhớ rõ lắm.\NKhi đó ta vẫn còn nhỏ.
-Dialogue: 0,0:17:21.98,0:17:24.69,Main,,0,0,0,,{\i1}Mọi người bảo là lúc đó nguy kịch lắm.
-Dialogue: 0,0:17:25.20,0:17:28.70,Main,,0,0,0,,{\i1}Nhũ mẫu từ đó đã dặn là \Nkhông bao giờ được đụng đến mật ong.
+Dialogue: 0,0:17:21.98,0:17:24.69,Main,,0,0,0,,Mọi người bảo là lúc đó nguy kịch lắm.
+Dialogue: 0,0:17:25.20,0:17:28.70,Main,,0,0,0,,Nhũ mẫu từ đó đã dặn là \Nkhông bao giờ được đụng đến mật ong.
 Dialogue: 0,0:17:29.05,0:17:32.28,Main,,0,0,0,,Ngươi thật vô lễ! \NDám hỏi Lí Thụ nương nương như thế!
-Dialogue: 0,0:17:35.33,0:17:38.66,Main,,0,0,0,,{\i1}Mấy người không bảo vệ nổi chủ tử ở tiệc trà\N mà giờ còn dám lên tiếng.
+Dialogue: 0,0:17:35.29,0:17:38.66,Main,,0,0,0,,{\i1}Mấy người không bảo vệ nổi chủ tử ở tiệc trà\N mà giờ còn dám lên tiếng.
 Dialogue: 0,0:17:38.66,0:17:39.83,Main,,0,0,0,,Ánh mắt đấy là sao?
 Dialogue: 0,0:17:40.11,0:17:42.71,Main,,720,0,0,,Nương nương không cần\N phải tiếp chuyện với một thị nữ như vậy.
 Dialogue: 0,0:17:42.71,0:17:45.96,Main,,720,0,0,,Phải đó, cô ta dám vô lễ với \NĐức Phi, Lí Thụ nương nương người.
-Dialogue: 0,0:17:45.96,0:17:47.30,Main,,720,0,0,,Người nên đuổi cô ta đi!
+Dialogue: 0,0:17:45.96,0:17:47.30,Main,,720,0,0,,Nương nương nên đuổi cô ta đi!
 Dialogue: 0,0:17:47.61,0:17:50.51,Main,,0,0,0,,{\i1}Họ cố biến người ngoài trở thành kẻ xấu,
-Dialogue: 0,0:17:50.51,0:17:53.30,Main,,0,0,0,,{\i1}để từ đó khiến nương nương\N nghĩ họ là đồng minh duy nhất à.
+Dialogue: 0,0:17:50.51,0:17:53.30,Main,,0,0,0,,{\i1}để qua đó khiến nương nương\N nghĩ họ là đồng minh duy nhất à.
 Dialogue: 0,0:17:53.95,0:17:54.86,Main,,0,0,0,,{\an8}Lí Thụ nương nương...
 Dialogue: 0,0:17:54.54,0:17:59.06,Main,,0,0,0,,{\i1}Một tiểu thư ngây ngô như nương nương\N sẽ dễ dàng bị đánh lừa.
-Dialogue: 0,0:17:59.77,0:18:01.48,Main,,0,0,0,,{\i1}Một quý phi bị cô lập...
+Dialogue: 0,0:17:59.77,0:18:01.48,Main,,0,0,0,,{\i1}Một quý phi bị cô lập,
 Dialogue: 0,0:18:01.48,0:18:03.63,Main,,0,0,0,,{\i1}buộc phải dựa dẫm vào thị nữ của mình.
-Dialogue: 0,0:18:03.90,0:18:06.46,Main,,0,0,0,,{\i1}Thậm chí còn không nhận ra rằng\N mình đang bị bắt nạt.
+Dialogue: 0,0:18:03.90,0:18:06.46,Main,,0,0,0,,{\i1}Nhưng lại không nhận ra rằng\N mình đang bị bắt nạt.
 Dialogue: 0,0:18:07.48,0:18:09.33,Main,,0,0,0,,{\i1}Đúng là một vòng luẩn quẩn.
 Dialogue: 0,0:18:10.90,0:18:14.70,Main,,0,0,0,,Tôi được lệnh đến đây.\NNếu ai có ý kiến...
 Dialogue: 0,0:18:15.37,0:18:17.58,Main,,0,0,0,,thì hãy trực tiếp bẩm báo Nhâm Thị đại nhân.
@@ -317,7 +318,7 @@ Dialogue: 0,0:18:33.80,0:18:35.66,Main,,0,0,0,,Trưởng thị nữ ở Giá L�
 Dialogue: 0,0:18:37.13,0:18:39.52,Main,,0,0,0,,Tức Phong Minh, \Nnương nương có quen bà ấy chứ?
 Dialogue: 0,0:18:54.70,0:18:55.24,Main,,0,0,0,,Tiểu Miêu?
 Dialogue: 0,0:18:56.06,0:19:00.62,Main,,0,0,0,,Ngài Cao Thuận, liệu có cách nào để biết \Nchuyện trước đây ở hậu cung không?
-Dialogue: 0,0:19:04.25,0:19:05.88,Main,,0,0,0,,Có thể tìm ở kho lưu trữ.
+Dialogue: 0,0:19:04.25,0:19:05.88,Main,,0,0,0,,Vậy ta tới kho lưu trữ tìm.
 Dialogue: 0,0:19:08.21,0:19:09.88,Main,,0,0,0,,Đa tạ ngài.
 Dialogue: 0,0:19:15.09,0:19:17.89,Main,,0,0,0,,{\i1}Lần này cô ấy đã phát hiện ra gì sao?
 Dialogue: 0,0:19:18.47,0:19:19.75,Main,,0,0,0,,{\i1}Đúng là thông minh.
@@ -327,8 +328,7 @@ Dialogue: 0,0:19:24.73,0:19:28.61,Main,,0,0,0,,{\i1}Suy nghĩ thấu đáo và x
 Dialogue: 0,0:19:30.19,0:19:33.97,Main,,0,0,0,,{\i1}Có chút hơi kỳ quái, nhưng rất ấn tượng.
 Dialogue: 0,0:19:37.17,0:19:38.66,Main,,0,0,0,,17 năm trước,
 Dialogue: 0,0:19:38.66,0:19:41.91,Main,,0,0,0,,khi Hoàng thượng đương triều\N vẫn còn là Thái tử,
-Dialogue: 0,0:19:42.26,0:19:43.79,Main,,0,0,0,,Hoàng thượng đã có một đứa con trai...
-Dialogue: 0,0:19:43.79,0:19:45.67,Main,,0,0,0,,với A Đa nương nương.
+Dialogue: 0,0:19:42.26,0:19:45.67,Main,,0,0,0,,Hoàng thượng đã có một đứa con trai\N với A Đa nương nương.
 Dialogue: 0,0:19:45.98,0:19:47.67,Main,,0,0,0,,Đứa bé sau đó đã qua đời.
 Dialogue: 0,0:19:48.50,0:19:51.59,Main,,0,0,0,,Đứa bé được sinh cùng khoảng thời gian\N với con của Tiên đế và Thái hậu,
 Dialogue: 0,0:19:51.59,0:19:54.67,Main,,0,0,0,,hay cũng chính là, \NHoàng đệ của Hoàng thượng đương triều.
@@ -336,7 +336,7 @@ Dialogue: 0,0:19:55.51,0:19:58.45,Main,,0,0,0,,Đó là đứa con duy nhất \N
 Dialogue: 0,0:19:58.45,0:20:00.93,Main,,0,0,0,,Và A Đa nương nương \Ncũng là phi tần duy nhất.
 Dialogue: 0,0:20:01.43,0:20:04.89,Main,,0,0,0,,Hoàng thượng đương triều và A Đa nương nương\Ncùng được một nhũ mẫu nuôi nấng,
 Dialogue: 0,0:20:04.89,0:20:08.11,Main,,0,0,0,,nên mình hiểu là hai người\N có tình cảm sâu sắc, nhưng...
-Dialogue: 0,0:20:08.48,0:20:12.53,Main,,0,0,0,,chả lẽ lão già dâm đãng đó lại chỉ qua lại với \Nmột mình A Đa nương nương thôi sao.
+Dialogue: 0,0:20:08.48,0:20:12.53,Main,,0,0,0,,chả nhẽ cái lão dâm đãng đó lại chỉ qua lại với \Nmột mình A Đa nương nương thôi sao.
 Dialogue: 0,0:20:14.07,0:20:17.13,Main,,0,0,0,,16 năm trước, cái chết của trẻ sơ sinh...
 Dialogue: 0,0:20:17.13,0:20:19.03,GT,,0,0,0,,Từ đồng nghĩa, qua ngữ cảnh vẫn chưa chắc chắn, nhưng thiên về "đỡ đẻ".
 Dialogue: 0,0:20:17.13,0:20:19.03,Main,,0,0,0,,Người {\i1}đỡ đẻ{\i0} là...\N{\rGT 2}(Người {\i1}chuyển giao{\i0} là...)
@@ -345,17 +345,10 @@ Dialogue: 0,0:20:27.83,0:20:30.71,Main,,0,0,0,,{\i1}Nhiều loại thảo dượ
 Dialogue: 0,0:20:30.71,0:20:33.78,Main,,0,0,0,,{\i1}đều là những loại \Nmình đã dùng từ xưa đến giờ.
 Dialogue: 0,0:20:34.26,0:20:36.76,Main,,0,0,0,,{\i1}Chắc chắn có ai đó đã chuyển chúng đến đây.
 Dialogue: 0,0:20:38.76,0:20:42.76,Main,,0,0,0,,{\i1}Một nam nhân khập khiễng như bà cụ.
-Dialogue: 0,0:20:43.85,0:20:46.02,Main,,0,0,0,,{\i1}Người giỏi về dược liệu đến mức...
-Dialogue: 0,0:20:46.02,0:20:48.02,Main,,0,0,0,,{\i1}thật phí phạm \Nkhi chỉ là dược sư ở phố thanh lâu.
+Dialogue: 0,0:20:43.85,0:20:46.02,Main,,0,0,0,,{\i1}Người giỏi về dược liệu đến mức thật phí phạm...
+Dialogue: 0,0:20:46.02,0:20:48.02,Main,,0,0,0,,{\i1}khi chỉ là một dược sư ở phố thanh lâu.
 Dialogue: 0,0:20:49.77,0:20:52.65,Main,,0,0,0,,{\i1}Người có một bên xương gối bị rút mất.
 Dialogue: 0,0:20:52.65,0:20:54.19,Main,,0,0,0,,{\i1}Một cựu thái giám.
 Dialogue: 0,0:20:55.57,0:20:56.95,Main,,0,0,0,,Vậy là sao...
 Dialogue: 0,0:20:58.70,0:20:59.95,Main,,0,0,0,,hả cha?
 Dialogue: 0,0:22:46.51,0:22:49.54,Main,,0,800,0,,Kỳ tới, "Biến Hai thành Một".
-
-[Aegisub Extradata]
-Data: 19,a-mo,e{"originalText"#3A"{\\blur1\\bord0\\shad0\\c&H1F140B&\\fnSJ Beelzebrush Alt BB\\frz21.02\\fax-0.05\\fscx158\\fscy173\\pos(1361.6#2C888.79)}TR#E1#BB#A4C"#2C"uuid"#3A"2f4d7e69-0863-48c9-9aed-38911b6c5794"}
-Data: 20,a-mo,e{"originalText"#3A"{\\blur1\\bord0\\shad0\\c&H271B0F&\\fnSJ Beelzebrush Alt BB\\frz21.02\\fax-0.05\\fscx150\\fscy145\\pos(985.34#2C725.54)}M#C3#94N"#2C"uuid"#3A"d31a4c83-6d9e-4bc6-995c-350393374b60"}
-Data: 21,a-mo,e{"originalText"#3A"{\\blur1\\bord0\\shad0\\c&H2F1E13&\\fnSJ Beelzebrush Alt BB\\frz21.02\\fax-0.05\\fscx162\\fscy157\\pos(928.1#2C510.78)}LA"#2C"uuid"#3A"364747ee-4fd6-4979-a3c5-612366d38168"}
-Data: 22,a-mo,e{"originalText"#3A"{\\blur1\\bord0\\shad0\\c&H3D271D&\\fnSJ Beelzebrush Alt BB\\frz21.02\\fax-0.05\\fscx162\\fscy157\\pos(899.67#2C302.86)}Y"#2C"uuid"#3A"c381d8e2-77be-4f26-9442-f6cf83633e5a"}
-Data: 23,a-mo,e{"originalText"#3A"{\\blur1\\bord0\\shad0\\c&H402D24&\\fnSJ Beelzebrush Alt BB\\frz21.02\\fax-0.05\\fscx162\\fscy157\\pos(836.44#2C158.36)}TH#C3#81I"#2C"uuid"#3A"b190e4bb-f4fe-447c-9dfa-67bfa4ef63a6"}
