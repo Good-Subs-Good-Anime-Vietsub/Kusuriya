@@ -16,8 +16,8 @@ Video File: ../raws/Kusuriya - 10 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 294
-Active Line: 313
+Scroll Position: 206
+Active Line: 238
 Video Position: 29826
 
 [V4+ Styles]
@@ -49,7 +49,7 @@ Dialogue: 0,0:02:12.78,0:02:15.70,Main,,0,0,0,,sắp bị loại khỏi tứ đ�
 Dialogue: 0,0:02:17.12,0:02:21.75,Main,,0,0,0,,{\i1}A Đa nương nương năm nay 35 tuổi,\N hơn Hoàng thượng một tuổi.
 Dialogue: 0,0:02:22.08,0:02:26.50,Main,,0,0,0,,{\i1}Nương nương từng bị mất một bé trai \Nkhi Hoàng thượng vẫn còn là Thái tử.
 Dialogue: 0,0:02:27.25,0:02:31.93,Main,,0,0,0,,{\i1}Cũng khó trách, vì ở hậu cung\N thì cần phải hạ sinh càng nhiều con càng tốt...
-Dialogue: 0,0:02:33.88,0:02:36.84,Main,,0,0,0,,{\i1}Mẫu thân của một hoàng tử đã mất sao?
+Dialogue: 0,0:02:33.88,0:02:36.84,Main,,0,0,0,,{\i1}Người mẹ đã mất một cậu con trai à?
 Dialogue: 0,0:02:37.64,0:02:42.35,Main,,0,0,0,,{\i1}Nếu Lê Hoa nương nương cũng không hạ sinh nữa,\N liệu có chung số phận không?
 Dialogue: 0,0:02:42.83,0:02:44.31,Main,,0,0,0,,{\i1}Rồi Ngọc Diệp nương nương nữa.
 Dialogue: 0,0:02:44.31,0:02:47.61,Main,,0,0,0,,{\i1}Không ai biết được rằng nương nương \Nsẽ được sủng ái tới khi nào.
@@ -270,9 +270,9 @@ Dialogue: 0,0:15:57.31,0:15:59.55,Main,,0,0,0,,Ai cho ngài cái quyền đó h�
 Dialogue: 0,0:16:04.61,0:16:05.52,Main,,0,0,0,,Tiểu Miêu!
 Dialogue: 0,0:16:05.97,0:16:08.70,Main,,0,0,0,,Chỉ là đùa quá trớn thôi.
 Dialogue: 0,0:16:08.70,0:16:11.31,Main,,0,0,0,,Mong cô bỏ quá cho Nhâm Thị đại nhân.
-Dialogue: 0,0:16:11.83,0:16:15.74,Main,,0,0,0,,Vậy thì... lần tới người liếm tay đại nhân\N sẽ là ngài nhé.
+Dialogue: 0,0:16:11.83,0:16:15.74,Main,,0,0,0,,Vậy thì... lần tới ngài liếm tay đại nhân nhé,\N được thế thì xí xóa.
 Dialogue: 0,0:16:17.21,0:16:20.04,Main,,0,0,0,,Liếm á? Chuyện đó—có hơi—
-Dialogue: 0,0:16:21.67,0:16:22.80,Main,,0,0,0,,Ngài đã hiểu ra chưa?
+Dialogue: 0,0:16:21.67,0:16:22.80,Main,,0,0,0,,Ngài hiểu là được rồi.
 Dialogue: 0,0:16:23.84,0:16:28.05,Main,,0,0,0,,Còn giờ, nô tì có vài điều cần xác nhận lại.
 Dialogue: 0,0:16:31.18,0:16:32.43,Main,,0,0,0,,Nô tì xin phép.
 Dialogue: 0,0:16:32.78,0:16:34.24,Main,,0,0,0,,Chào mừng ngài—
