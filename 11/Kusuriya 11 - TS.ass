@@ -15,9 +15,9 @@ Audio File: ../raws/Kusuriya - 11 (CR).mkv
 Video File: ../raws/Kusuriya - 11 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 14
-Video Position: 32765
+Video Zoom Percent: 1.250000
+Active Line: 1
+Video Position: 6361
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,7 +32,7 @@ Style: InsertSong,SVN-Bree,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:04:25.29,0:04:26.29,Signs,,0,0,0,,{\blur2.4\bord0\shad0\c&H394B5E&\fnSJ Beelzebrush Alt BB\frz6.186\pos(733.4,19.26)\fscx143\fscy140}Y
-Dialogue: 0,0:04:25.29,0:04:26.29,Signs,,0,0,0,,{\blur1.3\bord0\shad0\c&H3E4951&\fnSJ Beelzebrush Alt BB\frz6.186\pos(737.4,242.46)\fscx143\fscy140}LA
+Dialogue: 0,0:04:25.29,0:04:26.29,Signs,,0,0,0,,{\blur1.3\bord0\shad0\c&H38444C&\fnSJ Beelzebrush Alt BB\frz6.186\pos(737.4,242.46)\fscx143\fscy140}LA
 Dialogue: 0,0:04:25.29,0:04:26.29,Signs,,0,0,0,,{\blur1.2\bord0\shad0\c&H435056&\fnSJ Beelzebrush Alt BB\pos(767,434.46)\frz10.62\fscx143\fscy140}MÔN
 Dialogue: 0,0:04:25.29,0:04:26.29,Signs,,0,0,0,,{\blur1.2\bord0\shad0\c&H343F44&\fnSJ Beelzebrush Alt BB\frz10.62\pos(1071.8,619.26)\fscx134\fscy131}TRỤC
 Dialogue: 0,0:04:25.29,0:04:26.29,Signs,,0,0,0,,{\blur1.1\bord0\shad0\c&H2C363E&\fnSJ Beelzebrush Alt BB\frz10.62\fscx120\fscy117\pos(1083,824.86)}XUẤT
