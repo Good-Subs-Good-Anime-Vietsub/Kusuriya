@@ -16,8 +16,8 @@ Video File: ../raws/Kusuriya - 11 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 262
-Active Line: 284
+Scroll Position: 176
+Active Line: 226
 Video Position: 28571
 
 [V4+ Styles]
@@ -208,7 +208,7 @@ Dialogue: 0,0:11:54.36,0:11:56.09,Main,,0,0,0,,Là Hoàng thượng ra chỉ.
 Dialogue: 0,0:11:56.64,0:11:57.53,Main,,0,0,0,,Nô tì hiểu rồi.
 Dialogue: 0,0:11:59.44,0:12:00.16,Main,,0,0,0,,Loài hoa này…
 Dialogue: 0,0:12:01.37,0:12:03.51,Main,,0,0,0,,Nãy ta có thấy Hồng Nương bày biện.
-Dialogue: 0,0:12:05.58,0:12:07.80,Main,,0,0,0,,Vâng, là hoa nở trái mua.
+Dialogue: 0,0:12:05.58,0:12:07.80,Main,,0,0,0,,Vâng, là hoa nở trái mùa.
 Dialogue: 0,0:12:17.72,0:12:18.72,Main,,0,0,0,,Ngọt thật!
 Dialogue: 0,0:12:18.72,0:12:19.59,Main,,0,0,0,,Nhưng lại có độc.
 Dialogue: 0,0:12:21.68,0:12:24.39,Main,,0,0,0,,Không đến mức chết người đâu, \Nđại nhân yên tâm.
@@ -258,7 +258,7 @@ Dialogue: 0,0:15:54.52,0:15:56.98,Main,,0,0,0,,{\i1}cô thị nữ đã gieo mì
 Dialogue: 0,0:15:57.73,0:16:00.11,Main,,0,0,0,,{\i1}Phong Minh thì sẵn sàng bước lên giá treo cổ...
 Dialogue: 0,0:16:00.11,0:16:02.71,Main,,0,0,0,,{\i1}để bảo vệ bí mật riêng của bà ấy.
 Dialogue: 0,0:16:04.32,0:16:06.82,Main,,0,0,0,,{\i1}Dù không biết A Đa nương nương\N mong muốn điều gì,
-Dialogue: 0,0:16:06.82,0:16:10.45,Main,,0,0,0,,{\i1}xung quanh vẫn có những người \N sẵn sàng hi sinh tính mạng vì nương nương.
+Dialogue: 0,0:16:06.82,0:16:10.45,Main,,0,0,0,,{\i1}xung quanh vẫn có những người \N sẵn sàng hy sinh tính mạng vì nương nương.
 Dialogue: 0,0:16:12.01,0:16:14.20,Main,,0,0,0,,Thôi, mình cũng nên xuống thôi.
 Dialogue: 0,0:16:18.08,0:16:19.16,Main,,0,0,0,,Làm cái gì đó?
 Dialogue: 0,0:16:23.25,0:16:23.85,Main,,0,0,0,,Au ui!

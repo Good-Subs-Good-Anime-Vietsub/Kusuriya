@@ -16,8 +16,8 @@ Video File: ../raws/Kusuriya - 10 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 206
-Active Line: 238
+Scroll Position: 259
+Active Line: 290
 Video Position: 29826
 
 [V4+ Styles]
@@ -102,7 +102,7 @@ Dialogue: 0,0:05:22.81,0:05:23.99,Main,,0,0,0,,Ngọc Diệp nương nương.
 Dialogue: 0,0:05:25.68,0:05:26.85,Main,,0,0,0,,Ôi ôi.
 Dialogue: 0,0:05:26.85,0:05:28.74,Main,,0,0,0,,Ái Lam, ngại quá.
 Dialogue: 0,0:05:29.02,0:05:31.61,Main,,0,0,0,,Có vẻ món này vẫn cần ủ thêm.
-Dialogue: 0,0:05:32.00,0:05:33.73,Main,,0,0,0,,Để bưng lên món khác.
+Dialogue: 0,0:05:32.00,0:05:33.73,Main,,0,0,0,,Để cho bưng lên món khác.
 Dialogue: 0,0:05:33.92,0:05:36.03,Main,,0,0,0,,Nương nương dùng được trà gừng chứ?
 Dialogue: 0,0:05:36.86,0:05:37.48,Main,,0,0,0,,Được.
 Dialogue: 0,0:05:37.82,0:05:38.89,Main,,0,0,0,,Bổn cung thấy ổn.
@@ -196,7 +196,7 @@ Dialogue: 0,0:11:25.75,0:11:27.92,Main,,0,0,0,,{\i1}Bà ấy không có ý đị
 Dialogue: 0,0:11:28.63,0:11:32.42,Main,,0,0,0,,{\i1}Hay là bà ấy đã chọn \Ncả đời này phục vụ A Đa nương nương?
 Dialogue: 0,0:11:33.42,0:11:38.18,Main,,0,0,0,,{\i1}Lòng trung thành mãnh liệt...\Nrất có thể là động cơ hạ độc.
 Dialogue: 0,0:11:38.93,0:11:41.85,Main,,0,0,0,,{\i1}Sắp có một quý phi mới vào cung,
-Dialogue: 0,0:11:41.85,0:11:45.48,Main,,0,0,0,,{\i1}vị trí của đang bị đe dọa nhất...\N là A Đa nương nương.
+Dialogue: 0,0:11:41.85,0:11:45.48,Main,,0,0,0,,{\i1}vị trí đang bị đe dọa nhất...\N là A Đa nương nương.
 Dialogue: 0,0:11:46.10,0:11:48.48,Main,,0,0,0,,{\i1}Nhưng nếu có một vị trí khác bỏ trống thì sao?
 Dialogue: 0,0:11:49.52,0:11:52.40,Main,,0,0,0,,{\i1}Hoàng thượng chỉ sủng ái \Nnhững quý phi nở nang,
 Dialogue: 0,0:11:52.40,0:11:55.02,Main,,0,0,0,,{\i1}nên sẽ không ghé thăm Lí Thụ quý phi.
@@ -260,7 +260,7 @@ Dialogue: 0,0:15:08.64,0:15:11.10,Main,,0,0,0,,{\blur6\bord3}Nương nương th�
 Dialogue: 0,0:15:11.10,0:15:12.73,Main,,0,0,0,,{\blur6\bord3}Mong là hợp khẩu vị nương nương.
 Dialogue: 0,0:15:32.83,0:15:33.75,Main,,0,0,0,,{\blur6\bord3}Mật ong?
 Dialogue: 0,0:15:33.75,0:15:37.46,Main,,0,0,0,,{\blur6\bord3}Gia đình Phong Minh đại nhân\Ncó một trang trại nuôi ong.
-Dialogue: 0,0:15:37.46,0:15:38.29,Main,,0,0,0,,{\blur6\bord3\i1}Lí thụ nương nương?
+Dialogue: 0,0:15:37.46,0:15:38.29,Main,,0,0,0,,{\blur6\bord3\i1}Lí Thụ nương nương?
 Dialogue: 0,0:15:39.63,0:15:41.14,Main,,0,0,0,,Mật…
 Dialogue: 0,0:15:44.30,0:15:45.68,Main,,0,0,0,,Mật ong.
 Dialogue: 0,0:15:47.93,0:15:48.80,Main,,0,0,0,,Dược sư?
@@ -322,7 +322,7 @@ Dialogue: 0,0:19:04.25,0:19:05.88,Main,,0,0,0,,Vậy ta tới kho lưu trữ tì
 Dialogue: 0,0:19:08.21,0:19:09.88,Main,,0,0,0,,Đa tạ ngài.
 Dialogue: 0,0:19:15.09,0:19:17.89,Main,,0,0,0,,{\i1}Lần này cô ấy đã phát hiện ra gì sao?
 Dialogue: 0,0:19:18.47,0:19:19.75,Main,,0,0,0,,{\i1}Đúng là thông minh.
-Dialogue: 0,0:19:20.01,0:19:21.98,Main,,0,0,0,,{\i1}Mình không tin nổi cô ấy mới có 17 tuổi.
+Dialogue: 0,0:19:20.01,0:19:21.98,Main,,0,0,0,,{\i1}Mình không tin nổi cô ấy mới 17 tuổi.
 Dialogue: 0,0:19:22.35,0:19:24.14,Main,,0,0,0,,{\i1}Hiểu biết sâu rộng và rất điềm tĩnh.
 Dialogue: 0,0:19:24.73,0:19:28.61,Main,,0,0,0,,{\i1}Suy nghĩ thấu đáo và xử lý nhanh nhạy.
 Dialogue: 0,0:19:30.19,0:19:33.97,Main,,0,0,0,,{\i1}Có chút hơi kỳ quái, nhưng rất ấn tượng.
