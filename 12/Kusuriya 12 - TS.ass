@@ -15,10 +15,9 @@ Audio File: ../raws/Kusuriya - 12 (CR).mkv
 Video File: ../raws/Kusuriya - 12 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.125000
-Scroll Position: 237
-Active Line: 247
-Video Position: 29520
+Video Zoom Percent: 1.000000
+Active Line: 5
+Video Position: 5200
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,6 +31,16 @@ Style: InsertSong,SVN-Bree,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:01:36.03,0:01:39.04,Signs,,0,0,0,,{\fad(300,300)\blur0.66\bord0\shad0\fnUVN Cat Bien\fscx80\fscy80\pos(960,102.67)\4c&H000000&\4a&H94&}Tác phẩm này là hư cấu, tất cả tên nhân vật, tổ chức đều là sản phẩm tưởng tượng.\N Ngoài ra, câu chuyện không liên quan tới các sự kiện và sự việc ngoài đời thực.
+Dialogue: 1,0:01:36.03,0:01:39.04,Signs,,0,0,0,,{\fad(300,300)\blur0.66\bord0.8\shad0\fnUVN Cat Bien\fscx80\fscy80\pos(960,102.67)\c&HA4A4A4&\3c&HA4A4A4&\t(0,266,1,\c&H000000&\3c&H000000&)\t(2734,0,1,\c&H6A6A6A&\3c&H6A6A6A&)}Tác phẩm này là hư cấu, tất cả tên nhân vật, tổ chức đều là sản phẩm tưởng tượng.\N Ngoài ra, câu chuyện không liên quan tới các sự kiện và sự việc ngoài đời thực.
+Dialogue: 0,0:01:36.03,0:01:39.04,Signs,,0,0,0,,{\fad(300,300)\blur3\bord0\shad0\fnUVN Cat Bien\fscx80\fscy80\pos(963,105.67)\1a&H87&\c&HA4A4A4&\t(0,266,1,\c&H000000&)\t(2734,0,1,\c&H6A6A6A&)}Tác phẩm này là hư cấu, tất cả tên nhân vật, tổ chức đều là sản phẩm tưởng tượng.\N Ngoài ra, câu chuyện không liên quan tới các sự kiện và sự việc ngoài đời thực.
+Dialogue: 1,0:22:35.00,0:22:50.02,Signs,,0,0,0,,{\an8\blur0.66\bord0\shad0\fnUTM Khuccamta\b0\c&HFFFFFF&\fscx91\fscy91\pos(249.6,137.2)}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:22:35.00,0:22:50.02,Signs,,0,0,0,,{\an8\blur2.4\bord0\shad0\fnUTM Khuccamta\b0\c&H000000&\fscx91\fscy91\pos(249.6,139.2)\1a&H00&}GIỚI THIỆU TẬP SAU
+Dialogue: 1,0:03:36.86,0:03:40.87,Epi.name,,0,0,0,,{\fad(480,480)\an6\blur0.6\bord0\pos(1821.07,878.87)\c&HFFFFFF&}Tập 12     Thái giám và Kỹ nữ
+Dialogue: 0,0:03:36.86,0:03:40.87,Epi.name,,0,0,0,,{\fad(480,480)\an6\blur2\bord0\pos(1821.07,878.87)\c&H000000&\shad0\yshad1.5\3c&H000000&\4c&H000000&\4a&H00&\3a&H00&\1a&H00&}Tập 12     Thái giám và Kỹ nữ
+Dialogue: 1,0:22:46.64,0:22:50.02,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur0.66\bord0\shad0\yshad0\pos(1868,877.87)\c&HFFFFFF&\3c&H000000&\4c&H000000&}Tập 13    Công việc ở ngoại đình
+Dialogue: 0,0:22:46.64,0:22:50.02,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur3.6\bord0\shad0\yshad0\c&H000000&\1a&H16&\pos(1868,877.87)}Tập 13    Công việc ở ngoại đình
+Dialogue: 0,0:22:46.64,0:22:50.02,Epi.name,,0,0,0,,{\an6\fad(500,0)\blur3.6\bord0\shad0\yshad0\c&H000000&\1a&H16&\pos(1868,877.87)}Tập 13    Công việc ở ngoại đình
 Dialogue: 0,0:01:29.99,0:01:31.99,Signs,,0,0,0,,{\blur0.77\fsp3\fnSJ Beelzebrush Alt BB\c&H0A0D0F&\fax0.06\frz20.69\fscx75\fscy70\pos(774.98,509.06)}PHỈ  THÚY  CUNG
 Dialogue: 0,0:01:29.99,0:01:31.99,Signs,,0,0,0,,{\blur0.77\fsp3\fnSJ Beelzebrush Alt BB\c&H171E24&\fax0.06\frz20.69\fscx91\fscy85\pos(871.98,703.06)}MIÊU  MIÊU
 Dialogue: 0,0:02:21.04,0:02:23.79,Signs,,0,0,0,,{\blur0.6\fsp3\fnSJ Beelzebrush Alt BB\c&H0A0D0F&\fax-0.04\frz-7.72\pos(869.45,578.06)\fscx40\fscy38}PHỈ  THÚY  CUNG
