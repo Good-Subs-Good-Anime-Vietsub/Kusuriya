@@ -14,9 +14,7 @@ Last Style Storage: Default
 Audio File: OP2.webm
 Video File: OP2.webm
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Active Line: 5
-Video Position: 805
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,14 +23,50 @@ Style: OST 2,SVN-Sarifa,86,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.34,0:00:18.39,OST 2,,0,0,0,,Đấy nàng xem—Bấy lâu—nàng vẫn—
-Dialogue: 0,0:00:19.17,0:00:22.11,OST 2,,0,0,0,,chẳng biết e—biết sợ—gì cả
-Dialogue: 0,0:00:22.80,0:00:25.77,OST 2,,0,0,0,,Bắt đền nàng—Tại—nàng cứ—
-Dialogue: 0,0:00:25.77,0:00:29.26,OST 2,,0,0,0,,cuồng si với đam mê—làm ta—say nàng
-Dialogue: 0,0:00:30.18,0:00:33.57,OST 2,,0,0,0,,Sở dĩ nàng cảm thấy sáng sáng chói chói—
-Dialogue: 0,0:00:33.57,0:00:37.17,OST 2,,0,0,0,,chính là do ta đang dán mắt vào nàng đó.
-Dialogue: 0,0:00:37.17,0:00:45.11,OST 2,,0,0,0,,
-Dialogue: 0,0:00:47.84,0:00:55.70,OST 2,,0,0,0,,
-Dialogue: 0,0:00:55.70,0:01:02.92,OST 2,,0,0,0,,
-Dialogue: 0,0:01:02.92,0:01:10.57,OST 2,,0,0,0,,
-Dialogue: 0,0:01:10.57,0:01:15.12,OST 2,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.02,OST 2,,0,0,0,sync,{frame-1}
+Dialogue: 6,0:00:15.34,0:00:18.39,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}Ui coi kìa—Bấy lâu—nàng vẫn—
+Dialogue: 6,0:00:19.17,0:00:22.11,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}chẳng biết e—biết sợ—gì cả.
+Dialogue: 6,0:00:22.80,0:00:25.83,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}Cứ cuồng si—với—đam mê—
+Dialogue: 6,0:00:25.83,0:00:29.26,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}tựa như bé mèo hâm—mê mẩn—ý.
+Dialogue: 6,0:00:30.18,0:00:33.57,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}Sở dĩ nàng cảm thấy sáng chói gai gai—
+Dialogue: 6,0:00:33.57,0:00:37.17,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}hẳn là do ta cứ dán mắt vào nàng đấy.
+Dialogue: 6,0:00:37.17,0:00:38.35,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}Ôi chết mất thôi!
+Dialogue: 6,0:00:38.35,0:00:42.85,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}Dòng tâm tư đột ngột ấy tự dưng—
+Dialogue: 6,0:00:42.85,0:00:45.11,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}cuốn lấy ta—chẳng thôi.
+Dialogue: 6,0:00:47.84,0:00:50.24,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}Xanh thật xanh—Xanh thật xanh!
+Dialogue: 6,0:00:50.24,0:00:52.12,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}Đôi mắt nàng—xanh thật xanh.
+Dialogue: 6,0:00:52.12,0:00:55.70,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}Tội cho ta—chẳng thể lọt vào đôi mắt xanh ấy.
+Dialogue: 6,0:00:55.70,0:00:58.95,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}Ta ngắm nàng—cả hôm nay—vẫn như mọi ngày.
+Dialogue: 6,0:00:58.95,0:01:02.26,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}Nàng vẫn cứ là nàng.
+Dialogue: 6,0:01:02.92,0:01:05.11,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}Hết bấp bênh—Đến bồng bềnh!
+Dialogue: 6,0:01:05.11,0:01:06.89,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}Xúc cảm này—cứ phập phồng—
+Dialogue: 6,0:01:06.89,0:01:10.57,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}ở đâu đó—bị khóa chặt chẳng thể thoát thể ra.
+Dialogue: 6,0:01:10.57,0:01:12.52,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}Ngay lúc này—Ngay tại đây—
+Dialogue: 6,0:01:12.52,0:01:15.18,OST 2,,0,0,0,,{\blur0.6\bord0\shad0}chỉ là ta đang say đắm góc nghiêng của nàng.
+Dialogue: 5,0:00:15.34,0:00:18.39,OST 2,,0,0,0,,{\blur6\bord2\shad0}Ui coi kìa—Bấy lâu—nàng vẫn—
+Dialogue: 5,0:00:19.17,0:00:22.11,OST 2,,0,0,0,,{\blur6\bord2\shad0}chẳng biết e—biết sợ—gì cả.
+Dialogue: 5,0:00:22.80,0:00:25.83,OST 2,,0,0,0,,{\blur6\bord2\shad0}Cứ cuồng si—với—đam mê—
+Dialogue: 5,0:00:25.83,0:00:29.26,OST 2,,0,0,0,,{\blur6\bord2\shad0}tựa như bé mèo hâm—mê mẩn—ý.
+Dialogue: 5,0:00:30.18,0:00:33.57,OST 2,,0,0,0,,{\blur6\bord2\shad0}Sở dĩ nàng cảm thấy sáng chói gai gai—
+Dialogue: 5,0:00:33.57,0:00:37.17,OST 2,,0,0,0,,{\blur6\bord2\shad0}hẳn là do ta cứ dán mắt vào nàng đấy.
+Dialogue: 5,0:00:37.17,0:00:38.35,OST 2,,0,0,0,,{\blur6\bord2\shad0}Ôi chết mất thôi!
+Dialogue: 5,0:00:38.35,0:00:42.85,OST 2,,0,0,0,,{\blur6\bord2\shad0}Dòng tâm tư đột ngột ấy tự dưng—
+Dialogue: 5,0:00:42.85,0:00:45.11,OST 2,,0,0,0,,{\blur6\bord2\shad0}cuốn lấy ta—chẳng thôi.
+Dialogue: 5,0:00:47.84,0:00:50.24,OST 2,,0,0,0,,{\blur6\bord2\shad0}Xanh thật xanh—Xanh thật xanh!
+Dialogue: 5,0:00:50.24,0:00:52.12,OST 2,,0,0,0,,{\blur6\bord2\shad0}Đôi mắt nàng—xanh thật xanh.
+Dialogue: 5,0:00:52.12,0:00:55.70,OST 2,,0,0,0,,{\blur6\bord2\shad0}Tội cho ta—chẳng thể lọt vào đôi mắt xanh ấy.
+Dialogue: 5,0:00:55.70,0:00:58.95,OST 2,,0,0,0,,{\blur6\bord2\shad0}Ta ngắm nàng—cả hôm nay—vẫn như mọi ngày.
+Dialogue: 5,0:00:58.95,0:01:02.26,OST 2,,0,0,0,,{\blur6\bord2\shad0}Nàng vẫn cứ là nàng.
+Dialogue: 5,0:01:02.92,0:01:05.11,OST 2,,0,0,0,,{\blur6\bord2\shad0}Hết bấp bênh—Đến bồng bềnh!
+Dialogue: 5,0:01:05.11,0:01:06.89,OST 2,,0,0,0,,{\blur6\bord2\shad0}Xúc cảm này—cứ phập phồng—
+Dialogue: 5,0:01:06.89,0:01:10.57,OST 2,,0,0,0,,{\blur6\bord2\shad0}ở đâu đó—bị khóa chặt chẳng thể thoát thể ra.
+Dialogue: 5,0:01:10.57,0:01:12.52,OST 2,,0,0,0,,{\blur6\bord2\shad0}Ngay lúc này—Ngay tại đây—
+Dialogue: 5,0:01:12.52,0:01:15.18,OST 2,,0,0,0,,{\blur6\bord2\shad0}chỉ là ta đang say đắm góc nghiêng của nàng.
+Dialogue: 1,0:00:09.36,0:00:12.12,Signs,,0,0,0,,{\fad(0,400)\an7\blur0.6\bord0\shad0\fs50\fnVL FertigoPro\c&H000000&\fscx184\fscy184\t(2318,2760,2,\blur36\c&HFFFFFF&)\alpha&HFF&\t(0,500,\alpha&H00&)\move(1039.19,661.08,1039.99,530.88,2485,2760)}D{\alpha&HFF&\t(8,508,\alpha&H00&)}Ư{\alpha&HFF&\t(16,516,\alpha&H00&)}Ợ{\alpha&HFF&\t(25,525,\alpha&H00&)}C {\alpha&HFF&\t(33,533,\alpha&H00&)}S{\alpha&HFF&\t(41,541,\alpha&H00&)}Ư \N{\alpha&HFF&\t(50,550,\alpha&H00&)}T{\alpha&HFF&\t(58,558,\alpha&H00&)}Ự {\alpha&HFF&\t(66,566,\alpha&H00&)}S{\alpha&HFF&\t(75,575,\alpha&H00&)}Ự\N\N{\fs25\alpha&HFF&\t(83,583,\alpha&H00&)}P{\alpha&HFF&\t(91,591,\alpha&H00&)}h{\alpha&HFF&\t(100,600,\alpha&H00&)}ụ {\alpha&HFF&\t(108,608,\alpha&H00&)}đ{\alpha&HFF&\t(116,616,\alpha&H00&)}ề {\alpha&HFF&\t(125,625,\alpha&H00&)}đ{\alpha&HFF&\t(133,633,\alpha&H00&)}ư{\alpha&HFF&\t(141,641,\alpha&H00&)}ợ{\alpha&HFF&\t(150,650,\alpha&H00&)}c {\alpha&HFF&\t(158,658,\alpha&H00&)}t{\alpha&HFF&\t(166,666,\alpha&H00&)}h{\alpha&HFF&\t(175,675,\alpha&H00&)}ự{\alpha&HFF&\t(183,683,\alpha&H00&)}c {\alpha&HFF&\t(191,691,\alpha&H00&)}h{\alpha&HFF&\t(200,700,\alpha&H00&)}i{\alpha&HFF&\t(208,708,\alpha&H00&)}ệ{\alpha&HFF&\t(216,716,\alpha&H00&)}n {\alpha&HFF&\t(225,725,\alpha&H00&)}b{\alpha&HFF&\t(233,733,\alpha&H00&)}ở{\alpha&HFF&\t(241,741,\alpha&H00&)}i {\alpha&HFF&\t(250,750,\alpha&H00&)}G{\alpha&HFF&\t(258,758,\alpha&H00&)}S{\alpha&HFF&\t(266,766,\alpha&H00&)}G{\alpha&HFF&\t(275,775,\alpha&H00&)}A\N{\fs20\alpha&HFF&\t(283,783,\alpha&H00&)}({\alpha&HFF&\t(291,791,\alpha&H00&)}c{\alpha&HFF&\t(300,800,\alpha&H00&)}h{\alpha&HFF&\t(308,808,\alpha&H00&)}ỉ{\alpha&HFF&\t(316,816,\alpha&H00&)}n{\alpha&HFF&\t(325,825,\alpha&H00&)}h {\alpha&HFF&\t(333,833,\alpha&H00&)}s{\alpha&HFF&\t(341,841,\alpha&H00&)}ử{\alpha&HFF&\t(350,850,\alpha&H00&)}a {\alpha&HFF&\t(358,858,\alpha&H00&)}t{\alpha&HFF&\t(366,866,\alpha&H00&)}ừ {\alpha&HFF&\t(375,875,\alpha&H00&)}p{\alpha&HFF&\t(383,883,\alpha&H00&)}h{\alpha&HFF&\t(391,891,\alpha&H00&)}ụ {\alpha&HFF&\t(400,900,\alpha&H00&)}đ{\alpha&HFF&\t(408,908,\alpha&H00&)}ề {\alpha&HFF&\t(416,916,\alpha&H00&)}c{\alpha&HFF&\t(425,925,\alpha&H00&)}ủ{\alpha&HFF&\t(433,933,\alpha&H00&)}a {\alpha&HFF&\t(441,941,\alpha&H00&)}N{\alpha&HFF&\t(450,950,\alpha&H00&)}e{\alpha&HFF&\t(458,958,\alpha&H00&)}t{\alpha&HFF&\t(466,966,\alpha&H00&)}f{\alpha&HFF&\t(475,975,\alpha&H00&)}l{\alpha&HFF&\t(483,983,\alpha&H00&)}i{\alpha&HFF&\t(491,991,\alpha&H00&)}x{\alpha&HFF&\t(500,1000,\alpha&H00&)})
+Dialogue: 0,0:00:09.36,0:00:12.12,Signs,,0,0,0,,{\fad(1000,400)\an7\blur32\bord0\shad0\fs50\fnVL FertigoPro\c&HFFFFFF&\fscx184\fscy184\move(1039.19,661.08,1039.99,530.88,2485,2760)\alpha&H80&\t(2318,2760,2,\blur56\c&HFFFFFF&)}DƯỢC SƯ \NTỰ SỰ\N\N{\fs25\blur24\t(2318,2760,1.5,\blur42\c&HFFFFFF&)}Phụ đề được thực hiện bởi GSGA\N{\fs20\blur18\t(2318,2760,1.5,\blur36\c&HFFFFFF&)}}(chỉnh sửa từ phụ đề của Netflix)
+Dialogue: 1,0:00:01.19,0:00:04.65,Signs,org,0,0,0,,{\an7\fad(228,226)\fsp0\blur0.66\bord0\fnGentium\b0\fs55\fscx79\fscy79\c&HF7F7F7&\pos(908.93,700.54)}Hyūga Natsu\N\N\N\NShino Touko
+Dialogue: 1,0:00:01.19,0:00:04.65,Signs,org,0,0,0,,{\an9\fad(228,226)\fsp0\blur0.66\bord0\fnGentium\b0\fs45\fscx79\fscy79\c&HF7F7F7&\pos(851.33,706.94)}Nguyên tác\N\N\N\N\NMinh họa
+Dialogue: 1,0:00:01.19,0:00:04.65,Signs,org,0,0,0,,{\an4\fad(228,226)\fsp0\blur0.66\bord0\fnGentium\b0\fs45\c&HF7F7F7&\fscx65\fscy65\pos(908.93,766.34)}(Xuất bản bởi Hero Bunko / Imagica Infos)
+Dialogue: 0,0:00:01.19,0:00:04.65,Signs,org,0,0,0,,{\an7\fad(228,226)\fsp0\blur1.5\bord0\fnGentium\b0\fs55\fscx79\fscy79\c&H000000&\pos(910.93,702.54)}Hyūga Natsu\N\N\N\NShino Touko
+Dialogue: 0,0:00:01.19,0:00:04.65,Signs,org,0,0,0,,{\an9\fad(228,226)\fsp0\blur1.5\bord0\fnGentium\b0\fs45\fscx79\fscy79\c&H000000&\pos(853.33,708.94)}Nguyên tác\N\N\N\N\NMinh họa
+Dialogue: 0,0:00:01.19,0:00:04.65,Signs,org,0,0,0,,{\an4\fad(228,226)\fsp0\blur1.5\bord0\fnGentium\b0\fs45\c&H000000&\fscx65\fscy65\pos(910.93,768.34)}(Xuất bản bởi Hero Bunko / Imagica Infos)
