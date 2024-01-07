@@ -1,0 +1,314 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Ep_Title,Times New Roman,18,&H00FFFFFF,&H000000FF,&HD2000000,&HD2000000,0,0,0,0,100,100,0,0,1,1,1,3,18,43,56,0
+Style: Next_Time,Times New Roman,22,&H00FFFFFF,&H000000FF,&HD2000000,&HD2000000,0,0,0,0,100,100,0,0,1,1,1,7,36,18,43,0
+Style: Next_Ep_Title,Times New Roman,20,&H00FFFFFF,&H000000FF,&HBE000000,&HBE000000,0,0,0,0,100,100,0,0,1,1,1,3,18,37,51,0
+Style: Title,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000099,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,18,18,18,0
+Style: Fiction_Disclaimer,Arial,10,&H00FFFFFF,&H000000FF,&H90000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,143,18,49,0
+Style: sign_4387_19_Verdigris_House,Times New Roman,10,&H00627980,&H000000FF,&H001F1526,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,283,279,147,0
+Style: sign_6854_53_You_with_the_fre,Times New Roman,20,&H003C3C43,&H000000FF,&H00E7ECEB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,138,199,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.86,0:00:17.12,Default,Jinshi,0,0,0,,Are you serious?
+Dialogue: 0,0:00:18.02,0:00:20.36,Default,Emperor,0,0,0,,So, what would you do?
+Dialogue: 0,0:00:20.36,0:00:24.58,Default,Emperor,0,0,0,,After all, you're the gardener \Nmaintaining my flower garden.
+Dialogue: 0,0:00:28.15,0:00:30.00,italics,Jinshi,0,0,0,,He truly is cunning.
+Dialogue: 0,0:00:35.20,0:00:36.76,italics,Jinshi,0,0,0,,How ironic.
+Dialogue: 0,0:00:38.10,0:00:41.44,italics,Jinshi,0,0,0,,No matter how hard I try, \Nboth in intellect and martial arts,
+Dialogue: 0,0:00:41.44,0:00:43.78,italics,Jinshi,0,0,0,,I can only slightly \Noutperform a regular person.
+Dialogue: 0,0:00:44.66,0:00:48.52,italics,Jinshi,0,0,0,,Instead, I am granted an appearance \Nmore beautiful than anyone.
+Dialogue: 0,0:00:51.20,0:00:55.53,italics,Jinshi,0,0,0,,The things I truly want \Nare so far out of reach.
+Dialogue: 0,0:00:59.02,0:01:03.20,italics,Jinshi,0,0,0,,I was dissatisfied at first, \Nbut I've gotten over it.
+Dialogue: 0,0:01:03.99,0:01:06.68,italics,Jinshi,0,0,0,,My sweet gaze, my sweet voice...
+Dialogue: 0,0:01:07.52,0:01:10.96,italics,Jinshi,0,0,0,,I'll use my superior tools to my advantage.
+Dialogue: 0,0:01:13.01,0:01:17.77,italics,Jinshi,0,0,0,,I'm aware that ultimately, I'm just a child\N floundering on the emperor's palm.
+Dialogue: 0,0:01:20.20,0:01:21.88,Default,Jinshi,0,0,0,,As you wish.
+Dialogue: 0,0:01:22.74,0:01:25.74,italics,Jinshi,0,0,0,,I'll manage his rear palace, \Nor whatever else he wants.
+Dialogue: 0,0:01:27.70,0:01:32.12,italics,Jinshi,0,0,0,,That's the only way I can choose my own path.
+Dialogue: 1,0:01:41.28,0:01:45.08,Title,Text,0,0,0,,{\fad(1,355)\blur3\2a&HFF&\ko8.4}T{\ko8.4}h{\ko8.4}e {\ko8.4}A{\ko8.4}p{\ko8.4}o{\ko8.4}t{\ko8.4}h{\ko8.4}e{\ko8.4}c{\ko8.4}a{\ko8.4}r{\ko8.4}y {\blur0\bord0\shad0\ko8.4\c&H000000&}D{\ko8.4}i{\ko8.4}a{\ko8.4}r{\ko8.4}i{\ko8.4}e{\ko8.4}s
+Dialogue: 0,0:01:41.28,0:01:45.70,Title,Text,0,0,0,,{\fad(1,637)\blur4\3c&HFFFFFF&\3a&H6C&\c&HFFFFFF&\1a&H6C&\bord3\2a&HFF&\ko8.4}T{\ko8.4}h{\ko8.4}e {\ko8.4}A{\ko8.4}p{\ko8.4}o{\ko8.4}t{\ko8.4}h{\ko8.4}e{\ko8.4}c{\ko8.4}a{\ko8.4}r{\ko8.4}y {\ko8.4\3c&HFFFFFF&\3a&HAA&}D{\ko8.4}i{\ko8.4}a{\ko8.4}r{\ko8.4}i{\ko8.4}e{\ko8.4}s
+Dialogue: 0,0:03:02.95,0:03:04.95,sign_4387_19_Verdigris_House,Text,0,0,0,,{\bord2.5}Verdigris House
+Dialogue: 0,0:03:03.95,0:03:06.95,Fiction_Disclaimer,Text,0,0,0,,{\fad(277,260)\blur1}This story is a work of fiction. The names of all of the characters, organizations, and so on\N are imaginary. It also bears no connection to any specific real-life events.
+Dialogue: 0,0:03:06.04,0:03:08.30,top,Maomao,0,0,0,,I don't need this much, Big Sis.
+Dialogue: 0,0:03:08.30,0:03:13.03,top,Meimei,0,0,0,,Sure, sure. Take this, this... Oh! And this, too.
+Dialogue: 0,0:03:08.62,0:03:12.54,Ep_Title,Text,0,0,0,,{\fad(430,470)\blur1\fs17\fscx90\fsp-0.5\pos(598.778,304)}Episode 13: Serving in the Outer Court
+Dialogue: 0,0:03:13.56,0:03:15.29,Default,Maomao,0,0,0,,I'm not going to be using lipstick.
+Dialogue: 0,0:03:15.71,0:03:19.17,Default,Meimei,0,0,0,,What do you mean? Can't you put in \Nthe least bit of effort to look proper?
+Dialogue: 0,0:03:19.17,0:03:23.11,Default,Maomao,0,0,0,,Only courtesans have to get\N prettied up to go to work.
+Dialogue: 0,0:03:25.41,0:03:27.84,Default,Maomao,0,0,0,,I want to work with herbs...
+Dialogue: 0,0:03:27.84,0:03:28.60,Default,Maomao,0,0,0,,Ow!
+Dialogue: 0,0:03:28.60,0:03:33.36,Default,Meimei,0,0,0,,You've landed such a nice job at the palace!
+Dialogue: 0,0:03:33.36,0:03:37.02,Default,Meimei,0,0,0,,And you're telling me you can't dress up \Nappropriately for the position?
+Dialogue: 0,0:03:37.02,0:03:39.72,Default,Meimei,0,0,0,,You have to be thankful \Nfor that every day.
+Dialogue: 0,0:03:39.72,0:03:42.54,Default,Meimei,0,0,0,,Otherwise, you'll lose your great customers.
+Dialogue: 0,0:03:42.99,0:03:46.79,italics,Maomao,0,0,0,,Meimei is really convincing.
+Dialogue: 0,0:03:46.79,0:03:49.68,italics,Maomao,0,0,0,,She's old enough to start considering \Nretirement as a courtesan,
+Dialogue: 0,0:03:49.68,0:03:52.00,italics,Maomao,0,0,0,,but her popularity hasn't waned at all,
+Dialogue: 0,0:03:52.37,0:03:54.16,italics,Maomao,0,0,0,,because she has the intellect
+Dialogue: 0,0:03:54.16,0:03:57.00,italics,Maomao,0,0,0,,to entertain her customers \Nthrough song, chess, and go.
+Dialogue: 0,0:03:57.00,0:03:58.33,Default,Joka,0,0,0,,Maomao.
+Dialogue: 0,0:03:59.27,0:04:00.84,Default,Pairin,0,0,0,,Wow, what a huge package.
+Dialogue: 0,0:04:00.84,0:04:03.52,Default,Maomao,0,0,0,,Pairin, Joka.
+Dialogue: 0,0:04:09.95,0:04:14.74,Default,Joka,0,0,0,,I'm glad you found a good \Nworkplace. Go make a fortune.
+Dialogue: 0,0:04:15.59,0:04:16.81,Default,Maomao,0,0,0,,Got it.
+Dialogue: 0,0:04:17.21,0:04:20.78,Default,Meimei,0,0,0,,If you could bring back some paying \Ncustomers, that would be great too!
+Dialogue: 0,0:04:20.78,0:04:23.88,Default,Joka,0,0,0,,Find some good, rich guys.
+Dialogue: 0,0:04:23.88,0:04:26.32,Default,Pairin,0,0,0,,Someone with vigor, pretty please!
+Dialogue: 0,0:04:26.32,0:04:28.20,Default,Maomao,0,0,0,,Uh, yeah...
+Dialogue: 0,0:04:28.20,0:04:29.95,sign_4387_19_Verdigris_House,Text,0,0,0,,{\bord2.5}Verdigris House
+Dialogue: 0,0:04:30.47,0:04:31.17,sign_4387_19_Verdigris_House,Text,0,0,0,,{\bord2.5}Verdigris House
+Dialogue: 0,0:04:32.20,0:04:36.46,italics,Maomao,0,0,0,,My new workplace... Or should I say, \Nthe workplace I'm returning to,
+Dialogue: 0,0:04:36.46,0:04:39.50,italics,Maomao,0,0,0,,is the area in the palace \Ncalled the rear palace.
+Dialogue: 0,0:04:40.95,0:04:43.95,italics,Maomao,0,0,0,,It's a garden of women who are there\N to have children for the emperor.
+Dialogue: 0,0:04:43.95,0:04:46.35,italics,Maomao,0,0,0,,I was supposed to work here \Nas a lowly servant girl, but...
+Dialogue: 0,0:04:45.84,0:04:47.34,sign_6854_53_You_with_the_fre,Text,0,0,0,,{\blur1}You with the freckles, stay here
+Dialogue: 0,0:04:46.35,0:04:50.33,italics,Maomao,0,0,0,,I solved the mystery of the dying \Ninfant heirs, which drew attention.
+Dialogue: 0,0:04:50.33,0:04:52.96,italics,Maomao,0,0,0,,I was promoted to lady-in-waiting \Nfor Lady Gyokuyou,
+Dialogue: 0,0:04:52.96,0:04:56.78,italics,Maomao,0,0,0,,then got sucked into various \Ntroubles as a food taster.
+Dialogue: 0,0:04:57.81,0:05:00.99,italics,Maomao,0,0,0,,After that, a bunch of stuff happened, \Nleading to me getting fired.
+Dialogue: 0,0:05:00.99,0:05:03.65,italics,Maomao,0,0,0,,Who would've thought I'd be back again?
+Dialogue: 0,0:05:06.66,0:05:09.58,italics,Maomao,0,0,0,,I succumbed to the allure \Nof the caterpillar fungus,
+Dialogue: 0,0:05:09.58,0:05:12.24,italics,Maomao,0,0,0,,but looking back, that might \Nhave been careless of me.
+Dialogue: 0,0:05:12.79,0:05:16.00,italics,Maomao,0,0,0,,Of course, seen from the outside, \Nit's a huge lucky break.
+Dialogue: 0,0:05:16.53,0:05:20.76,italics,Maomao,0,0,0,,I do have some reservations about leaving \Nmy dad behind to go live elsewhere for work,
+Dialogue: 0,0:05:20.76,0:05:23.47,italics,Maomao,0,0,0,,but the rules are a lot less strict this time,
+Dialogue: 0,0:05:23.47,0:05:25.63,italics,Maomao,0,0,0,,and I'm not treated as missing anymore.
+Dialogue: 0,0:05:26.29,0:05:29.01,italics,Maomao,0,0,0,,Dad also said I should do as I like, but...
+Dialogue: 0,0:05:34.07,0:05:36.54,italics,Maomao,0,0,0,,What did he mean by that, I wonder?
+Dialogue: 0,0:05:38.95,0:05:40.11,Default,Maomao,0,0,0,,I'm home.
+Dialogue: 0,0:05:44.15,0:05:46.07,Default,Luomen,0,0,0,,They loaded you up, didn't they?
+Dialogue: 0,0:05:46.07,0:05:52.53,Default,Maomao,0,0,0,,What should I do? I definitely need \Nmy mortar and pestle, and my notebook.
+Dialogue: 0,0:05:52.53,0:05:55.58,Default,Maomao,0,0,0,,I can't bring less underwear—
+Dialogue: 0,0:05:55.58,0:05:59.69,Default,Luomen,0,0,0,,Maomao, you probably can't take those with you.
+Dialogue: 0,0:05:59.69,0:06:00.38,Default,Maomao,0,0,0,,Huh?
+Dialogue: 0,0:06:00.38,0:06:01.92,Default,Luomen,0,0,0,,You're not a doctor.
+Dialogue: 0,0:06:01.92,0:06:07.72,Default,Luomen,0,0,0,,Having such things would make you appear \Nlike you're plotting a poisoning.
+Dialogue: 0,0:06:09.59,0:06:13.82,Default,Luomen,0,0,0,,Come now, don't make that face. \NIt was your decision to go.
+Dialogue: 0,0:06:13.82,0:06:16.24,Default,Luomen,0,0,0,,You can't back out now.
+Dialogue: 0,0:06:16.24,0:06:17.53,Default,Maomao,0,0,0,,Really?
+Dialogue: 0,0:06:17.53,0:06:21.88,Default,Luomen,0,0,0,,You should be able to gradually get \Npermission to bring more things in.
+Dialogue: 0,0:06:21.88,0:06:26.16,Default,Luomen,0,0,0,,Get ready and go to sleep. \NTomorrow is your first day.
+Dialogue: 0,0:06:26.16,0:06:27.65,Default,Maomao,0,0,0,,Fine...
+Dialogue: 0,0:06:40.42,0:06:44.25,Default,Luomen,0,0,0,,Well, you haven't done this in a while.
+Dialogue: 0,0:06:44.54,0:06:47.50,Default,Luomen,0,0,0,,I thought you weren't a baby anymore.
+Dialogue: 0,0:06:47.50,0:06:49.51,Default,Maomao,0,0,0,,Well, it's cold.
+Dialogue: 0,0:06:51.09,0:06:53.95,Default,Luomen,0,0,0,,We'll be lonely again.
+Dialogue: 0,0:06:53.95,0:06:57.77,Default,Maomao,0,0,0,,Not really. This time, \NI can come back any time I want.
+Dialogue: 0,0:07:01.62,0:07:05.40,Default,Luomen,0,0,0,,You're right. You can come \Nhome any time you want.
+Dialogue: 0,0:07:07.24,0:07:08.61,italics,Maomao,0,0,0,,I have no mother.
+Dialogue: 0,0:07:09.54,0:07:13.47,italics,Maomao,0,0,0,,But I have a caring dad, a nosy old granny,
+Dialogue: 0,0:07:13.47,0:07:15.91,italics,Maomao,0,0,0,,and a lively group of big sisters \Nto keep me company.
+Dialogue: 0,0:07:18.13,0:07:20.54,italics,Maomao,0,0,0,,I can come home any time.
+Dialogue: 0,0:07:27.04,0:07:29.01,Default,Maomao,0,0,0,,Thank you for waiting, Master Jinshi.
+Dialogue: 0,0:07:40.28,0:07:42.86,Default,Meimei,0,0,0,,Please take care of our little girl.
+Dialogue: 0,0:07:43.99,0:07:46.73,Default,Pairin,0,0,0,,We got her all dolled up for you.
+Dialogue: 0,0:07:46.73,0:07:49.13,Default,Old Lady,0,0,0,,Don't you forget, Maomao.
+Dialogue: 0,0:07:49.13,0:07:52.04,Default,Maomao,0,0,0,,I know. Good customers, right?
+Dialogue: 0,0:07:52.76,0:07:54.28,Default,Old Lady,0,0,0,,Good. Now go on.
+Dialogue: 0,0:07:54.28,0:07:57.37,Default,Maomao,0,0,0,,What a way to start the morning.
+Dialogue: 0,0:07:58.58,0:07:59.91,Default,Maomao,0,0,0,,Let's go.
+Dialogue: 0,0:08:01.14,0:08:02.41,Default,Jinshi,0,0,0,,Uh, yeah.
+Dialogue: 0,0:08:02.88,0:08:03.96,Default,Joka,0,0,0,,Take care.
+Dialogue: 0,0:08:05.09,0:08:06.46,Default,Maomao,0,0,0,,I'm off.
+Dialogue: 0,0:08:07.33,0:08:08.80,Default,Onlooker A,0,0,0,,She's pretty.
+Dialogue: 0,0:08:08.80,0:08:11.42,Default,Onlooker B,0,0,0,,Have you ever seen her at\N the Verdigris House before?
+Dialogue: 0,0:08:15.32,0:08:17.39,Default,Maomao,0,0,0,,This is your fault, Master Jinshi.
+Dialogue: 0,0:08:17.39,0:08:18.14,Default,Jinshi,0,0,0,,Hmm?
+Dialogue: 0,0:08:18.66,0:08:20.75,Default,Maomao,0,0,0,,I got a lot of unwanted attention.
+Dialogue: 0,0:08:20.75,0:08:21.93,Default,Jinshi,0,0,0,,That's because you're...
+Dialogue: 0,0:08:28.00,0:08:29.27,Default,Maomao,0,0,0,,What is it?
+Dialogue: 0,0:08:29.77,0:08:30.78,Default,Jinshi,0,0,0,,Nothing.
+Dialogue: 0,0:08:49.21,0:08:51.93,Default,Jinshi,0,0,0,,Good work. May we proceed?
+Dialogue: 0,0:08:51.93,0:08:52.76,Default,Guard A,0,0,0,,Yes!
+Dialogue: 0,0:08:55.41,0:08:59.28,Default,Jinshi,0,0,0,,Apothecary. While you're here, \Ngo back to your usual freckled face.
+Dialogue: 0,0:08:59.28,0:09:00.35,Default,Maomao,0,0,0,,Huh?
+Dialogue: 0,0:09:01.38,0:09:02.82,Default,Maomao,0,0,0,,Understood.
+Dialogue: 0,0:09:13.83,0:09:16.11,Default,Coworker A,0,0,0,,Hey, I heard the manager of the rear palace
+Dialogue: 0,0:09:16.11,0:09:18.94,Default,Coworker A,0,0,0,,bought out a courtesan \Nfrom the Verdigris House.
+Dialogue: 0,0:09:18.94,0:09:22.78,Default,Coworker B,0,0,0,,The Verdigris House? Is that where \Nthe famous Three Princesses are?
+Dialogue: 0,0:09:22.78,0:09:24.91,Default,Lakan,0,0,0,,The Verdigris House?
+Dialogue: 0,0:09:29.64,0:09:31.66,italics,Maomao,0,0,0,,What is this guy doing?
+Dialogue: 0,0:09:34.26,0:09:36.02,Default,Maomao,0,0,0,,And this is?
+Dialogue: 0,0:09:36.88,0:09:38.27,Default,Jinshi,0,0,0,,My house.
+Dialogue: 0,0:09:38.27,0:09:40.05,Default,Maomao,0,0,0,,Huh?! Why?!
+Dialogue: 0,0:09:40.40,0:09:42.97,Default,Jinshi,0,0,0,,This is your new workplace.
+Dialogue: 0,0:09:44.02,0:09:49.05,Default,Maomao,0,0,0,,Master Gaoshun, I was under the impression \Nwe were returning to the rear palace...
+Dialogue: 0,0:09:49.05,0:09:53.99,Default,Gaoshun,0,0,0,,We fired you once already, so we can't \Njust put you back in the same position.
+Dialogue: 0,0:09:53.99,0:09:56.57,Default,Gaoshun,0,0,0,,You will be working in the outer court now.
+Dialogue: 0,0:09:56.57,0:09:58.16,Default,Maomao,0,0,0,,The outer court...
+Dialogue: 0,0:09:58.16,0:10:01.82,Default,Gaoshun,0,0,0,,Yes. The rear palace is \Nconsidered the inner court.
+Dialogue: 0,0:10:01.82,0:10:04.08,Default,Gaoshun,0,0,0,,The outer court lies outside of that.
+Dialogue: 0,0:10:04.56,0:10:08.14,Default,Gaoshun,0,0,0,,There are many public offices there. \NI'll show you around later.
+Dialogue: 0,0:10:09.70,0:10:12.84,Default,Suiren,0,0,0,,Welcome home. It must have been cold.
+Dialogue: 0,0:10:19.89,0:10:24.10,Default,Suiren,0,0,0,,I am Suiren, his attendant. \NYou must be Xiaomao.
+Dialogue: 0,0:10:24.43,0:10:26.06,Default,Maomao,0,0,0,,Y-Yes.
+Dialogue: 0,0:10:27.09,0:10:28.44,italics,Maomao,0,0,0,,Xiaomao?
+Dialogue: 0,0:10:33.32,0:10:35.34,Default,Suiren,0,0,0,,There are two separate buildings,
+Dialogue: 0,0:10:35.34,0:10:38.20,Default,Suiren,0,0,0,,one with the office and one \Nwith the personal residence.
+Dialogue: 0,0:10:38.63,0:10:41.70,Default,Suiren,0,0,0,,The area ahead is the young\N master's room, but...
+Dialogue: 0,0:10:42.07,0:10:43.21,italics,Maomao,0,0,0,,"Young master?"
+Dialogue: 0,0:10:44.18,0:10:46.63,Default,Suiren,0,0,0,,You should be all right.
+Dialogue: 0,0:10:48.16,0:10:51.88,italics,Maomao,0,0,0,,This room's about the same size as\N the one I used at the Jade Pavilion.
+Dialogue: 0,0:10:51.88,0:10:55.25,italics,Maomao,0,0,0,,If this place had a stove and a nearby well...
+Dialogue: 0,0:10:55.25,0:10:59.72,Default,Maomao,0,0,0,,Still, this place seems too well-built \Nfor a servant girl's quarters.
+Dialogue: 0,0:10:59.72,0:11:01.32,Default,Suiren,0,0,0,,Xiaomao?
+Dialogue: 0,0:11:01.32,0:11:02.43,Default,Maomao,0,0,0,,Yes.
+Dialogue: 0,0:11:02.99,0:11:06.31,Default,Jinshi,0,0,0,,I don't intend to make you do servant labor.
+Dialogue: 0,0:11:06.31,0:11:07.27,Default,Maomao,0,0,0,,Huh?
+Dialogue: 0,0:11:07.91,0:11:10.39,Default,Jinshi,0,0,0,,I told you, you're going to \Nwork in the outer court.
+Dialogue: 0,0:11:18.64,0:11:20.90,Default,Jinshi,0,0,0,,You're going to take the court lady exam.
+Dialogue: 0,0:11:21.51,0:11:24.41,Default,Maomao,0,0,0,,C-Court lady exam?!
+Dialogue: 0,0:11:38.95,0:11:43.47,Default,Maomao,0,0,0,,A cotton garment? That's generous.
+Dialogue: 0,0:11:53.30,0:11:55.85,Default,Maomao,0,0,0,,Good morning, Lady Suiren.
+Dialogue: 0,0:11:55.85,0:11:59.70,Default,Suiren,0,0,0,,Oh, good morning, Xiaomao. \NIt's good that you wake up early.
+Dialogue: 0,0:12:00.20,0:12:01.32,Default,Maomao,0,0,0,,I'll help.
+Dialogue: 0,0:12:01.32,0:12:03.85,Default,Suiren,0,0,0,,It's fine, I'm almost done.
+Dialogue: 0,0:12:04.36,0:12:06.41,Default,Suiren,0,0,0,,Can you just help serve?
+Dialogue: 0,0:12:06.41,0:12:10.24,Default,Maomao,0,0,0,,Yes. Um, where are the other attendants?
+Dialogue: 0,0:12:10.24,0:12:11.25,Default,Suiren,0,0,0,,There are none.
+Dialogue: 0,0:12:12.55,0:12:17.34,Default,Suiren,0,0,0,,The office side is fine, but I couldn't let \Nanyone handle the personal side.
+Dialogue: 0,0:12:17.96,0:12:20.84,Default,Suiren,0,0,0,,The young master's food is\N especially out of the question.
+Dialogue: 0,0:12:21.16,0:12:24.17,Default,Maomao,0,0,0,,So, you do all of this work by yourself?
+Dialogue: 0,0:12:24.17,0:12:27.95,Default,Suiren,0,0,0,,We had some new girls a few times,
+Dialogue: 0,0:12:27.95,0:12:30.85,Default,Suiren,0,0,0,,but well, things happen, and they don't last.
+Dialogue: 0,0:12:31.40,0:12:33.79,italics,Maomao,0,0,0,,Did they lace his food with aphrodisiacs?
+Dialogue: 0,0:12:33.79,0:12:35.19,italics,Maomao,0,0,0,,Or try to steal things?
+Dialogue: 0,0:12:35.48,0:12:40.84,Default,Suiren,0,0,0,,I mean, who likes finding \Nunfamiliar underwear in their closet?
+Dialogue: 0,0:12:40.84,0:12:41.54,Default,Maomao,0,0,0,,Huh?
+Dialogue: 0,0:12:42.04,0:12:46.04,Default,Suiren,0,0,0,,On top of that, it was made of hair.
+Dialogue: 0,0:12:46.97,0:12:48.64,Default,Maomao,0,0,0,,That sounds like a lot.
+Dialogue: 0,0:12:48.64,0:12:50.66,Default,Suiren,0,0,0,,Yes, it certainly was.
+Dialogue: 0,0:12:51.89,0:12:53.91,Default,Suiren,0,0,0,,Come, young master, please wake up.
+Dialogue: 0,0:12:53.91,0:12:55.99,Default,Suiren,0,0,0,,It's time for breakfast.
+Dialogue: 0,0:13:03.84,0:13:06.46,italics,Maomao,0,0,0,,So much wasted sex appeal...
+Dialogue: 0,0:13:06.46,0:13:11.31,italics,Maomao,0,0,0,,I can see why only Master Gaoshun \Nand Lady Suiren enter this room.
+Dialogue: 0,0:13:11.31,0:13:14.76,italics,Maomao,0,0,0,,A woman who saw this would lose herself easily.
+Dialogue: 0,0:13:14.76,0:13:17.66,italics,Maomao,0,0,0,,A man would pounce on him right away.
+Dialogue: 0,0:13:17.66,0:13:21.62,italics,Maomao,0,0,0,,He truly has a sin-inducing air about him.
+Dialogue: 0,0:13:21.62,0:13:23.99,italics,Maomao,0,0,0,,Sort of like an insect in mating season.
+Dialogue: 0,0:13:24.87,0:13:28.82,italics,Maomao,0,0,0,,I wonder if I could collect this eunuch's \Nscent and sell it as an aphrodisiac?
+Dialogue: 0,0:13:30.40,0:13:34.04,Default,Jinshi,0,0,0,,If you want, I can get you a new room.
+Dialogue: 0,0:13:34.92,0:13:36.68,italics,Maomao,0,0,0,,What brings this about?
+Dialogue: 0,0:13:36.68,0:13:39.94,italics,Maomao,0,0,0,,I don't get it, but is this my chance \Nto get a stove and well?!
+Dialogue: 0,0:13:43.38,0:13:46.91,italics,Maomao,0,0,0,,He needs to tell me clearly \Nif he wants me to understand.
+Dialogue: 0,0:13:46.91,0:13:49.64,italics,Maomao,0,0,0,,I can manage the stove somehow, \Nso for starters...
+Dialogue: 0,0:13:52.07,0:13:55.64,Default,Maomao,0,0,0,,In that case, how about\N a stable with a well nearby?
+Dialogue: 0,0:13:57.72,0:13:58.85,Default,Jinshi,0,0,0,,A stable.
+Dialogue: 0,0:13:59.18,0:14:01.02,Default,Maomao,0,0,0,,Yes, a stable.
+Dialogue: 0,0:14:03.19,0:14:04.73,Default,Jinshi,0,0,0,,No stables.
+Dialogue: 0,0:14:10.42,0:14:12.51,Default,Gaoshun,0,0,0,,So, shall we?
+Dialogue: 0,0:14:12.51,0:14:14.42,Default,Maomao,0,0,0,,Yes, please.
+Dialogue: 0,0:14:15.66,0:14:18.46,italics,Maomao,0,0,0,,Master Jinshi got left behind.
+Dialogue: 0,0:14:19.16,0:14:22.96,italics,Maomao,0,0,0,,I assumed he had nothing to do, since \Nhe was always loitering in the rear palace,
+Dialogue: 0,0:14:22.96,0:14:25.00,italics,Maomao,0,0,0,,but he's actually pretty busy.
+Dialogue: 0,0:14:25.71,0:14:29.72,Default,Gaoshun,0,0,0,,There are many military officers \Non the east side of this area,
+Dialogue: 0,0:14:30.00,0:14:32.02,Default,Gaoshun,0,0,0,,so please stay away if possible.
+Dialogue: 0,0:14:33.35,0:14:34.47,Default,Maomao,0,0,0,,Understood.
+Dialogue: 0,0:14:35.60,0:14:37.98,italics,Maomao,0,0,0,,The palace he showed me around was huge.
+Dialogue: 0,0:14:37.98,0:14:39.76,italics,Maomao,0,0,0,,I needed more than all my fingers and toes
+Dialogue: 0,0:14:39.76,0:14:41.98,italics,Maomao,0,0,0,,to count all the named buildings \Nand departments.
+Dialogue: 0,0:14:42.36,0:14:44.90,italics,Maomao,0,0,0,,Can I learn them all?
+Dialogue: 0,0:14:45.54,0:14:49.91,italics,Maomao,0,0,0,,My ability to learn about things\N I'm not interested in is below average.
+Dialogue: 0,0:14:53.38,0:14:55.15,Default,Gaoshun,0,0,0,,This is the Director of Waters.
+Dialogue: 0,0:14:55.15,0:14:59.51,Default,Gaoshun,0,0,0,,It's the department in charge of rivers, \Ndams, and water utilization projects.
+Dialogue: 0,0:14:59.51,0:15:00.54,Default,Maomao,0,0,0,,I see.
+Dialogue: 0,0:15:02.36,0:15:07.05,italics,Maomao,0,0,0,,The rear palace had more medicinal ingredients.
+Dialogue: 0,0:15:07.83,0:15:11.05,italics,Maomao,0,0,0,,My dad must have planted them \Nwhile he worked there.
+Dialogue: 0,0:15:11.05,0:15:15.96,Default,Gaoshun,0,0,0,,Xiaomao, when you become a court lady, \Nthe outer court will be your workplace.
+Dialogue: 0,0:15:15.96,0:15:16.93,Default,Maomao,0,0,0,,Yes.
+Dialogue: 0,0:15:17.89,0:15:19.73,italics,Maomao,0,0,0,,Court lady, huh?
+Dialogue: 0,0:15:28.05,0:15:30.92,Default,Suiren,0,0,0,,Oh, good timing, Xiaomao.
+Dialogue: 0,0:15:30.92,0:15:33.71,Default,Suiren,0,0,0,,Can you take this charcoal to the office?
+Dialogue: 0,0:15:33.71,0:15:34.53,Default,Maomao,0,0,0,,Yes.
+Dialogue: 0,0:15:38.57,0:15:39.93,Default,Maomao,0,0,0,,Excuse me.
+Dialogue: 0,0:15:46.65,0:15:49.67,Default,Maomao,0,0,0,,So, this is Master Jinshi's office.
+Dialogue: 0,0:15:50.44,0:15:53.26,Default,Maomao,0,0,0,,It's not extravagant, \Nbut everything here is top class.
+Dialogue: 0,0:15:53.26,0:15:56.60,Default,Maomao,0,0,0,,How high up is our young master?
+Dialogue: 0,0:16:02.22,0:16:06.48,italics,Maomao,0,0,0,,Sizing up the new girl? Not a good atmosphere.
+Dialogue: 0,0:16:09.59,0:16:12.99,italics,Maomao,0,0,0,,The court ladies of the outer court \Nare like secretaries.
+Dialogue: 0,0:16:13.65,0:16:16.99,italics,Maomao,0,0,0,,They have the right qualifications, \Nbackground, and education.
+Dialogue: 0,0:16:17.38,0:16:20.97,italics,Maomao,0,0,0,,They're nothing like the hodgepodge \Nof female officials at the rear palace.
+Dialogue: 0,0:16:20.97,0:16:23.00,italics,Maomao,0,0,0,,Which explains their high self-esteem...
+Dialogue: 0,0:16:25.83,0:16:26.50,Default,Maomao,0,0,0,,Hmm?
+Dialogue: 0,0:16:28.21,0:16:32.74,italics,Maomao,0,0,0,,And therefore, they won't go out of their \Nway to clean, since that's not their job.
+Dialogue: 0,0:16:35.80,0:16:38.68,Default,Court Lady A,0,0,0,,Just who do you think you are?
+Dialogue: 0,0:16:39.08,0:16:41.47,italics,Maomao,0,0,0,,I guess they grow well when they're fed well.
+Dialogue: 0,0:16:43.12,0:16:44.25,Default,Court Lady A,0,0,0,,Are you listening?!
+Dialogue: 0,0:16:44.25,0:16:47.31,Default,Court Lady A,0,0,0,,Why is someone like {\i1}you{\i0} assigned \Ndirectly to Master Jinshi?!
+Dialogue: 0,0:16:50.85,0:16:54.94,italics,Maomao,0,0,0,,I guess staying quiet would irritate them more.
+Dialogue: 0,0:16:55.99,0:16:59.78,Default,Maomao,0,0,0,,In other words, you're all jealous of me?
+Dialogue: 0,0:17:01.24,0:17:03.00,Default,Court Lady A,0,0,0,,Watch your mouth!
+Dialogue: 0,0:17:03.48,0:17:05.40,italics,Maomao,0,0,0,,Wrong choice of words.
+Dialogue: 0,0:17:06.39,0:17:07.66,italics,Maomao,0,0,0,,Fine, then.
+Dialogue: 0,0:17:08.44,0:17:11.67,Default,Maomao,0,0,0,,Are you implying I'm getting\N special treatment?
+Dialogue: 0,0:17:12.92,0:17:15.48,Default,Maomao,0,0,0,,There's no way that could be right.
+Dialogue: 0,0:17:15.48,0:17:20.70,Default,Maomao,0,0,0,,Why would he, a heavenly maiden \Nof a person, fall for an ugly girl like me?
+Dialogue: 0,0:17:22.22,0:17:26.48,Default,Maomao,0,0,0,,Does the noble figure in your \Nmind have such bad taste?
+Dialogue: 0,0:17:27.04,0:17:30.27,Default,Maomao,0,0,0,,Would he go out of his way \Nto eat meatless chicken bones,
+Dialogue: 0,0:17:30.27,0:17:34.49,Default,Maomao,0,0,0,,when there are heaps of delicious abalones \Nand boar meat in front of him?
+Dialogue: 0,0:17:34.80,0:17:38.82,Default,Maomao,0,0,0,,If that's the case, well, he must \Nhave some {\i1}interesting{\i0} proclivities.
+Dialogue: 0,0:17:39.16,0:17:43.50,Default,Maomao,0,0,0,,I don't really get it myself, \Nbut does he truly have "special tastes"?
+Dialogue: 0,0:17:44.02,0:17:45.69,Default,Maomao,0,0,0,,I see, so it's a "special taste"—
+Dialogue: 0,0:17:45.69,0:17:47.72,Default,Court Lady A,0,0,0,,T-That's impossible!
+Dialogue: 0,0:17:47.72,0:17:48.71,Default,Court Lady B,0,0,0,,R-Right!
+Dialogue: 0,0:17:48.97,0:17:51.67,Default,Suirei,0,0,0,,Why did he hire you, then?
+Dialogue: 0,0:17:56.64,0:17:58.05,Default,Maomao,0,0,0,,This is the reason.
+Dialogue: 0,0:18:04.56,0:18:07.39,italics,Maomao,0,0,0,,I just tried out some burn \Nmedicine the other day,
+Dialogue: 0,0:18:07.39,0:18:09.45,italics,Maomao,0,0,0,,so it's really messed up right now.
+Dialogue: 0,0:18:09.45,0:18:10.81,flashback italics,Maomao,0,0,0,,Stings!
+Dialogue: 0,0:18:11.13,0:18:16.10,Default,Maomao,0,0,0,,That heavenly maiden \Nhas a heavenly heart, too.
+Dialogue: 0,0:18:16.10,0:18:20.28,Default,Maomao,0,0,0,,He gives a person like me \Na way to make a living.
+Dialogue: 0,0:18:22.68,0:18:23.94,Default,Court Lady A,0,0,0,,Let's go.
+Dialogue: 0,0:18:32.55,0:18:34.04,Default,Maomao,0,0,0,,Done and done.
+Dialogue: 0,0:18:34.48,0:18:36.07,Default,Jinshi,0,0,0,,"Interesting proclivities..."
+Dialogue: 0,0:18:37.88,0:18:41.53,Default,Jinshi,0,0,0,,Do you get harassed like that a lot?
+Dialogue: 0,0:18:41.53,0:18:44.06,Default,Jinshi,0,0,0,,Besides, why are you raising your left arm—
+Dialogue: 0,0:18:44.06,0:18:46.81,Default,Maomao,0,0,0,,I'm off to my next cleaning duty.
+Dialogue: 0,0:18:47.86,0:18:49.80,Default,Jinshi,0,0,0,,Are you studying?
+Dialogue: 0,0:18:49.80,0:18:51.40,Default,Maomao,0,0,0,,Sneak, sneak.
+Dialogue: 0,0:18:51.40,0:18:52.00,Default,Jinshi,0,0,0,,Hey!
+Dialogue: 0,0:18:52.00,0:18:53.77,Default,Maomao,0,0,0,,Sneak, sneak!
+Dialogue: 0,0:19:13.65,0:19:15.05,Default,Suiren,0,0,0,,Xiaomao.
+Dialogue: 0,0:19:16.21,0:19:18.12,Default,Suiren,0,0,0,,Please be quiet.
+Dialogue: 0,0:19:25.97,0:19:29.14,italics,Narrator,0,0,0,,And thus, the day of the exams came.
+Dialogue: 0,0:19:31.97,0:19:33.23,Default,Jinshi,0,0,0,,Why did you fail?
+Dialogue: 0,0:19:34.10,0:19:36.15,italics,Maomao,0,0,0,,Why did you think I'd pass?
+Dialogue: 0,0:19:37.17,0:19:41.15,italics,Narrator,0,0,0,,Maomao became Jinshi's personal servant.
+Dialogue: 0,0:19:42.69,0:19:44.39,Default,Gaoshun,0,0,0,,What should we do?
+Dialogue: 0,0:19:44.39,0:19:46.37,Default,Suiren,0,0,0,,What should we do, indeed?
+Dialogue: 0,0:20:17.08,0:20:18.18,Default,Maomao,0,0,0,,Ow!
+Dialogue: 0,0:20:20.47,0:20:24.11,Default,Suirei,0,0,0,,There shouldn't be any reason \Nfor you to go beyond this point.
+Dialogue: 0,0:20:24.46,0:20:27.14,italics,Maomao,0,0,0,,Could you say that {\i0}before{\i1} you hit me?
+Dialogue: 0,0:20:28.72,0:20:32.90,italics,Maomao,0,0,0,,The scent of sandalwood, mixed \Nwith another, distinctly bitter smell.
+Dialogue: 0,0:20:44.00,0:20:45.72,Default,Maomao,0,0,0,,The military, huh?
+Dialogue: 0,0:22:34.91,0:22:49.93,Next_Time,Text,0,0,0,,{\fscx105\fsp0.2\blur1}Next Time
+Dialogue: 0,0:22:46.26,0:22:49.22,italicstop,Narrator,0,0,0,,Next time: "The New \NPure Consort."
+Dialogue: 0,0:22:46.46,0:22:49.93,Next_Ep_Title,Text,0,0,0,,{\fad(430,1)\blur1\fs17\fscx93}Episode 14: The New Pure Consort
+Dialogue: 0,0:22:49.93,0:22:51.93,Next_Ep_Title,,0,0,0,,
