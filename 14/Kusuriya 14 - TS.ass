@@ -6,10 +6,15 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: None
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Active Line: 28
+Video Zoom Percent: 0.750000
+Scroll Position: 3
+Active Line: 18
+Video Position: 6354
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,25 +28,25 @@ Style: InsertSong,SVN-Bree,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{\pos(960,540)\p1\c&HB8C6C9&\blur1\bord0\shad0}m -165.26 -252 l -221.68 -199.37 110.53 -5.26 172.85 -59.16
-Dialogue: 0,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=13}{\c&HB8C6C9&\blur0.7\pos(274.71,206.89)\p1}m 211.74 334.67 l 289.97 272.45 631.75 476.9 559.3 543.12
-Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=13}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.320693\fscx82.00\fscy69.13\frz39.3007\frx1.9532\fry-2.3925\org(591.43,212.12)\pos(277.57,204.6)}THỦY
-Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=13}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.324388\fscx82.62\fscy70.05\frz39.2266\frx1.9394\fry-2.3770\org(629.25,229.43)\pos(310.92,224.2)}TINH
-Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=10}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.335593\fscx83.16\fscy70.40\frz39.2126\frx1.9321\fry-2.3684\org(693.82,185.89)\pos(317.68,214.8)}CUNG
-Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=12}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.333269\fscx84.29\fscy72.60\frz39.0225\frx1.9039\fry-2.3324\org(726.42,283.61)\pos(416.17,295.25)}HIỀN
-Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=14}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.336504\fscx84.93\fscy73.60\frz38.9424\frx1.8909\fry-2.3155\org(763.08,306.07)\pos(449.42,316.58)}PHI
-Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=11}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.341666\fscx85.86\fscy75.03\frz38.8307\frx1.8730\fry-2.2910\org(817.72,334.65)\pos(503.47,356.61)}LÊ
-Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857.15,356.18)\pos(540.51,380.43)}HOA
-Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857.15,356.18)\pos(730.11,61)}PHỈ
-Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857.15,356.18)\pos(744.62,100.09)}THÚY
-Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857.15,356.18)\pos(763.82,139.63)}CUNG
-Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857.15,356.18)\pos(792.05,221.23)}QUÝ
-Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857.15,356.18)\pos(804.51,259.63)}PHI
-Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857.15,356.18)\pos(835.48,336.66)}NGỌC
-Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857.15,356.18)\pos(855.25,379.4)}DIỆP
-Dialogue: 1,0:04:14.78,0:04:16.28,Signs,,0,0,0,,{=21}{\c&H0E1416&\blur0.86\fnSJ Stephanies Shitty Hand\fax-0.057557\frz-32.6063\frx1.9746\fry-3.6468\org(1169.29,476.67)\fscx79\fscy73\pos(1174.22,361.56)}GIẢNG SƯ
-Dialogue: 1,0:04:14.78,0:04:16.28,Signs,,0,0,0,,{=21}{\c&H0E1416&\blur0.86\fnSJ Stephanies Shitty Hand\fax-0.057557\frz-32.6063\frx1.9746\fry-3.6468\org(1168.68,479.98)\fscx79\fscy73\pos(1156.21,603.4)}MIÊU MIÊU
-Dialogue: 0,0:04:24.99,0:04:27.46,Signs,,0,0,0,,{\c&H040403&\blur0.8\fnSJ Beelzebrush Alt BB\b0\pos(1291.22,483.56)\fscx128\fscy91}QUÝ PHI\NNGỌC DIỆP
+Dialogue: 0,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{\pos(960,540)\p1\c&HB8C6C9&\blur1\bord0\shad0}m -165.25 -252 l -221.625 -199.375 110.5 -5.25 172.875 -59.125
+Dialogue: 0,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=13}{\c&HB8C6C9&\blur0.7\pos(274.71,206.89)\p1}m 211.75 334.625 l 290 272.5 631.75 476.875 559.25 543.125
+Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=13}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.320693\fscx82\fscy69.13\frz39.3007\frx1.9532\fry-2.3925\org(591,212)\pos(277.57,204.6)}THỦY
+Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=13}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.324388\fscx82.62\fscy70.05\frz39.2266\frx1.9394\fry-2.3770\org(629,229)\pos(310.92,224.2)}TINH
+Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=10}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.335593\fscx83.16\fscy70.4\frz39.2126\frx1.9321\fry-2.3684\org(693,185)\pos(317.68,214.8)}CUNG
+Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=12}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.333269\fscx84.29\fscy72.6\frz39.0225\frx1.9039\fry-2.3324\org(726,283)\pos(416.17,295.25)}HIỀN
+Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=14}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.336504\fscx84.93\fscy73.6\frz38.9424\frx1.8909\fry-2.3155\org(763,306)\pos(449.42,316.58)}PHI
+Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=11}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.341666\fscx85.86\fscy75.03\frz38.8307\frx1.8730\fry-2.2910\org(817,334)\pos(503.47,356.61)}LÊ
+Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857,356)\pos(540.51,380.43)}HOA
+Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857,356)\pos(730.11,61)}PHỈ
+Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857,356)\pos(744.62,100.09)}THÚY
+Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857,356)\pos(763.82,139.63)}CUNG
+Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857,356)\pos(792.05,221.23)}QUÝ
+Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857,356)\pos(804.51,259.63)}PHI
+Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857,356)\pos(835.48,336.66)}NGỌC
+Dialogue: 1,0:03:43.70,0:03:46.66,Signs,,0,0,0,,{=15}{\c&H0E1416&\blur0.9\fnSJ Stephanies Shitty Hand\fax0.345338\fscx86.54\fscy76.08\frz38.7492\frx1.8564\fry-2.2732\org(857,356)\pos(855.25,379.4)}DIỆP
+Dialogue: 1,0:04:14.78,0:04:16.28,Signs,,0,0,0,,{=21}{\c&H0E1416&\blur0.86\fnSJ Stephanies Shitty Hand\fax-0.057557\frz-32.6063\frx1.9746\fry-3.6468\org(1169,476)\fscx79\fscy73\pos(1174.22,361.56)}GIẢNG SƯ
+Dialogue: 1,0:04:14.78,0:04:16.28,Signs,,0,0,0,,{=21}{\c&H0E1416&\blur0.86\fnSJ Stephanies Shitty Hand\fax-0.057557\frz-32.6063\frx1.9746\fry-3.6468\org(1168,479)\fscx79\fscy73\pos(1156.21,603.4)}MIÊU MIÊU
+Dialogue: 0,0:04:24.99,0:04:27.46,Signs,,0,0,0,,{\c&H050604&\blur0.8\fnSJ Beelzebrush Alt BB\b0\pos(1291.22,483.56)\fscx128\fscy91}QUÝ PHI\NNGỌC DIỆP
 Dialogue: 0,0:04:30.00,0:04:32.00,Signs,,0,0,0,,{\c&H212828&\blur0.8\fnSJ Beelzebrush Alt BB\b0\pos(960.22,486.56)\fscx122\fscy87}HIỀN PHI\NLÊ HOA
 Dialogue: 2,0:01:30.99,0:01:33.99,Signs,,0,0,0,,{\fad(300,300)\blur0.66\bord0\shad0\fnUVN Cat Bien\fscx80\fscy80\pos(960,102.67)\4c&H000000&\4a&H94&}Tác phẩm này là hư cấu, tất cả tên nhân vật, tổ chức đều là sản phẩm tưởng tượng.\N Ngoài ra, câu chuyện không liên quan tới các sự kiện và sự việc ngoài đời thực.
 Dialogue: 1,0:01:30.99,0:01:33.99,Signs,,0,0,0,,{\fad(300,300)\blur0.66\bord0.8\shad0\fnUVN Cat Bien\fscx80\fscy80\pos(960,102.67)\c&HA4A4A4&\3c&HA4A4A4&\t(0,266,1,\c&H000000&\3c&H000000&)\t(2734,0,1,\c&H6A6A6A&\3c&H6A6A6A&)}Tác phẩm này là hư cấu, tất cả tên nhân vật, tổ chức đều là sản phẩm tưởng tượng.\N Ngoài ra, câu chuyện không liên quan tới các sự kiện và sự việc ngoài đời thực.
