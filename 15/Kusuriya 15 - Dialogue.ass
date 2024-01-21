@@ -16,9 +16,9 @@ Video File: ../raws/Kusuriya - 15 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 337
-Active Line: 347
-Video Position: 32760
+Scroll Position: 182
+Active Line: 187
+Video Position: 16546
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -215,11 +215,11 @@ Dialogue: 0,0:11:04.98,0:11:07.37,Main,,0,0,0,,Nô tì đâu có nhượng bộ.
 Dialogue: 0,0:11:10.07,0:11:11.90,Main,,0,0,0,,M-Mang về luôn à?!
 Dialogue: 0,0:11:12.69,0:11:14.77,Main,,0,0,0,,Thứ này rất khả nghi.
 Dialogue: 0,0:11:15.11,0:11:18.58,Main,,0,0,0,,Mùa này vẫn còn quá sớm\Nđể thu hoạch rong biển.
-Dialogue: 0,0:11:18.58,0:11:21.45,Main,,0,0,0,,Mà nó lại không để được lâu quá lâu,
+Dialogue: 0,0:11:18.58,0:11:21.45,Main,,0,0,0,,Mà nó lại không để được quá lâu,
 Dialogue: 0,0:11:21.45,0:11:23.96,Main,,0,0,0,,kể cả có đem ngâm muối đi nữa.
 Dialogue: 0,0:11:24.61,0:11:25.68,Main,,0,0,0,,Hiểu rồi.
 Dialogue: 0,0:11:26.00,0:11:29.56,Main,,0,0,0,,Nô tì không nghĩ\Nnó được thu hoạch ở vùng này.
-Dialogue: 0,0:11:30.09,0:11:34.42,Main,,0,0,0,,Khả năng... nó được nhập từ các vùng phía Nam\Nqua các thương gia hoặc bằng cách nào đó.
+Dialogue: 0,0:11:30.09,0:11:34.42,Main,,0,0,0,,Khả năng... nó được nhập từ các vùng phía Nam\Nqua thương gia hoặc bằng cách nào đó.
 Dialogue: 0,0:11:35.20,0:11:38.65,Main,,0,0,0,,Nếu truy ra được nguồn gốc\Ncủa loại rong biển này thì tốt rồi.
 Dialogue: 0,0:11:42.47,0:11:44.77,Main,,0,0,0,,{\i1}Coi bộ anh ta hiểu ra rồi.
 Dialogue: 0,0:11:44.77,0:11:48.68,Main,,0,0,0,,{\i1}Đã vậy... giờ đến lượt mình làm việc cần làm.
