@@ -16,9 +16,9 @@ Video File: ../raws/Kusuriya - 16 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 336
-Active Line: 342
-Video Position: 32766
+Scroll Position: 285
+Active Line: 303
+Video Position: 26868
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,11 +39,11 @@ Comment: 0,0:22:35.04,0:22:35.08,Main,chptr,0,0,0,,{preview}
 Comment: 0,0:00:00.00,0:00:00.02,Main,,0,0,0,opsync,{frame-1}
 Comment: 0,0:21:12.63,0:21:12.67,Main,,0,0,0,edsync,{frame-coitran}
 Dialogue: 0,0:01:31.71,0:01:33.74,Main,,0,0,160,,Xin lỗi vì phiền đến ngươi, nhưng mà…
-Dialogue: 0,0:01:35.00,0:01:39.16,Main,,0,0,0,,{\i1}Trước giờ, vẫn luôn giao mấy việc phiền phức\N cho mình mà chẳng thèm hỏi trước cơ mà nhỉ.
-Dialogue: 0,0:01:39.16,0:01:41.46,Main,,0,0,0,,{\i1}Thế này chả giống \NNhâm Thị đại nhân chút nào.
+Dialogue: 0,0:01:35.00,0:01:39.16,Main,,0,0,0,,{\i1}Trước giờ, vẫn luôn giao mấy việc phiền phức\N cho mình mà chẳng thèm hỏi trước,
+Dialogue: 0,0:01:39.16,0:01:41.46,Main,,0,0,0,,{\i1}giờ lại thế này chả giống \NNhâm Thị đại nhân chút nào.
 Dialogue: 0,0:01:43.17,0:01:44.25,Main,,0,0,0,,Có chuyện gì vậy ạ?
 Dialogue: 0,0:01:44.63,0:01:45.67,Main,,0,0,0,,Thực ra là…
-Dialogue: 0,0:01:46.34,0:01:49.88,Main,,0,0,0,,có một rắc rối của \Nmột người quen của người quen của ta.
+Dialogue: 0,0:01:46.34,0:01:49.88,Main,,0,0,0,,có một rắc rối của một người quen \Ncủa người quen của ta.
 Dialogue: 0,0:01:51.30,0:01:55.89,Main,,0,0,0,,{\i1}Một thợ kim hoàn \Nchuyên phục vụ hoàng cung đã qua đời,
 Dialogue: 0,0:01:56.20,0:01:59.30,Main,,0,0,0,,{\i1}mà không kịp truyền lại \Nkỹ thuật cho mấy người con đang học việc.
 Dialogue: 0,0:02:00.35,0:02:04.90,Main,,0,0,0,,{\i1}Một số kỹ thuật trong đó\N chưa từng được truyền lại cho ai khác.
@@ -106,7 +106,7 @@ Dialogue: 0,0:05:11.00,0:05:11.68,Main,,0,0,0,,Ờ.
 Dialogue: 0,0:05:11.68,0:05:13.04,Main,,0,0,0,,Cảm ơn các vị đã đến.
 Dialogue: 0,0:05:13.30,0:05:15.67,Main,,0,0,0,,{\i1}"Các huynh" à... như vậy là...
 Dialogue: 0,0:05:15.67,0:05:18.05,Main,,0,0,0,,{\i1}anh chàng kia là con út.
-Dialogue: 0,0:05:18.46,0:05:20.58,Main,,0,0,0,,Cách sắp xếp đồ nội thất là thật đấy.
+Dialogue: 0,0:05:18.46,0:05:20.58,Main,,0,0,0,,Cách sắp xếp nội thất lạ thật đấy.
 Dialogue: 0,0:05:21.14,0:05:21.84,Main,,0,0,0,,Ê này!
 Dialogue: 0,0:05:22.39,0:05:23.43,Main,,0,0,0,,{\i1}Chính xác.
 Dialogue: 0,0:05:23.43,0:05:25.97,Main,,0,0,0,,{\i1}Đặt nội thất giữa phòng thế này \Nthật vướng víu.
@@ -131,7 +131,7 @@ Dialogue: 0,0:06:32.91,0:06:35.38,Main,,0,0,0,,{\i1}Ánh sáng chiếu vào bị
 Dialogue: 0,0:06:35.38,0:06:38.46,Main,,0,0,0,,{\i1}Chỗ này là chỗ duy nhất\N có đủ ánh mặt trời.
 Dialogue: 0,0:06:40.88,0:06:42.09,Main,,0,0,0,,{\i1}Vết này…
 Dialogue: 0,0:06:42.09,0:06:44.47,Main,,0,0,0,,{\i1}Từng có món đồ gì đó\N được đặt ở đây rất lâu sao?
-Dialogue: 0,0:06:44.74,0:06:48.47,Main,,0,0,0,,Có thật là hai vị sẽ thật sự tìm ra được\Nthông điệp của cha ta sao?
+Dialogue: 0,0:06:44.74,0:06:48.47,Main,,0,0,0,,Thật sự là hai vị sẽ tìm ra được\Nthông điệp của cha ta sao?
 Dialogue: 0,0:06:49.10,0:06:50.67,Main,,0,0,0,,Chuyện đó thì...
 Dialogue: 0,0:06:56.98,0:07:00.78,Main,,0,0,0,,Ta chưa thể nói gì chừng nào\Ncác vị chưa kể chi tiết câu chuyện.
 Dialogue: 0,0:07:02.11,0:07:04.32,Main,,0,0,0,,Đại nhân được nghe hết rồi còn gì.
@@ -256,7 +256,7 @@ Dialogue: 0,0:13:59.80,0:14:00.65,Main,,0,0,0,,Bên trong có gì thế?
 Dialogue: 0,0:14:03.12,0:14:04.12,Main,,0,0,0,,Cái gì thế này?
 Dialogue: 0,0:14:04.82,0:14:06.83,Main,,0,0,0,,{\i1}Đá pha lê màu xanh này...
 Dialogue: 0,0:14:07.29,0:14:10.79,Main,,0,0,0,,{\i1}giống với loại đá được bày trí ở cửa trước.
-Dialogue: 0,0:14:11.26,0:14:12.92,Main,,0,0,0,,Khốn kiếp! 
+Dialogue: 0,0:14:11.26,0:14:12.92,Main,,0,0,0,,Khốn kiếp!
 Dialogue: 0,0:14:12.92,0:14:15.08,Main,,0,0,0,,Sống hòa thuận\Nvới nhau làm quái gì chứ!
 Dialogue: 0,0:14:15.08,0:14:18.50,Main,,0,0,0,,Đến cuối cùng thì\Ncả đám bị cha chơi cho một vố!
 Dialogue: 0,0:14:18.50,0:14:19.76,Main,,0,0,0,,Không thể chịu nổi!
@@ -264,16 +264,16 @@ Dialogue: 0,0:14:20.47,0:14:22.67,Main,,0,0,0,,Chì và thiếc sao?
 Dialogue: 0,0:14:23.89,0:14:25.72,Main,,0,0,0,,{\i1}"Cần học hỏi kỹ năng bằng cách quan sát."
 Dialogue: 0,0:14:25.72,0:14:28.89,Main,,0,0,0,,{\i1}Mình đã nghe điều này\N từ vị khách là thợ thủ công.
 Dialogue: 0,0:14:29.64,0:14:31.31,Main,,0,0,0,,{\i1}Và mình đã nghe theo,
-Dialogue: 0,0:14:31.31,0:14:34.81,Main,,0,0,0,,{\i1}rồi học nghề dược của chà\N bằng cách bắt chước.
+Dialogue: 0,0:14:31.31,0:14:34.81,Main,,0,0,0,,{\i1}rồi học nghề dược của cha\N bằng cách bắt chước.
 Dialogue: 0,0:14:34.81,0:14:36.65,Main,,0,0,0,,{\i1}cuối cùng tự đầu độc chính mình.
 Dialogue: 0,0:14:36.65,0:14:38.82,Main,,0,0,0,,{\blur6\bord3\shad0}Trước tiên phải giảng đã chứ.
 Dialogue: 0,0:14:38.82,0:14:41.15,Main,,0,0,0,,{\i1}Sau đó thì cha kêu mình thế.
 Dialogue: 0,0:14:41.57,0:14:44.91,Main,,0,0,0,,{\i1}Chỉ có người con út là hiểu được\N thông điệp từ người cha quá cố.
 Dialogue: 0,0:14:44.91,0:14:46.16,Main,,0,0,0,,{\i1}Chắc là vậy rồi.
 Dialogue: 0,0:14:46.91,0:14:50.75,Main,,0,0,0,,{\i1}Miếng hàn sau khi được phối\N cùng nhiều kim loại khác,
-Dialogue: 0,0:14:50.75,0:14:54.95,Main,,0,0,0,,{\i1}sẽ có nhiệt độ nóng chảy \Nthấp hơn so với gốc.
+Dialogue: 0,0:14:50.75,0:14:54.95,Main,,0,0,0,,{\i1}sẽ có nhiệt độ nóng chảy \Nthấp hơn so với nhiệt độ gốc.
 Dialogue: 0,0:14:55.42,0:14:58.84,Main,,0,0,0,,{\i1}Trong ba khối hợp kim, \Ncó hai khối là chì và thiếc.
-Dialogue: 0,0:14:58.84,0:15:02.26,Main,,0,0,0,,{\i1}Biết đâu, \Nviệc phối thêm một loại kim loại thứ ba,
+Dialogue: 0,0:14:58.84,0:15:02.26,Main,,0,0,0,,{\i1}Biết đâu, \Nviệc phối thêm một kim loại thứ ba,
 Dialogue: 0,0:15:02.26,0:15:05.18,Main,,0,0,0,,{\i1}có thể tạo ra một hợp kim hoàn toàn mới?
 Dialogue: 0,0:15:05.93,0:15:09.68,Main,,0,0,0,,{\i1}Mặc dù bị làm nóng\N do chậu cá hội tụ ánh sáng,
 Dialogue: 0,0:15:09.68,0:15:12.81,Main,,0,0,0,,{\i1}nhưng thời gian làm nóng không lâu.
@@ -334,7 +334,7 @@ Dialogue: 0,0:18:21.96,0:18:26.75,Main,,0,0,0,,Có vẻ như họ đã khắc gh
 Dialogue: 0,0:18:27.30,0:18:29.51,Main,,0,0,0,,Người con cả sẽ lo việc sổ sách.
 Dialogue: 0,0:18:30.01,0:18:32.18,Main,,0,0,0,,Người con thứ thì lo việc buôn bán.
 Dialogue: 0,0:18:32.72,0:18:38.01,Main,,0,0,0,,Họ tiếp nối công việc của gia đình\N theo một cách khác.
-Dialogue: 0,0:18:38.30,0:18:39.60,Main,,0,0,0,,Nói cách khác,
+Dialogue: 0,0:18:38.30,0:18:39.60,Main,,0,0,0,,Mà kể ra thì...
 Dialogue: 0,0:18:39.60,0:18:43.14,Main,,0,0,0,,họ đều đã tìm được\Nvị trí phù hợp với mình.
 Dialogue: 0,0:18:45.10,0:18:48.27,Main,,0,0,0,,{\i1}Mình không biết chuyện xảy ra\N ở tư gia đó.
 Dialogue: 0,0:18:48.73,0:18:52.86,Main,,0,0,0,,{\i1}Nhưng chắc chắn... cô bé dược sư đó\N đã biết chuyện và giữ im lặng.
