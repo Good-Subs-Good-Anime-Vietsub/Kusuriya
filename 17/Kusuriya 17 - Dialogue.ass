@@ -15,10 +15,10 @@ Audio File: ../raws/Kusuriya - 17 (CR).mkv
 Video File: ../raws/Kusuriya - 17 (CR).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 324
-Active Line: 325
-Video Position: 30072
+Video Zoom Percent: 0.375000
+Scroll Position: 243
+Active Line: 283
+Video Position: 26695
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -51,8 +51,8 @@ Dialogue: 0,0:02:06.02,0:02:08.81,Main,,0,0,0,,Ngươi lại đang tưởng tư�
 Dialogue: 0,0:02:10.03,0:02:12.53,Main,,0,0,0,,Ngươi làm cái phấn mặt đó \Nkiểu gì vậy?
 Dialogue: 0,0:02:13.17,0:02:17.20,Main,,0,0,0,,{\i1}Ồ, thì ra trang điểm để trông mờ nhạt bớt, \Nkhông phải để đẹp hơn.
 Dialogue: 0,0:02:17.91,0:02:20.20,Main,,0,0,0,,Nô tì làm khô ít đất sét\Nvà nghiền thành bột,
-Dialogue: 0,0:02:20.83,0:02:22.83,Main,,0,0,0,,rồi hòa cùng với dầu.
-Dialogue: 0,0:02:23.46,0:02:25.06,Main,,0,0,0,,Có thể làm nhanh cho ta không?
+Dialogue: 0,0:02:20.83,0:02:22.83,Main,,0,0,0,,rồi đem hòa với dầu.
+Dialogue: 0,0:02:23.35,0:02:25.06,Main,,0,0,0,,Có thể làm nhanh cho ta không?
 Dialogue: 0,0:02:25.25,0:02:26.99,Main,,0,0,0,,Được ạ, một đêm là được.
 Dialogue: 0,0:02:28.92,0:02:31.45,Main,,0,0,0,,Chỗ này màu hơi tối\Nso với da Nhâm Thị đại nhân nhỉ.
 Dialogue: 0,0:02:31.75,0:02:34.68,Main,,0,0,0,,Giá mà có loại thuốc\Nlàm thay đổi gương mặt của ta.
@@ -82,12 +82,12 @@ Dialogue: 0,0:03:55.67,0:03:59.90,Main,,0,0,0,,Trang phục đại nhân đang m
 Dialogue: 0,0:04:00.21,0:04:04.77,Main,,0,0,0,,Chúng không có liên quan gì với\N loại gỗ hương chất lượng cao nhập từ hải ngoại về.
 Dialogue: 0,0:04:05.24,0:04:06.96,Main,,0,0,0,,Ngươi hiểu rõ nhỉ?
 Dialogue: 0,0:04:07.22,0:04:09.40,Main,,0,0,0,,Nô tì chỉ là có khứu giác nhạy bén,
-Dialogue: 0,0:04:09.40,0:04:11.57,Main,,0,0,0,,vì cần phân biệt \Ndược liệu và độc dược thôi.
+Dialogue: 0,0:04:09.40,0:04:11.57,Main,,0,0,0,,để phân biệt \Ndược liệu và độc dược thôi.
 Dialogue: 0,0:04:12.15,0:04:14.88,Main,,0,0,0,,Đại nhân có biết kỹ viện xác định\Nkhách sộp như nào không?
 Dialogue: 0,0:04:15.02,0:04:15.69,Main,,0,0,0,,Không.
 Dialogue: 0,0:04:16.00,0:04:17.70,Main,,0,0,0,,Có phải nhờ vào\Nvóc dáng và trang phục không?
 Dialogue: 0,0:04:18.01,0:04:21.55,Main,,0,0,0,,Cũng có một phần,\Nnhưng chủ yếu là dựa vào mùi hương.
-Dialogue: 0,0:04:22.16,0:04:25.33,Main,,0,0,0,,Một khách hàng có\Nnhiều mùi hương khác nhau gây khó chịu...
+Dialogue: 0,0:04:22.07,0:04:25.33,Main,,0,0,0,,Một khách hàng có\Nnhiều mùi hương khác nhau gây khó chịu...
 Dialogue: 0,0:04:25.33,0:04:28.41,Main,,0,0,0,,thường giàu có nhưng khả năng cao\Nmắc các bệnh tình dục.
 Dialogue: 0,0:04:28.67,0:04:32.71,Main,,0,0,0,,Nếu có mùi giống mùi gia súc\Nthì họ thường ít tắm và ở bẩn.
 Dialogue: 0,0:04:33.02,0:04:37.06,Main,,0,0,0,,Hầu hết khách mới\Nđến Lục Thanh Quán đều bị từ chối.
@@ -123,7 +123,7 @@ Dialogue: 0,0:06:27.27,0:06:28.37,Main,,0,0,0,,Ôi trời ơi~
 Dialogue: 0,0:06:30.86,0:06:36.08,Main,,0,0,0,,{\i1}Khuôn mặt và tướng tá hiện giờ \Nchẳng ăn nhập gì cả.
 Dialogue: 0,0:06:36.73,0:06:38.05,Main,,0,0,0,,Giờ thì đến khuôn mặt.
 Dialogue: 0,0:06:40.03,0:06:42.67,Main,,0,0,0,,Nô tì đã chế ra ít phấn đánh mặt tối màu.
-Dialogue: 0,0:06:42.95,0:06:46.64,Main,,0,0,0,,Nô tì sẽ dùng chúng để khiến làn da trông\Nrám nắng như dân thường.
+Dialogue: 0,0:06:42.95,0:06:46.64,Main,,0,0,0,,Sẽ dùng chúng để khiến làn da trông\Nrám nắng như dân thường.
 Dialogue: 0,0:06:47.22,0:06:48.50,Main,,0,0,0,,Đại nhân nhắm mắt lại đi ạ.
 Dialogue: 0,0:06:48.89,0:06:50.26,Main,,0,0,0,,Được.
 Dialogue: 0,0:06:53.06,0:06:56.25,Main,,0,0,0,,{\i1}Khuôn mặt hắn\N ở cự ly gần vẫn quá đẹp.
@@ -217,7 +217,7 @@ Dialogue: 0,0:12:05.40,0:12:08.74,Main,,0,0,0,,Cứ giao tiểu thư cho nô tà
 Dialogue: 0,0:12:09.57,0:12:11.34,Main,,0,0,0,,Cẩn trọng ạ!
 Dialogue: 0,0:12:14.80,0:12:17.04,Main,,0,0,0,,Vậy Nhâm Hoa đại nhân.
 Dialogue: 0,0:12:22.03,0:12:23.11,Main,,0,0,0,,Nhâm Hoa.
-Dialogue: 0,0:12:23.11,0:12:25.78,Main,,0,0,0,,Vâng, tiểu thư!
+Dialogue: 0,0:12:23.11,0:12:24.87,Main,,0,0,0,,Vâng, tiểu thư!
 Dialogue: 0,0:12:26.81,0:12:28.40,Main,,0,0,0,,Dáng vẻ hiên ngang quá rồi.
 Dialogue: 0,0:12:28.40,0:12:29.28,Main,,0,0,0,,Vâng!
 Dialogue: 0,0:12:34.19,0:12:36.07,Main,,0,0,0,,{\i1}Nhâm Hoa sao?
@@ -240,7 +240,7 @@ Dialogue: 0,0:13:41.55,0:13:44.47,Main,,0,0,0,,{\i1}Vẫn chưa đến mùa có 
 Dialogue: 0,0:13:47.60,0:13:49.68,Main,,0,0,0,,Được cho phép rồi, nên có lẽ...
 Dialogue: 0,0:13:49.68,0:13:52.27,Main,,0,0,0,,mình sẽ bảo họ mổ gà để làm món hầm.
 Dialogue: 0,0:13:52.27,0:13:53.52,Main,,0,0,0,,Mua đồ nấu ăn sao?
-Dialogue: 0,0:13:54.44,0:13:56.23,Main,,0,0,0,,Với ý phục như này?
+Dialogue: 0,0:13:54.44,0:13:56.23,Main,,0,0,0,,Với y phục như này?
 Dialogue: 0,0:14:03.99,0:14:06.99,Main,,0,0,0,,{\i1}Mình muốn mua ít đồ cho cha mà.
 Dialogue: 0,0:14:08.12,0:14:10.12,Main,,0,0,0,,{\i1}Cho đến nay thì...
 Dialogue: 0,0:14:10.12,0:14:13.25,Main,,0,0,0,,{\i1}cha là dược sư giỏi nhất trong khu,\N nhưng vì lý do nào đó...
@@ -253,7 +253,7 @@ Dialogue: 0,0:14:28.58,0:14:32.81,Main,,0,0,0,,{\i1}thì khả năng là lão t�
 Dialogue: 0,0:14:42.57,0:14:43.40,Main,,0,0,0,,Sao thế?
 Dialogue: 0,0:14:43.72,0:14:44.99,Main,,0,0,0,,Sao ngươi không nói gì?
 Dialogue: 0,0:14:46.08,0:14:48.34,Main,,0,0,0,,Thì bởi có gì để nói đâu?
-Dialogue: 0,0:14:51.75,0:14:54.37,Main,,0,0,0,,{\i1}Bộ mình nói gì động chạm gì à?
+Dialogue: 0,0:14:51.75,0:14:54.37,Main,,0,0,0,,{\i1}Bộ mình nói gì động chạm à?
 Dialogue: 0,0:14:56.29,0:14:57.50,Main,,0,0,0,,Ơ, mùi hương này…
 Dialogue: 0,0:14:58.17,0:14:59.25,Main,,0,0,0,,Xiên gà nướng!
 Dialogue: 0,0:14:59.75,0:15:01.21,Main,,0,0,0,,Chờ một chút nhé.
@@ -273,13 +273,13 @@ Dialogue: 0,0:15:52.75,0:15:56.69,Main,,0,0,0,,{\i1}Mình tưởng thái giám k
 Dialogue: 0,0:15:58.36,0:16:00.69,Main,,0,0,0,,{\i1}Cơ mà trông hắn ăn ngon ghê.
 Dialogue: 0,0:16:04.61,0:16:07.49,Main,,0,0,0,,Mừng trở lại, ngài Cao Thuận.
 Dialogue: 0,0:16:07.99,0:16:10.17,Main,,0,0,0,,Đừng chạm vào đồ mây đan.
-Dialogue: 0,0:16:10.57,0:16:12.99,Main,,0,0,0,,Tôi mới thoa ít nước ép quả hồng vàng lên đó.
+Dialogue: 0,0:16:10.57,0:16:12.99,Main,,0,0,0,,Tôi mới thoa\N ít nước ép quả hồng vàng lên đó.
 Dialogue: 0,0:16:13.54,0:16:15.38,Main,,0,0,0,,Chúng là đồ chơi của thiếu gia.
 Dialogue: 0,0:16:15.38,0:16:16.94,Main,,0,0,0,,Hoài niệm nhỉ?
 Dialogue: 0,0:16:17.25,0:16:18.17,Main,,0,0,0,,Vâng.
 Dialogue: 0,0:16:18.87,0:16:20.99,Main,,0,0,0,,Thế mọi chuyện sao rồi?
 Dialogue: 0,0:16:21.34,0:16:23.30,Main,,0,0,0,,Thiếu gia đang rất cao hứng.
-Dialogue: 0,0:16:25.34,0:16:28.43,Main,,0,0,0,,Không ngờ ngài lại nghĩ ý hay như vậy đó.
+Dialogue: 0,0:16:25.34,0:16:28.43,Main,,0,0,0,,Không ngờ ngài lại nghĩ ra\N ý hay như vậy đó.
 Dialogue: 0,0:16:30.30,0:16:32.35,Main,,0,0,0,,Một khi tìm thấy món đồ chơi yêu thích,
 Dialogue: 0,0:16:32.35,0:16:35.48,Main,,0,0,0,,thiếu gia sẽ chỉ chơi với món đồ chơi đó.
 Dialogue: 0,0:16:37.38,0:16:41.65,Main,,0,0,0,,Nếu đồ chơi bị giấu đi, thiếu gia sẽ\Nkhóc toáng lên đến mức không ai dỗ được.
@@ -315,7 +315,7 @@ Dialogue: 0,0:18:21.60,0:18:24.08,Main,,0,0,0,,Họ nói các vị thần\Nkhôn
 Dialogue: 0,0:18:24.08,0:18:26.21,Main,,0,0,0,,nhưng ông ấy lại được hai thứ đó.
 Dialogue: 0,0:18:26.21,0:18:28.76,Main,,0,0,0,,Chắc ông ấy tuyệt vời lắm.
 Dialogue: 0,0:18:29.29,0:18:32.59,Main,,0,0,0,,Nhưng sao một người như vậy\Nlại làm dược sư ở phố thanh lâu?
-Dialogue: 0,0:18:33.39,0:18:36.17,Main,,0,0,0,,cha được ban cho nhiều thứ\N trừ vận may.
+Dialogue: 0,0:18:33.39,0:18:36.17,Main,,0,0,0,,Cha được ban cho nhiều thứ\N trừ vận may.
 Dialogue: 0,0:18:36.51,0:18:38.53,Main,,0,0,0,,Ông có hai tài năng,
 Dialogue: 0,0:18:38.53,0:18:40.85,Main,,0,0,0,,nhưng đã bị lấy đi\Nmột bộ phận quý báu trên người.
 Dialogue: 0,0:18:42.23,0:18:46.23,Main,,0,0,0,,Ý ngươi là... \Ncha nuôi ngươi là thái giám sao?
